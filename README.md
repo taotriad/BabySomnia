@@ -48,7 +48,7 @@ Extra material that is recommended for every everyone are tagged with [A].
 There will be no specific tags for people who want to get to know
 Dreamcatcher in general; for music just think of yourself as a reactor.
 
-[0] [Some general K-pop terminology if you need a primer](Kpop_terminology_primer.md)
+[0] [Some general K-pop terminology if you need a primer](Kpop_terminology_primer.md)  
 [1][6] [Dreamcatcher specific terminology](Dreamcatcher_specific_terminology_primer.md)
 
 [A] [Basic facts about Dreamcatcher](Basic_facts_about_Dreamcatcher.md)
