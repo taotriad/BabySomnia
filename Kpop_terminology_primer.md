@@ -1,0 +1,89 @@
+# K-pop terminology primer
+
+* **7-year curse**: Most idols sign contracts that run for 7 years from
+  debut (unless the group is disbanded before that). The 7-year curse
+  refers to the fact that most groups don't make it past year 7 because
+  some of the group members tend to want a solo career, other wants to
+  quit entirely, etc.
+* **Aegyo**: Extremely cute behaviour. Described by Sunny of Girls' Generation
+  (aka SNSD), one of the most famous K-pop groups ever,
+  as "cuteness that calls for a punch".
+* **Album**: Typically more songs than a mini album...
+* **Boy Group**: Not unsurprisingly an idol group with only boys.
+* **Concept**: The theme that the band wants to project. Most bands tend to
+  follow trends and change concept almost every comeback.
+* **Comeback**: Any subsequent release. Unlike Western terminology where
+  the term tends to imply that the artist has been inactive during an
+  extended period of time in-between releases, in K-pop the term
+  simply means a new release.
+* **Coed Group**: A group with a mix of boys and girls. Very rare.
+* **Debut**: An idol's or group's first official release.
+* **Disbandment**: Typically describes when the companies that an idol
+  group belongs to decides that the group no longer deserves to continue
+  existing.
+* **Girl Group**: An idol group with only girls. Duh.
+* **Mini album**: Typically more songs than than a single album...
+* **Mukband**: Food related content.
+* **Music show**: Traditionally new releases are promoted at music
+  shows. Based on an aggregate of public votes, sales, streaming
+  figures, etc. the shows will then present their weekly winners.
+* **Promotion**: The period after a comeback during which the idol or
+  idol group promotes their new release.
+* The Big 4; the biggest 4 companies. They have vastly more resources to
+  spend on marketing, choreographers, song writers, etc., and often have
+  connections with both the Music Shows and with other shows where the
+  idols and idol groups typically promote.
+* **Re-debut**: A very rare occurrence, where an idol or group is given a
+  "second life" by making another debut in a different group, or with
+  a new group name. This typically involves changing concept too.
+* **Resign**: Confusingly enough the term resign in K-pop terms refers
+  to renewing a contract (re-sign), not quitting. A group that resigns
+  (renews their contract) generally is considered to have survived
+  the 7-year curse.
+* **Sasaeng**: A stalker or person who buys and sells private
+  information about idols.
+* **Single album**: Typically not just one song...
+* **Stan**: A fan.
+* **Win**: Winning a music show weekly trophy. A music show win is
+  considered a *hugely* important milestone in the career of an idol
+  or idol group; groups that repeatedly fail to a get a win tend to
+  get disbanded by their company.
+
+## Group positions
+
+* **Dancer (Lead)**: The front line dancers behind the main dancer.
+* **Dancer (Main)**: The best dancer in the group. Often expected to be able
+  to help the rest of the members learn their choreography
+  (since choreographers' time is money). Often have solo dance parts.
+* **Dancer**: The remaining dancers.
+* **Leader**: Hopefully self-explanatory.
+* **Maknae**: The youngest member of an idol group.
+* **Rapper (Main)**: Reflecting the position of the main vocalist the main
+  rapper does most of the rapping; many groups have only one rapper,
+  some does not have any rapper at all. Rappers often participe
+  in writing their own lyrics. Rappers often have different choreography
+  than the other members during their raps; sometimes the rest of the
+  members will stand aside completely during the rap.
+* **Rapper (Lead)**: If the group has more than one rapper they tend to be
+  named lead rappers analogous to lead vocalists.
+* **Rapper (Sub)**: Slightly less common than sub vocalist;
+  typically a better rapper than non-rapping members. Often referred to
+  as just rapper.
+* **Visual**: The member of an idol group that most closely resembles Korean
+  beauty standards.
+* **Vocalist (Lead)**: All-round singers that typically does bridges or
+  verses; groups with several vocalists typically have more than one
+  lead vocalist.
+* **Vocalist (Main)**: Unlike typical Western terminology the #1 vocalist in a
+  group is called main vocalist, *not* lead vocalist. The main vocalist
+  often does high notes, belts, vocal runs, the higher part of
+  harmonies, ad libs, and tends to be the member who first gets to do a
+  solo debut. Usually groups only have one main vocalist.
+  Due to their often more heavy load they sometimes break formation
+  while the rest of the group is dancing, to ensure full breath control
+  during intense belts, high notes, etc.
+* **Vocalist (Sub)**: Vocalists that either have a narrower scope
+  as vocalists due to the range or colour of their voice, or because
+  they have other tasks in the group (for instance a main dancer might
+  not be expected to also do lead vocalist duties). Sometimes referred
+  to as just vocalist.
