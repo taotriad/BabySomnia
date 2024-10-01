@@ -128,4 +128,4 @@ These will be in the section Recommended Viewing.
 Dreamcatcher eat and/or talk about food quite a lot in their behind the scenes and vlogs. If you enjoy seeing idols eating, you'll have plenty of bonus material to watch.
 If you *don't* like seeing idols eat sticking to just music videos might be your best bet--there will be no trigger warnings for food.
 
-(Time to get started)[Video_guide.md]
+[Time to get started](Video_guide.md)
