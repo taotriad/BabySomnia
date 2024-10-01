@@ -17,8 +17,8 @@ you should be aware that all Dreamcatcher main title videos
 have a deeper meaning.
 
 Therefore there all main titles will have two links attached;
-one to [H]ints and details to look out for.
-One to a more [C]omprehensive explanation.
+one to **[H]**ints and details to look out for.
+One to comments that contain **[S]**poilers.
 
 Furthermore a lot of the main titles are grouped into storylines.
 There'll be links to explanations for that too.
@@ -27,31 +27,32 @@ You can use the checklist as a reference when figuring out
 what information in the guide is relevant to your particular
 interests.
 
-[0] Are you completely new to K-pop?  
-[1] Are you planning to do reaction videos?  
-[2] Do you like rock music?  
-[3] Did you find out about Dreamcatcher through random weird clips?  
-[4] Do you like watching choreography videos?  
-[5] Are you attracted to women?  
-[6] Do you want the backstory of the group?  
-[7] Are you interested in covers?  
-[8] Are you interested solo songs and/or subunits?  
-[9] Do you like food related videos?  
+**[0]** Are you completely new to K-pop?  
+**[1]** Are you planning to do reaction videos?  
+**[2]** Do you like rock music?  
+**[3]** Did you find out about Dreamcatcher through random weird clips?  
+**[4]** Do you like watching choreography videos?  
+**[5]** Are you attracted to women?  
+**[6]** Do you want the backstory of the group?  
+**[7]** Are you interested in covers?  
+**[8]** Are you interested solo songs and/or subunits?  
+**[9]** Do you like food related videos?  
 
 For of the titles before there are multiple video links.
 One will always be the primary music video (if any). The remaining links
 are typically performances with a live band, self-made music videos, etc.
-Videos that are primarily dance focused are tagged with [4],
-if they're primarily goofy they're tagged with [3].
+Videos that are primarily dance focused are tagged with **[4]**,
+if they're primarily goofy they're tagged with **[3]**.
 
-Extra material that is recommended for every everyone are tagged with [A].
+Extra material that is recommended for every everyone are tagged with **[A]**.
+Extra material that complements an era is tagged with **[X]**.
 There will be no specific tags for people who want to get to know
 Dreamcatcher in general; for music just think of yourself as a reactor.
 
-[0] [Some general K-pop terminology if you need a primer](Kpop_terminology_primer.md)  
-[1][6] [Dreamcatcher specific terminology](Dreamcatcher_specific_terminology_primer.md)
+**[0]** [Some general K-pop terminology if you need a primer](Kpop_terminology_primer.md)  
+**[1][6]** [Dreamcatcher specific terminology](Dreamcatcher_specific_terminology_primer.md)
 
-[A] [Basic facts about Dreamcatcher](Basic_facts_about_Dreamcatcher.md)
+**[A]** [Basic facts about Dreamcatcher](Basic_facts_about_Dreamcatcher.md)
 
 ## [1] This to think about when doing reaction videos
 
@@ -86,7 +87,7 @@ and *completely* lack interest in anything music related, there's still
 a whole world of weird and fun stuff to watch. That said, if you didn't
 also check [9] the list of material will decrease quite dramatically.
 
-Videos tagged [3][4] have very amusing choreography that likely to
+Videos tagged **[3][4]** have very amusing choreography that likely to
 entertain even though they are centered around music & choreography.
 
 ## [4] Choreography videos
