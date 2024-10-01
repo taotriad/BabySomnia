@@ -17,11 +17,11 @@ you should be aware that all Dreamcatcher main title videos
 have a deeper meaning.
 
 Therefore there all main titles will have two links attached;
-one to **[H]**ints and details to look out for.
-One to comments that contain **[S]**poilers.
+one to **[H]** ints and details to look out for.
+One to comments that contain **[S]** poilers.
 
 Furthermore a lot of the main titles are grouped into storylines.
-There'll be links to explanations for that too.
+The storylines are introduced in the first title of the series.
 
 You can use the checklist as a reference when figuring out
 what information in the guide is relevant to your particular
