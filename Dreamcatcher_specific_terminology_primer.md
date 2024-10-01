@@ -1,6 +1,6 @@
 # Terminology specific to Dreamcatcher
 
-* **Cherry**: JiU's pomeranian. JiU's solo song Cherry (Real Miracle) is
+* **Cherry**: JiU's pomeranian. JiU's solo song [Cherry (Real Miracle)](https://www.youtube.com/watch?v=2L0q-nWS1xA) is
   about, and dedicated to, Cherry.
 * **Dal★Shabet**: Dreamcatcher & Minx' sunbaenims at Happyface
   Entertainment.
@@ -18,6 +18,8 @@
 * **InSomnia**: The name of Dreamcatcher's official fan club. Often
   nicknamed Somnia. The word consists of the Latin words In Somnia
   joined up, meaning "In Dreams".
+* **Minx**: A group with the cute concept consisting of JiU, SuA, Siyeon,
+  Yoohyeon, and Dami.
 * **Mongmongie**: Dreamcatcher's lightstick; it is certified to be the
   longest lightstick in K-pop since it's extensible with extra segments
   that can be bought separately (two extra segments are included with
