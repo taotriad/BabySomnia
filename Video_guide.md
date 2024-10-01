@@ -41,9 +41,12 @@
 Are you still with us? Like what you've been hearing so far?
 Let's do a few B-sides that will give you a first glimpse of the real people behind the polished idol surface.
 
-**[3]** These two videos are a **must** even if you're only here because of random weird clips.
+## [3] First batch of B-sides
 
+**[3]** These two videos are a **must** even if you're only here because of random weird clips.
 *Prediction*: If you enjoy these videos you're one of us.
+
+### Music videos
 
 * [Sahara](https://www.youtube.com/watch?v=BgLhbkKu1s4) *(Self-made MV)* [[H]](Sahara_hints.md)
 * [Poison Love](https://www.youtube.com/watch?v=wKXjvh-wYKY) *(Self-made MV)* [[H]](Poison_Love_hints.md)
@@ -64,7 +67,7 @@ Chase Me and Good Night should ideally be watched back to back.
 * [What](https://www.youtube.com/watch?v=pN0dkjp1deQ) [[H]](What_hints.md)
 * [Piri](https://www.youtube.com/watch?v=Pq_mbTSR-a0) [[H]](Piri_hints.md), [[S]](Piri_spoilers.md)
 * **[X]** [Breaking Out](https://www.youtube.com/watch?v=SHmOpFbFgrM) [[S]](Breaking_Out_spoilers.md) (Japanese release connected to the Nightmare era)
-* **[X]** [The Curse of the Spider (2024 Concert Version)](https://www.youtube.com/watch?v=JUcuTIMTZq4) [[H]](Curse_of_the_Spider.md) (B-side connected to the Nightmare era)
+* **[X]** [The Curse of the Spider (2024 Concert Version)](https://www.youtube.com/watch?v=JUcuTIMTZq4) [[H]](Curse_of_the_Spider_hints.md) (B-side connected to the Nightmare era)
 
 ### Alternate versions
 
