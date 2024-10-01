@@ -67,7 +67,7 @@ Chase Me and Good Night should ideally be watched back to back.
 * [What](https://www.youtube.com/watch?v=pN0dkjp1deQ) [[H]](What_hints.md)
 * [Piri](https://www.youtube.com/watch?v=Pq_mbTSR-a0) [[H]](Piri_hints.md), [[S]](Piri_spoilers.md)
 * **[X]** [Breaking Out](https://www.youtube.com/watch?v=SHmOpFbFgrM) [[S]](Breaking_Out_spoilers.md) (Japanese release connected to the Nightmare era)
-* **[X]** [The Curse of the Spider (2024 Concert Version)](https://www.youtube.com/watch?v=JUcuTIMTZq4) [[H]](Curse_of_the_Spider_hints.md) (B-side connected to the Nightmare era)
+* **[X]** [The Curse of the Spider (2024 Concert Version)](https://www.youtube.com/watch?v=JUcuTIMTZq4) (B-side connected to the Nightmare era)
 
 ### Alternate versions
 
