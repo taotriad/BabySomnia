@@ -25,9 +25,9 @@
 
 ### Music videos
 
-* [Scream](https://www.youtube.com/watch?v=FKlGHHhTOsQ) [H](Scream_hints.md), [C](Scream_comprehensive_guide.md)
-* [BOCA](https://www.youtube.com/watch?v=MZ4JGye4dQU) [H](BOCA_hints.md), [C](BOCA_comprehensive_guide.md)
-* [Odd Eye](https://www.youtube.com/watch?v=1QD0FeZyDtQ) [H](Odd_Eye_hints.md), [C](Odd_Eye_comprehensive_guide.md)
+* [Scream](https://www.youtube.com/watch?v=FKlGHHhTOsQ) [[H]](Scream_hints.md), [[S]](Scream_comprehensive_guide.md)
+* [BOCA](https://www.youtube.com/watch?v=MZ4JGye4dQU) [[H]](BOCA_hints.md), [[S]](BOCA_comprehensive_guide.md)
+* [Odd Eye](https://www.youtube.com/watch?v=1QD0FeZyDtQ) [[H]](Odd_Eye_hints.md), [[S]](Odd_Eye_comprehensive_guide.md)
 
 ### Alternate versions
 
@@ -45,8 +45,8 @@ Let's do a few B-sides that will give you a first glimpse of the real people beh
 
 *Prediction*: If you enjoy these videos you're one of us.
 
-* [Sahara](https://www.youtube.com/watch?v=BgLhbkKu1s4) *(Self-made MV)* [H](Sahara_hints.md)
-* [Poison Love](https://www.youtube.com/watch?v=wKXjvh-wYKY) *(Self-made MV)* [H](Poison_Love_hints.md)
+* [Sahara](https://www.youtube.com/watch?v=BgLhbkKu1s4) *(Self-made MV)* [[H]](Sahara_hints.md)
+* [Poison Love](https://www.youtube.com/watch?v=wKXjvh-wYKY) *(Self-made MV)* [[H]](Poison_Love_hints.md)
 
 If you did **not** enjoy these videos you're unlikely to enjoy their behind-the-scenes, vlogs, vlives, etc.
 
@@ -57,14 +57,14 @@ Chase Me and Good Night should ideally be watched back to back.
 
 ### Music videos
 
-* [Chase Me](https://www.youtube.com/watch?v=zihoyz0u_cs) *(Debut)* [H](Chase_Me_hints.md), [C](Chase_Me_comprehensive_guide.md)
-* [Good Night](https://www.youtube.com/watch?v=Lxfl8LRab_I) [H](Good_Night_hints.md), [C](Good_Night_comprehensive_guide.md)
-* [Fly High](https://www.youtube.com/watch?v=39yeTdIuKJU) [H](Fly_High_hints.md)
-* [You and I](https://www.youtube.com/watch?v=LFxjwBfFIiY) [H](You_and_I_hints.md)
-* [What](https://www.youtube.com/watch?v=pN0dkjp1deQ) [H](What_hints.md)
-* [Piri](https://www.youtube.com/watch?v=Pq_mbTSR-a0) [H](Piri_hints.md), [C](Piri_comprehensive_guide.md)
-* **[X]** [Breaking Out](https://www.youtube.com/watch?v=SHmOpFbFgrM) [C](Breaking_Out_comprehensive_guide.md) (Japanese release connected to the Nightmare era)
-* **[X]** [The Curse of the Spider (2024 Concert Version)](https://www.youtube.com/watch?v=JUcuTIMTZq4) [H](Curse_of_the_Spider.md) (B-side connected to the Nightmare era)
+* [Chase Me](https://www.youtube.com/watch?v=zihoyz0u_cs) *(Debut)* [[H]](Chase_Me_hints.md), [[S]](Chase_Me_comprehensive_guide.md)
+* [Good Night](https://www.youtube.com/watch?v=Lxfl8LRab_I) [[H]](Good_Night_hints.md), [[S]](Good_Night_comprehensive_guide.md)
+* [Fly High](https://www.youtube.com/watch?v=39yeTdIuKJU) [[H]](Fly_High_hints.md)
+* [You and I](https://www.youtube.com/watch?v=LFxjwBfFIiY) [[H]](You_and_I_hints.md)
+* [What](https://www.youtube.com/watch?v=pN0dkjp1deQ) [[H]](What_hints.md)
+* [Piri](https://www.youtube.com/watch?v=Pq_mbTSR-a0) [[H]](Piri_hints.md), [[S]](Piri_comprehensive_guide.md)
+* **[X]** [Breaking Out](https://www.youtube.com/watch?v=SHmOpFbFgrM) [[S]](Breaking_Out_comprehensive_guide.md) (Japanese release connected to the Nightmare era)
+* **[X]** [The Curse of the Spider (2024 Concert Version)](https://www.youtube.com/watch?v=JUcuTIMTZq4) [[H]](Curse_of_the_Spider.md) (B-side connected to the Nightmare era)
 
 ### Alternate versions
 
