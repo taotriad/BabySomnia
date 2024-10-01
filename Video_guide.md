@@ -12,7 +12,7 @@
 
 ### Music videos
 
-* [Deja Vu](https://www.youtube.com/watch?v=W761DtH1oRg)
+* [Deja Vu](https://www.youtube.com/watch?v=W761DtH1oRg) [[H]](Deja_Vu_hints.md), [[S]](Deja_Vu_spoilers.md)
 
 ### Alternate versions
 
@@ -25,9 +25,9 @@
 
 ### Music videos
 
-* [Scream](https://www.youtube.com/watch?v=FKlGHHhTOsQ) [[H]](Scream_hints.md), [[S]](Scream_comprehensive_guide.md)
-* [BOCA](https://www.youtube.com/watch?v=MZ4JGye4dQU) [[H]](BOCA_hints.md), [[S]](BOCA_comprehensive_guide.md)
-* [Odd Eye](https://www.youtube.com/watch?v=1QD0FeZyDtQ) [[H]](Odd_Eye_hints.md), [[S]](Odd_Eye_comprehensive_guide.md)
+* [Scream](https://www.youtube.com/watch?v=FKlGHHhTOsQ) [[H]](Scream_hints.md), [[S]](Scream_spoilers.md)
+* [BOCA](https://www.youtube.com/watch?v=MZ4JGye4dQU) [[H]](BOCA_hints.md), [[S]](BOCA_spoilers.md)
+* [Odd Eye](https://www.youtube.com/watch?v=1QD0FeZyDtQ) [[H]](Odd_Eye_hints.md), [[S]](Odd_Eye_spoilers.md)
 
 ### Alternate versions
 
@@ -57,13 +57,13 @@ Chase Me and Good Night should ideally be watched back to back.
 
 ### Music videos
 
-* [Chase Me](https://www.youtube.com/watch?v=zihoyz0u_cs) *(Debut)* [[H]](Chase_Me_hints.md), [[S]](Chase_Me_comprehensive_guide.md)
-* [Good Night](https://www.youtube.com/watch?v=Lxfl8LRab_I) [[H]](Good_Night_hints.md), [[S]](Good_Night_comprehensive_guide.md)
+* [Chase Me](https://www.youtube.com/watch?v=zihoyz0u_cs) *(Debut)* [[H]](Chase_Me_hints.md), [[S]](Chase_Me_spoilers.md)
+* [Good Night](https://www.youtube.com/watch?v=Lxfl8LRab_I) [[H]](Good_Night_hints.md), [[S]](Good_Night_spoilers.md)
 * [Fly High](https://www.youtube.com/watch?v=39yeTdIuKJU) [[H]](Fly_High_hints.md)
 * [You and I](https://www.youtube.com/watch?v=LFxjwBfFIiY) [[H]](You_and_I_hints.md)
 * [What](https://www.youtube.com/watch?v=pN0dkjp1deQ) [[H]](What_hints.md)
-* [Piri](https://www.youtube.com/watch?v=Pq_mbTSR-a0) [[H]](Piri_hints.md), [[S]](Piri_comprehensive_guide.md)
-* **[X]** [Breaking Out](https://www.youtube.com/watch?v=SHmOpFbFgrM) [[S]](Breaking_Out_comprehensive_guide.md) (Japanese release connected to the Nightmare era)
+* [Piri](https://www.youtube.com/watch?v=Pq_mbTSR-a0) [[H]](Piri_hints.md), [[S]](Piri_spoilers.md)
+* **[X]** [Breaking Out](https://www.youtube.com/watch?v=SHmOpFbFgrM) [[S]](Breaking_Out_spoilers.md) (Japanese release connected to the Nightmare era)
 * **[X]** [The Curse of the Spider (2024 Concert Version)](https://www.youtube.com/watch?v=JUcuTIMTZq4) [[H]](Curse_of_the_Spider.md) (B-side connected to the Nightmare era)
 
 ### Alternate versions
@@ -71,3 +71,29 @@ Chase Me and Good Night should ideally be watched back to back.
 * **[4]** [Chase Me (Dance Video)](https://www.youtube.com/watch?v=jRW29bBK_oM) *(Chase Me is still regarded as one of their most demanding choreographies; several other companies have used it to test trainees.)*
 * **[4]** [Good Night Dance Video](https://www.youtube.com/watch?v=2-kCpiibFAg) *(The choreo, especially the intro, is fantastic)*
 * **[4]** [Good Night Dance Practice)](https://www.youtube.com/watch?v=ceABfphGjUo) *(The dance practice video is probably better though, since it shows off the footwork in the intro)*
+
+## **[1][6]** The History of Dreamcatcher
+
+While it's not strictly necessary to know the full history of Dreamcatcher when doing reactions,
+I'm recommending this video for two reasons:
+
+1. The video is highly entertaining
+2. I gives some insight into just how tough their journey has been
+
+### Documentary video
+
+* [Dodging Disbandment and Other Extreme Sports: A History of Dreamcatcher](https://www.youtube.com/watch?v=YIgCAp3i1os)
+
+## Interlude II
+
+If you've made it here, and still enjoy yourself, consider yourself a BabySomnia!
+As JiU once said, "Dreamcatcher is like a black hole. Once you go in you won't be able to get out."
+
+## [1] Two More Stand-alone releases
+
+Not all Dreamcatcher releases belong to story archs.
+
+### Music videos
+
+* [R.o.S.E. BLUE](https://www.youtube.com/watch?v=Lja79dlQiZI) [[H]](RoSE_BLUE_hints.md), [[S]](RoSE_BLUE_spoilers.md)
+* [BEcause](https://www.youtube.com/watch?v=PEKkdIT8JPM) [[H]](BEcause_hints.md), [[S]](BEcause_spoilers.md)
