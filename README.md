@@ -54,17 +54,17 @@ Dreamcatcher in general; for music just think of yourself as a reactor.
 
 **[A]** [Basic facts about Dreamcatcher](Basic_facts_about_Dreamcatcher.md)
 
-## [1] This to think about when doing reaction videos
+## [1] Things to keep in mind when doing reaction videos
 
 If you plan to react to their music, here are a few things to keep in mind:
 
-* Based on observing past reactions and my own experience it's almost impossible to focus on lyrics, music, and music video at the same time; 2 viewings might be a good idea, or just listening to the song first without the video.
-* Don't spend too much effort on telling the members apart. That'll come with experience.
+* Since the Dreamcatcher music videos are story heavy, most reactors seem to have a difficult time focusing on lyrics, music, and music video at the same time; 2 viewings might be a good idea, or just listening to the song first without the video.
+* Don't spend too much effort on trying to tell the members apart at first. That'll come with experience.
 * Finding correct lyrics videos, especially with correct line distribution, is tricky.
-* Most of their official music videos have subtitles. A few show the name of the artists, which is helpful to get to recognise the members.
-* While it might be tempting to skip around randomly, their songs are grouped into themes; the music videos, and to some degree also the lyrics, are connected.
-* Dreamcatcher Company does not seem to file copyright claims on YouTube. Japanese labels are typically stricter about copyright, but there enough reactions to Dreamcatcher's Japanese releases to indicate this might not be an issue in Dreamcatcher's case.
-* Music Shows are *very* eager to file copyright claims. Some really good, and historically important, material is likely to be tricky to react to. My suggestion is to ask other reactors about their experience.
+* Most of their official music videos have subtitles. A few of them have subtitles that are prefixed with the name of the vocalist/rapper performing the current line, which is helpful to get to recognise the members.
+* While it might be tempting to skip around randomly, Dreamcatcher's songs are grouped into themes; the music videos, and to some degree also the lyrics, are connected. Watching MVs within an era in the wrong order will be confusing.
+* **Dreamcatcher Company** does not seem to file copyright claims on YouTube. Japanese labels are typically stricter about copyright, but there enough reactions to Dreamcatcher's Japanese releases to indicate this might not be an issue in Dreamcatcher's case.
+* **Music Shows** are *very* eager to file copyright claims. Some really good, and historically important, material is likely to be tricky to react to. My suggestion is to ask other reactors about their experience.
 
 ## [2] Rock music
 
@@ -85,7 +85,7 @@ least?
 If you came in contact with Dreamcatcher through watching random clips,
 and *completely* lack interest in anything music related, there's still
 a whole world of weird and fun stuff to watch. That said, if you didn't
-also check [9] the list of material will decrease quite dramatically.
+also check **[9]** the list of material will decrease quite dramatically.
 
 Videos tagged **[3][4]** have very amusing choreography that likely to
 entertain even though they are centered around music & choreography.
