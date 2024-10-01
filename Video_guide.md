@@ -25,17 +25,30 @@
 
 ### Music videos
 
-* Scream *(Note: Handong is missing in this video, but represented by a dancer wearing a mask)*
-* BOCA *(Note: Handong is missing in this video too)*
-* Odd Eye
+* Scream *(Note: Handong is missing in this video, but represented by a dancer wearing a mask)* [H](Scream_hints.md), [C](Scream_comprehensive_guide.md)
+* BOCA *(Note: Handong is missing in this video too)* [H](BOCA_hints.md), [C](BOCA_comprehensive_guide.md)
+* Odd Eye [H](Odd_Eye_hints.md), [C](Odd_Eye_comprehensive_guide.md)
 
 ### Alternate versions
 
-* [3][4] Zombie version
-* [4] Choreo version
+* [3][4] BOCA Zombie version
+* [4] BOCA Choreo version
 
 
 ## Interlude
 
-Are you still with us? Like what you've been hearing so far? Let's take
-a risk and go back in time to their first story arch.
+Are you still with us? Like what you've been hearing so far?
+Let's do a few B-sides that will give you a first glimpse of the real people behind the polished idol surface.
+
+[3] These two videos are a **must** even if you're only here because of random weird clips.
+
+*Prediction*: If you enjoy these videos you're one of us.
+
+* [3] Sahara *(Self-made MV)* [H](Sahara_hints.md)
+* Poison Love *(Self-made MV)* [H](Poison_Love_hints.md)
+
+If you did **not** enjoy these videos you're unlikely to enjoy their behind-the-scenes, vlogs, vlives, etc.
+
+## [1] Back to A-sides (The Nightmare Era)
+
+This is their longest story line. It's also their first. They're younger, have lower budget for the videos,

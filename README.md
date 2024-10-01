@@ -17,8 +17,8 @@ you should be aware that all Dreamcatcher main title videos
 have a deeper meaning.
 
 Therefore there all main titles will have two links attached;
-one to Hints and details to look out for.
-One to a more comprehensive explanation.
+one to [H]ints and details to look out for.
+One to a more [C]omprehensive explanation.
 
 Furthermore a lot of the main titles are grouped into storylines.
 There'll be links to explanations for that too.
@@ -27,16 +27,16 @@ You can use the checklist as a reference when figuring out
 what information in the guide is relevant to your particular
 interests.
 
-[0] Are you completely new to K-pop?
-[1] Are you planning to do reaction videos?
-[2] Do you like rock music?
-[3] Did you find out about Dreamcatcher through random weird clips?
-[4] Do you like watching choreography videos?
-[5] Are you attracted to women?
-[6] Do you want the backstory of the group?
-[7] Are you interested in covers?
-[8] Are you interested solo songs and/or subunits?
-[9] Do you like food related videos?
+[0] Are you completely new to K-pop?  
+[1] Are you planning to do reaction videos?  
+[2] Do you like rock music?  
+[3] Did you find out about Dreamcatcher through random weird clips?  
+[4] Do you like watching choreography videos?  
+[5] Are you attracted to women?  
+[6] Do you want the backstory of the group?  
+[7] Are you interested in covers?  
+[8] Are you interested solo songs and/or subunits?  
+[9] Do you like food related videos?  
 
 For of the titles before there are multiple video links.
 One will always be the primary music video (if any). The remaining links
