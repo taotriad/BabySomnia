@@ -25,14 +25,14 @@
 
 ### Music videos
 
-* [Scream](https://www.youtube.com/watch?v=FKlGHHhTOsQ) [[H]](Scream_hints.md), [[S]](Scream_spoilers.md)
-* [BOCA](https://www.youtube.com/watch?v=MZ4JGye4dQU) [[H]](BOCA_hints.md), [[S]](BOCA_spoilers.md)
-* [Odd Eye](https://www.youtube.com/watch?v=1QD0FeZyDtQ) [[H]](Odd_Eye_hints.md), [[S]](Odd_Eye_spoilers.md)
+* [Scream](https://www.youtube.com/watch?v=FKlGHHhTOsQ) [[H]](Scream_hints.md)
+* [BOCA](https://www.youtube.com/watch?v=MZ4JGye4dQU) [[H]](BOCA_hints.md)
+* [Odd Eye](https://www.youtube.com/watch?v=1QD0FeZyDtQ) [[H]](Odd_Eye_hints.md)
 
 ### Alternate versions
 
 * **[4]** [BOCA Choreo version](https://www.youtube.com/watch?v=rfp2bGytsak) (The full version of the choreography from the music video)
-* **[3][4]** [BOCA Zombie version](https://www.youtube.com/watch?v=yAuJuHI00g)
+* **[3][4]** [BOCA Zombie version](https://www.youtube.com/watch?v=yAuJuHI00g8)
 * **[3]** [BOCA Dance Video (Part Change version)](https://www.youtube.com/watch?v=8ggaDmDFWfE)
 
 
