@@ -12,6 +12,8 @@
 
 ### Music videos
 
+![Deja Vu Screenshot](images/deja_vu.g..png 'Deja Vu Screenshot')
+
 * [Deja Vu](https://www.youtube.com/watch?v=W761DtH1oRg) [[H]](Deja_Vu_hints.md), [[S]](Deja_Vu_spoilers.md)
 
 ### Alternate versions
