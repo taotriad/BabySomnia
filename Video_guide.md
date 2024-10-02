@@ -104,3 +104,35 @@ Not all Dreamcatcher releases belong to story archs.
 
 * [R.o.S.E. BLUE](https://www.youtube.com/watch?v=Lja79dlQiZI) [[H]](RoSE_BLUE_hints.md), [[S]](RoSE_BLUE_spoilers.md)
 * [BEcause](https://www.youtube.com/watch?v=PEKkdIT8JPM) [[H]](BEcause_hints.md), [[S]](BEcause_spoilers.md)
+
+### Alternate versions
+
+* [4] [BEcause Dance Video](https://www.youtube.com/watch?v=TG32s-ivmjY) *(I love the music video, but missing out on the choreography would be a bad mistake)*
+* [3][4] [BEcause relay dance](https://www.youtube.com/watch?v=XmWoGlrTPsA) *(This relay dance combines goofiness with crazy choreography; the only problem is knowing what to focus on; might trigger copyright strikes)*
+
+## [1][6] The Apocalypse Trilogy
+
+### Music videos
+
+* [Maison](https://www.youtube.com/watch?v=z4t9LLq1Nk0) [[H]](Maison_hints.md)
+* [Reason](https://www.youtube.com/watch?v=G3fUZUh1LBs) [[H]](Reason_hints.md) *(Dreamcatcher's third fan-song released at Dreamcatcher's 6th anniversary; not part of the Apocalypse trilogy, but just trust me, this is where it belongs; be sure to watch with lyrics)*
+* [Vision](https://www.youtube.com/watch?v=jKrJBVLnRiM) [[H]](Vision_hints.md)
+* [Bon Voyage](https://www.youtube.com/watch?v=RPNaYj6etb8) [[H]](Bon_Voyage_hints.md)
+
+### Alternate versions
+
+* [Maison Stage Mix](https://www.youtube.com/watch?v=e76SadRkkaQ) *(This is a cross-edit of their various stage performances; **very** likely to trigger copyright strikes)*
+* [A] [Maison Backstage](https://www.youtube.com/watch?v=SOAmF7RwFkk) [[S]](Maison_Backstage_spoiler.md)
+* [Maison Show Champion Performance](https://www.youtube.com/watch?v=aLgL6_C3Edo) *(Their Show Champion performance; likely to trigger copyright strikes)*
+* [3][4] [Bon Voyage relay dance](https://www.youtube.com/watch?v=YrK5OAL67oc) *(This relay dance combines goofiness with crazy choreography; the only problem is knowing what to focus on; might trigger copyright strikes)*
+
+### Related videos
+* [1][6] [Interview with JiU before Vision comeback](https://www.youtube.com/watch?v=UnVwsSP3_30) *(JiU talks about her and the group's career)*
+
+## [1] VersuS Duology
+
+This is, as of writing, their most recent era. It's also by far the most lore heavy. The first part of the duology was released along with an Alternate Reality Game,
+the second part of the duology was launched along with a Dreamcatcher escape room. Especially the first part of the duology can be a bit jarring compared to what you've experienced so far,
+but when factoring in the lore (some of which is mentioned in the spoiler for OOTD) it all makes sense.
+
+[FIXME]
