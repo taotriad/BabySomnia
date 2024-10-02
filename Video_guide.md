@@ -12,11 +12,13 @@
 
 ### Music videos
 
-![Deja Vu Screenshot](images/deja_vu.g.png 'Deja Vu Screenshot') ![Deja Vu Unplugged Screenshot](images/deja_vu_unplugged.g.png 'Deja Vu Unplugged Screenshot')
+![Deja Vu Screenshot](images/deja_vu.g.png 'Deja Vu Screenshot')
 
 * [Deja Vu](https://www.youtube.com/watch?v=W761DtH1oRg) [[H]](Deja_Vu_hints.md), [[S]](Deja_Vu_spoilers.md)
 
 ### Alternate versions
+
+![Deja Vu Unplugged Screenshot](images/deja_vu_unplugged.g.png 'Deja Vu Unplugged Screenshot')
 
 * [Deja Vu Unplugged Acoustics Version Utopia Crossroad Concert](https://www.youtube.com/watch?v=DB7vLwdIeiw)
 
