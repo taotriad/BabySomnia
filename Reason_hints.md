@@ -9,7 +9,7 @@ include objects from their various music videos.
 * A clock from Piri
 * A mask from Scream
 * A bust with tape over its mouth from BOCA
-* The cup of red liquid from Odd Eye
+* The chalice with red liquid from Odd Eye
 * The gun from R.o.S.E. BLUE
 * The hand reaching through the picture frame from BEcause
 * There's also a mongmongie

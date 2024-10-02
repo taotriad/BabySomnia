@@ -135,4 +135,52 @@ This is, as of writing, their most recent era. It's also by far the most lore he
 the second part of the duology was launched along with a Dreamcatcher escape room. Especially the first part of the duology can be a bit jarring compared to what you've experienced so far,
 but when factoring in the lore (some of which is mentioned in the spoiler for OOTD) it all makes sense.
 
-[FIXME]
+### Music videos
+
+* [OOTD]() [[H]](OOTD_hints.md)
+* [Justice](https://www.youtube.com/watch?v=Wkn6s8RuUDg) [[H]](Justice_hints.md)
+
+### Alternate versions
+
+* [1][4] [Justice dancEAR Live Performance](https://www.youtube.com/watch?v=mmDSxJxyxTw) [[H]](Justice_dancEAR_hints.md) *(Spatial audio, live singing)*
+* [1] [Justice Band Live Concert (It's Live)](https://www.youtube.com/watch?v=ZeXZ_ixi58I) *(Has what all Dreamcatcher songs title tracks should have; a live band and headbanging)*
+
+### External reading
+
+* [Full analysis of the VersuS duology](https://genius.com/discussions/484386-Feature-a-fight-between-villains-and-heroes-explaining-dreamcatchers-versus-series)
+
+## Interlude III
+
+Congratulations! You've journeyed your way through Dreamcatcher's title tracks + a few bonuses.
+That said, you've only scratched the surface. Now it's time for It's time for some B-sides, covers, solos/subunits, etc.,
+to get some depth.
+
+## [1][2][6] Japanese releases
+
+So, you are a rocker? Most of this section is for you! Dreamcatcher made a few attempts to get a break-through in the Japanese market.
+They didn't have much luck, but at least it resulted in some great tracks.
+
+### Music videos
+
+* [2] [No More](https://www.youtube.com/watch?v=HanFwe41w9s) *(Possibly their heaviest track; could be considered an honourary member of the Dystopia trilogy, since it deals with the same topic. Pontus Norgren, guitar player from HammerFall, helped compose the song)*
+* [2] [Don't Light My Fire](https://www.youtube.com/watch?v=HVg7ELM1iZ4) *(Nice chugging guitars!)*
+* [2] [Endless Night](https://www.youtube.com/watch?v=wCALuFy2YVI)
+* [Eclipse](https://www.youtube.com/watch?v=b9UxVkTfkVg) *(You know how everyone keeps saying that Dreamcatcher's title tracks sound like anime OST? Well, this one is the opening track from the anime adaptation of the game that Deja Vu was written for)*
+
+## B-sides
+
+By now they've published over 100 B-sides, so I'm only going to recommend a small subset, mainly songs that have interesting videos.
+
+### Music videos
+
+[5] If women in suits is your thing, both versions of Black or White are for you.
+
+* [4][5] [Black or White Performance Video](https://www.youtube.com/watch?v=-Q6iOxdsAbw) *(A clear tribute to Michael Jackson; might trigger copyright strikes)*
+* [4][5] [Black or White Music Bank](https://www.youtube.com/watch?v=6Ogxy2lU5qw) *(A visual feast; almost seamlessly spliced together from two takes of the same choreography but with different outfits; might trigger copyright strikes)*
+* [Jazz Bar](https://www.youtube.com/watch?v=AZoEESSF528)
+* [4] [Red Sun](https://www.youtube.com/watch?v=RKBJVdjOHUY) *(SuA choreographed this video; the choreo is outright hypnotic, which is fitting since the song is about hypnotism)*
+* [July 7th](https://www.youtube.com/watch?v=7u7vUzgtUlk)
+* [4] [Sleepwalking](https://www.youtube.com/watch?v=2_GcbZlDnns) *(A really early Dreamcatcher song with a very low budget MV)*
+* [Fireflies](https://www.youtube.com/watch?v=lJTk5TPBl9M) *(A true vocal showcase, with a massive overdose of harmonies. Insomnicsy, one of the most famous Dreamcatcher fan-content producers, made a MV for it; be prepared with tissues)*
+* [Can't Get You Out of My Mind](https://www.youtube.com/watch?v=BC3hSEPLqEc) *(live performance with band)*
+* [Silent Night Live in Paris](https://www.youtube.com/watch?v=PtscFflDUMA) *(The sound quality is bad, the video quality is bad, but it's still awesome; this song is best heard live on location and you'll never know what choreo you'll get)*:
