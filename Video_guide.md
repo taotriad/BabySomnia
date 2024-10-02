@@ -22,7 +22,7 @@
 
 * [Deja Vu Unplugged Acoustics Version Utopia Crossroad Concert](https://www.youtube.com/watch?v=DB7vLwdIeiw)
 
-## [1] Your first storyline (in recommended viewing order)
+## [1] Your first storyline (The Dystopia Trilogy)
 
 *Justification*: The reason for picking this next is because it has English subtitles prefixed by the names of the members.  
 *Prediction*: If you like rap you'll soon have a new favourite rapper (unless your favourite rapper is Moonbyul, in which case you'll now have two favourites instead of one).
