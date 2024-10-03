@@ -105,10 +105,10 @@ If you're interested this is probably the right opportunity to watch their debut
 
 ### Music videos
 
-![Why Did You Come to My Home?](images/why_did_you_come_to_my_home.g.jpg) ![Love Shake](images/love_shake.g.jpg)
+![Why Did You Come to My Home?](images/why_did_you_come_to_my_home.g.png) ![Love Shake](images/love_shake.g.png)
 
-* [Why Did You Come to My Home?](https://www.youtube.com/watch?v=wqiEAod0LYI) [[H]](Why_Did_You_Come_to_My_Home_hints.md)
-* [Love Shake](https://www.youtube.com/watch?v=iLXyoC2HRgY) [[H]](Love_Shake_hints.md)
+* [Why Did You Come to My Home?](https://www.youtube.com/watch?v=wqiEAod0LYI) [[H]](Why_Did_You_Come_to_My_Home_hints.md) *(Minx' debut single)*
+* [Love Shake](https://www.youtube.com/watch?v=iLXyoC2HRgY) [[H]](Love_Shake_hints.md) *(Minx' only comeback)*
 * **[X]** [Love Shake, original version by Dal★Shabet](https://www.youtube.com/watch?v=ydd5eDJVgjw)
 
 ## [1] Two More Stand-alone releases
