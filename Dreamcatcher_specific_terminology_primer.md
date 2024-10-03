@@ -1,6 +1,6 @@
 # Terminology specific to Dreamcatcher
 
-![MongMongie](images/mongmongie.g.jpg) ![MongMongie (Extensions)](images/mongmongie_extension.g.jpg) ![MongMongie (replacement head)](image/mongmongie_extension.g.jpg)
+![MongMongie](images/mongmongie.g.jpg) ![MongMongie (Extensions)](images/mongmongie_extension.g.jpg) ![MongMongie replacement head](images/mongmongie_extension.g.jpg)
 
 * **Cherry**: JiU's pomeranian. JiU's solo song [Cherry (Real Miracle)](https://www.youtube.com/watch?v=2L0q-nWS1xA) is
   about, and dedicated to, Cherry.
