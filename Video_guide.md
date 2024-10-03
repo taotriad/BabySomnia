@@ -1,5 +1,28 @@
 # Recommended watching for Dreamcatcher
 
+First of all, there's no need to slavishly follow the order in this guide.
+But sticking to the order within each section is recommended, at least for the sections
+that have "trilogy", "era", or "duology" in their names.
+
+Second of all, if you came here BEcause you already watched some Dreamcatcher video and now
+feel confused, it's probably best to find the section that contains the video you saw,
+and start from the beginning in that section. So for instance, if your introduction to
+Dreamcatcher happened to be BOCA (a rather common thing), you'd go to the section
+containing the Dystopia trilogy and watch Scream, BOCA again just to refresh your memory,
+then Odd Eye. If you're still confused after that you can read the spoilers
+(though in the case of the Dystopia trilogy there are only hints, since the videos
+are fairly straight-forward).
+
+If you're not here because you want to react to Dreamcatcher, feel free to jump around
+however you choose. For your own viewing experience I'd recommend watching
+the documentary Dodging Disbandment and Other Extreme Sports before going to far,
+and not watch the alternate versions and related videos in the Apocalypse trilogy until
+you've watched at least the first music video (Maison) of that trilogy.
+
+Also, remember: **[[S]]** stands for **spoilers**, **[[H]]** for **hints**.
+The info in **[[H]]** is intended to help understand the video without spoiling reaction,
+the info in **[[S]]** is intended to clarify things if you're still confused after watching the video.
+
 ## [1] A first peek (dipping your toes)
 
 *Justification*: the reason to start with this video is that:
