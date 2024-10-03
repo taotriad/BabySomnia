@@ -100,9 +100,20 @@ I'm recommending this video for two reasons:
 If you've made it here, and still enjoy yourself, consider yourself a BabySomnia!
 As JiU once said, "Dreamcatcher is like a black hole. Once you go in you won't be able to get out."
 
+You probably noticed that a group named Minx was mentioned in Dodging Disbandment (assuming you watched it)?
+If you're interested this is probably the right opportunity to watch their debut and their only comeback.
+
+### Music videos
+
+![Why Did You Come to My Home?](images/why_did_you_come_to_my_home.g.jpg) ![Love Shake](images/love_shake.g.jpg)
+
+* [Why Did You Come to My Home?](https://www.youtube.com/watch?v=wqiEAod0LYI) [[H]](Why_Did_You_Come_to_My_Home_hints.md)
+* [Love Shake](https://www.youtube.com/watch?v=iLXyoC2HRgY) [[H]](Love_Shake_hints.md)
+* **[X]** [Love Shake, original version by Dal★Shabet](https://www.youtube.com/watch?v=ydd5eDJVgjw)
+
 ## [1] Two More Stand-alone releases
 
-Not all Dreamcatcher releases belong to story archs.
+Not all Dreamcatcher releases belong to story archs, let's catch up with the non-story releases.
 
 ### Music videos
 

@@ -27,6 +27,9 @@
 * **Music show**: Traditionally new releases are promoted at music
   shows. Based on an aggregate of public votes, sales, streaming
   figures, etc. the shows will then present their weekly winners.
+* **Eonnie**: Older sister (if you're female).
+* **Noona**: Older sister (if you're male).
+* **Nuna**: Alternate spelling of Noona.
 * **Promotion**: The period after a comeback during which the idol or
   idol group promotes their new release.
 * The Big 4; the biggest 4 companies. They have vastly more resources to
@@ -44,6 +47,9 @@
   information about idols.
 * **Single album**: Typically not just one song...
 * **Stan**: A fan.
+* **Sunbaenim**: Senior at a workplace; in the context of K-pop this
+  is an idol or group that debuted before yours.
+* **Unnie**: Alternate latinisation of eonnie.
 * **Win**: Winning a music show weekly trophy. A music show win is
   considered a *hugely* important milestone in the career of an idol
   or idol group; groups that repeatedly fail to a get a win tend to
