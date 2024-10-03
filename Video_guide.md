@@ -93,6 +93,8 @@ I'm recommending this video for two reasons:
 
 ### Documentary video
 
+![Dodging Disbandment and Other Extreme Sports: A History of Dreamcatcher](images/dodging_disbandment_and_other_extreme_sports.g.png)
+
 * [Dodging Disbandment and Other Extreme Sports: A History of Dreamcatcher](https://www.youtube.com/watch?v=YIgCAp3i1os)
 
 ## Interlude II
