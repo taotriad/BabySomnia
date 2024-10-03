@@ -122,7 +122,7 @@ Not all Dreamcatcher releases belong to story archs.
 ### Alternate versions
 
 * [Maison Stage Mix](https://www.youtube.com/watch?v=e76SadRkkaQ) *(This is a cross-edit of their various stage performances; **very** likely to trigger copyright strikes)*
-* **[A]** [Maison Backstage](https://www.youtube.com/watch?v=SOAmF7RwFkk) [[S]](Maison_Backstage_spoiler.md)
+* **[A]** [Maison Backstage](https://www.youtube.com/watch?v=SOAmF7RwFkk) [[S]](Maison_Backstage_spoilers.md)
 * [Maison Show Champion Performance](https://www.youtube.com/watch?v=aLgL6_C3Edo) *(Their Show Champion performance; likely to trigger copyright strikes)*
 * **[3][4]** [Bon Voyage relay dance](https://www.youtube.com/watch?v=YrK5OAL67oc) *(This relay dance combines goofiness with crazy choreography; the only problem is knowing what to focus on; might trigger copyright strikes)*
 
