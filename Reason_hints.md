@@ -12,7 +12,7 @@ include objects from their various music videos.
 * The chalice with red liquid from Odd Eye
 * The gun from R.o.S.E. BLUE
 * The hand reaching through the picture frame from BEcause
-* There's also a mongmongie
+* There's also a MongMongie
 
 The person walking constantly changing looks and outfits represent the members,
 in various legendary styles:
