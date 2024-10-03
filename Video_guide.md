@@ -173,6 +173,8 @@ By now they've published over 100 B-sides, so I'm only going to recommend a smal
 
 ### Music videos
 
+![Break the Wall Screenshot](images/break_the_wall.g.png 'Break the Wall Screenshot')
+
 [5] If women in suits is your thing, both versions of Black or White are for you.
 
 * **[4][5]** [Black or White Performance Video](https://www.youtube.com/watch?v=-Q6iOxdsAbw) *(A clear tribute to Michael Jackson; might trigger copyright strikes)*
@@ -184,6 +186,7 @@ By now they've published over 100 B-sides, so I'm only going to recommend a smal
 * [Fireflies](https://www.youtube.com/watch?v=lJTk5TPBl9M) *(A true vocal showcase, with a massive overdose of harmonies. Insomnicsy, one of the most famous Dreamcatcher fan-content producers, made a MV for it; be prepared with tissues)*
 * [Can't Get You Out of My Mind](https://www.youtube.com/watch?v=BC3hSEPLqEc) *(live performance with band)*
 * [Silent Night Live in Paris](https://www.youtube.com/watch?v=PtscFflDUMA) *(The sound quality is bad, the video quality is bad, but it's still awesome; this song is best heard live on location and you'll never know what choreo you'll get)*:
+* **[3]** [Break the Wall](https://www.youtube.com/watch?v=TqcPjwKU_zc) *(Self-made MV)* [[H]](Break_the_Wall_hints.md)
 
 ## Solos and Sub-units
 
