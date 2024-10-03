@@ -22,14 +22,14 @@ basically they released their last single *and* announced their disbandment on t
 
 Anyhow, back to Dreamcatcher.
 
-Every single comeback so far, every new year's wish, every interview when they'd been asked what they are hoping for,
-and inevitably they'd always answered that their wish was to get a show win.
+Every single comeback so far, every New Year's wish, every interview when they were asked what they were hoping for,
+they inevitably always answered that their wish was to get a show win.
 
 But this time it was different. When InSomnias asked before the promotions for Maison started,
 they just answered that they hoped that the fans would like the song and other non-committal answers;
-at this point it was clear that they'd given up hope on ever winning a show. They knew that they were loved by their fans,
+at this point it was clear that they had given up hope on ever winning a show. They knew that they were loved by their fans,
 they knew that their sales were good, they knew that their concerts attracted audiences,
-but by then they'd also realised being loved by their fans wasn't enough to get a win.
+but by then they had also realised being loved by their fans was not enough to get a win.
 
 1923 days of waiting for the Dreamcatcher members.
 2771 days of waiting for the Minx members.
