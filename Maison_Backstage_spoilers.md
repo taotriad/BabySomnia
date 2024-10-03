@@ -3,10 +3,10 @@
 Well, not much of a guide, really. This video was taken backstage where Dreamcatcher
 was waiting for the announcement of the winner. They can be heard talking along the lines of:
 
-Dami: Maybe they left us for the content what we did, recorded just before the broadcast.
-Yoohyeon: Then say bye-bye.
-Siyeon: (gesturing countdown t-1)
-SuA: Who will be?
+Dami: Maybe they left us for the content what we did, recorded just before the broadcast.  
+Yoohyeon: Then say bye-bye.  
+Siyeon: (gesturing countdown t-1)  
+SuA: Who will be?  
 Dongie: It's probably not...
 
 [Maison starts playing]
