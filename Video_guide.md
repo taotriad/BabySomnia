@@ -35,6 +35,10 @@
 
 ### Alternate versions
 
+*Note*: While the part change video is listed here, it might be better to wait a bit and watch it once you've learned to
+know a bit about the personalities and quirks of the members, since that shines through quite heavily in that video and is a large
+part of what makes it so funny.
+
 * **[4]** [BOCA Choreo version](https://www.youtube.com/watch?v=rfp2bGytsak) (The full version of the choreography from the music video)
 * **[3][4]** [BOCA Zombie version](https://www.youtube.com/watch?v=yAuJuHI00g8)
 * **[3]** [BOCA Dance Video (Part Change version)](https://www.youtube.com/watch?v=8ggaDmDFWfE)
