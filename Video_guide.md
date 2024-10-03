@@ -193,7 +193,7 @@ By now they've published over 100 B-sides, so I'm only going to recommend a smal
 Dreamcatcher only has one (semi-)official subunit; Yaja Time. Bong (SuA; maknae, vocals), Nibal (Siyeon, rapper, vocals), and Tafe (Yoohyeon; leader, vocals).
 They have only done covers though; some which are included in the *Covers* section. Dami & Siyeon has made one O.S.T. together.
 
-All members have made at least one solo, published in Dreamcatcher's album Apocalypse: Save Us. SuA, Siyeon, Handong, and Dami have separate solo releases.
+All members have made at least one solo, published on Dreamcatcher's album Apocalypse: Save Us. SuA, Siyeon, Handong, and Dami have separate solo releases.
 
 *Note:* since Siyeon and Dami have published quite a lot more solo releases than the rest of the members I only included a representative subset.
 
