@@ -228,7 +228,7 @@ By now they've published over 100 B-sides, so I'm only going to recommend a smal
 * [Silent Night Live in Paris](https://www.youtube.com/watch?v=PtscFflDUMA) *(The sound quality is bad, the video quality is bad, but it's still awesome; this song is best heard live on location and you'll never know what choreo you'll get)*:
 * **[3]** [Break the Wall](https://www.youtube.com/watch?v=TqcPjwKU_zc) *(Self-made MV)* [[H]](Break_the_Wall_hints.md)
 
-## Solos and Sub-units
+## [8] Solos and Sub-units
 
 Dreamcatcher only has one (semi-)official subunit; Yaja Time. Bong (SuA; maknae, vocals), Nibal (Siyeon, rapper, vocals), and Tafe (Yoohyeon; leader, vocals).
 They have only done covers though; some which are included in the *Covers* section. Dami & Siyeon has made one O.S.T. together.
@@ -255,7 +255,7 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 * **[4]** [Dami: Beauty. Full](https://www.youtube.com/watch?v=nivI7w9HagI) *(Dami goes Green Day meets Avril Lavigne)*
 * **[4]** [Gahyon: Playground](https://www.youtube.com/watch?v=iYvErpLnQ-8) *(Warning: cuteness overload)*
 
-## Covers
+## [7] Covers
 
 ![Bang Bang Bang Screenshot](images/bang_bang_bang.g.png 'Bang Bang Bang Screenshot') ![Speechless Screenshot](images/speechless.g.png 'Speechless Screenshot') ![Oort Cloud Screenshot](images/oort_cloud.g.png 'Oort Cloud Screenshot')
 ![Every Day, Every Moment Screenshot](images/every_day_every_moment.g.png 'Every Day, Every Moment Screenshot')
@@ -326,10 +326,10 @@ That said, even with context included a lot of things just cannot be explained.
 
 * **[6]** [Road to Fame (6th Anniversary Video)](https://www.youtube.com/watch?v=2u_ZG5Vf_3Q) *(Insomnicsy's 6th anniversary video about Dreamcatcher; obviously this video is full of spoilers)*
 * **[6]**  [We Are Dreamcatcher (7th Anniversary Video)](https://www.youtube.com/watch?v=foVtASN01xQ) *(Insomnicsy's 7th anniversary video about Dreamcatcher; Likewise full of spoilers)*
-* [This is JiU 2023](https://www.youtube.com/watch?v=EiJSeXxonJ8) *(Insomnicsy's 2023-edition of the JiU guide)*
-* [This is SuA 2023](https://www.youtube.com/watch?v=oy3AI7X7M0A) *(Insomnicsy's 2023-edition of the SuA guide)*
-* [This is Siyeon 2024](https://www.youtube.com/watch?v=lWIGxjlYjsQ) *(Insomnicsy's 2024-edition of the Siyeon guide)*
-* [This is Handong 2023](https://www.youtube.com/watch?v=WuEb3B05dnM) *(Insomnicsy's 2023-edition of the Handong guide)*
-* [This is Yoohyeon 2023](https://www.youtube.com/watch?v=AucsvJw7-oo) *(Insomnicsy's 2023-edition of the Yoohyeon guide)*
-* [This is Dami 2023](https://www.youtube.com/watch?v=PoMguzXk6Xs) *(Insomnicsy's 2023-edition of the Dami guide)*
-* [This is Gahyun 2023](https://www.youtube.com/watch?v=2y4_vCp2CNI) *(Insomnicsy's 2023-edition of the Gahyun guide)*
+* **[3]** [This is JiU 2023](https://www.youtube.com/watch?v=EiJSeXxonJ8) *(Insomnicsy's 2023-edition of the JiU guide)*
+* **[3]** [This is SuA 2023](https://www.youtube.com/watch?v=oy3AI7X7M0A) *(Insomnicsy's 2023-edition of the SuA guide)*
+* **[3]** [This is Siyeon 2024](https://www.youtube.com/watch?v=lWIGxjlYjsQ) *(Insomnicsy's 2024-edition of the Siyeon guide)*
+* **[3]** [This is Handong 2023](https://www.youtube.com/watch?v=WuEb3B05dnM) *(Insomnicsy's 2023-edition of the Handong guide)*
+* **[3]** [This is Yoohyeon 2023](https://www.youtube.com/watch?v=AucsvJw7-oo) *(Insomnicsy's 2023-edition of the Yoohyeon guide)*
+* **[3]** [This is Dami 2023](https://www.youtube.com/watch?v=PoMguzXk6Xs) *(Insomnicsy's 2023-edition of the Dami guide)*
+* **[3]** [This is Gahyun 2023](https://www.youtube.com/watch?v=2y4_vCp2CNI) *(Insomnicsy's 2023-edition of the Gahyun guide)*
