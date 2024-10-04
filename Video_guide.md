@@ -313,13 +313,13 @@ but behind the scenes, or when they themselves write the scripts, oh boy, chaos 
 
 ### More history and intros to the members
 
-![This Is JiU (2023)](images/this_is_jiu_2023.g.jpg)
-![This Is SuA (2023)](images/this_is_sua_2023.g.jpg)
-![This Is Siyeon (2024)](images/this_is_siyeon_2024.g.jpg)
-![This Is Handong (2023)](images/this_is_handong_2023.g.jpg)
-![This Is Yoohyeon (2023)](images/this_is_yoohyeon_2023.g.jpg)
-![This Is Dami (2023)](images/this_is_dami_2023.g.jpg)
-![This Is Gahyun (2023)](images/this_is_gahyun_2023.g.jpg)
+![This Is JiU (2023)](images/this_is_jiu_2023.g.png)
+![This Is SuA (2023)](images/this_is_sua_2023.g.png)
+![This Is Siyeon (2024)](images/this_is_siyeon_2024.g.png)
+![This Is Handong (2023)](images/this_is_handong_2023.g.png)
+![This Is Yoohyeon (2023)](images/this_is_yoohyeon_2023.g.png)
+![This Is Dami (2023)](images/this_is_dami_2023.g.png)
+![This Is Gahyun (2023)](images/this_is_gahyun_2023.g.png)
 
 Note: Insomnicsy's "This Is..." videos are intended to be entertaining first and foremost; don't take them too seriously.
 That said, even with context included a lot of things just cannot be explained.
