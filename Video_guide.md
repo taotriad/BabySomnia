@@ -52,6 +52,10 @@ the info in **[[S]]** is intended to clarify things if you're still confused aft
 
 ### Music videos
 
+![Scream Screenshot](images/scream.g.png 'Scream Screenshot')
+![BOCA Screenshot](images/boca.g.png 'BOCA Screenshot')
+![Odd Eye Screenshot](images/odd_eye.g.png 'Odd Eye Screenshot')
+
 * [Scream](https://www.youtube.com/watch?v=FKlGHHhTOsQ) [[H]](Scream_hints.md)
 * [BOCA](https://www.youtube.com/watch?v=MZ4JGye4dQU) [[H]](BOCA_hints.md)
 * [Odd Eye](https://www.youtube.com/watch?v=1QD0FeZyDtQ) [[H]](Odd_Eye_hints.md)
