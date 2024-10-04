@@ -302,24 +302,27 @@ A lot of these a fancams or have bad audio for other reasons. But they're all wo
 
 ## Chaoscatcher
 
+![Dreamcatcher Esquire Korea Bon Voyage Screenshot](images/dreamcatcher_esquire_korea_bon_voyage.g.png 'Dreamcatcher Esquire Korea Bon Voyage Screenshot')
+
 Their dancing might (except in the relay dances) seem razor sharp, their vocals and rap impeccable, and the acting in their music videos (except the self-made ones) professional,
 but behind the scenes, or when they themselves write the scripts, oh boy, chaos galore, as you probably noticed from their self-made music videos and relay dances already.
 
 * **[3]** [Dreamcatcher Mind](https://www.youtube.com/playlist?list=PLmNaKWy1cIoF57e1tG9BTdbHv1sOIGllr) *(What do you do if you don't get invited to enough variety shows? You create your own, obviously; there are currently 10 episodes)*
 * **[3]** [The World of Dreamcatcher Episode 1](https://www.youtube.com/watch?v=8q3__8AKTAU) *(Dreamcatcher's interpretation of the K-drama The World of the Married)*
 * **[3]** [The World of Dreamcatcher Episode 2](https://www.youtube.com/watch?v=n1zh5TllBwg) *(Dreamcatcher's interpretation of the K-drama The World of the Married)*
+* **[3]** [Totally chaotic games](https://www.youtube.com/watch?v=e-gSdThVEGU&t=13s)
 
 ## Insomnicsy
 
 ### More history and intros to the members
 
-![This Is JiU (2023)](images/this_is_jiu_2023.g.png)
-![This Is SuA (2023)](images/this_is_sua_2023.g.png)
-![This Is Siyeon (2024)](images/this_is_siyeon_2024.g.png)
-![This Is Handong (2023)](images/this_is_handong_2023.g.png)
-![This Is Yoohyeon (2023)](images/this_is_yoohyeon_2023.g.png)
-![This Is Dami (2023)](images/this_is_dami_2023.g.png)
-![This Is Gahyun (2023)](images/this_is_gahyun_2023.g.png)
+![This Is JiU (2023)](images/this_is_jiu_2023.g.png 'This Is JiU (2023)')
+![This Is SuA (2023)](images/this_is_sua_2023.g.png 'This Is SuA (2023)')
+![This Is Siyeon (2024)](images/this_is_siyeon_2024.g.png 'This Is Siyeon (2024)')
+![This Is Handong (2023)](images/this_is_handong_2023.g.png 'This Is Handong (2023)')
+![This Is Yoohyeon (2023)](images/this_is_yoohyeon_2023.g.png 'This Is Yoohyeon (2023)')
+![This Is Dami (2023)](images/this_is_dami_2023.g.png 'This Is Dami (2023)')
+![This Is Gahyun (2023)](images/this_is_gahyun_2023.g.png 'This Is Gahyun (2023)')
 
 Note: Insomnicsy's "This Is..." videos are intended to be entertaining first and foremost; don't take them too seriously.
 That said, even with context included a lot of things just cannot be explained.
@@ -333,3 +336,27 @@ That said, even with context included a lot of things just cannot be explained.
 * **[3]** [This is Yoohyeon 2023](https://www.youtube.com/watch?v=AucsvJw7-oo) *(Insomnicsy's 2023-edition of the Yoohyeon guide)*
 * **[3]** [This is Dami 2023](https://www.youtube.com/watch?v=PoMguzXk6Xs) *(Insomnicsy's 2023-edition of the Dami guide)*
 * **[3]** [This is Gahyun 2023](https://www.youtube.com/watch?v=2y4_vCp2CNI) *(Insomnicsy's 2023-edition of the Gahyun guide)*
+
+### Mukbang
+
+Dreamcatcher *loves* food, and unlike most companies Dreamcatcher Company (ex Happyface Entertainment) doesn't force them to starve.
+Instead the policy is that it's better to stay fit by exercise and eating well.
+
+Different members like different things. The queen of burgers is definitely Gahyun, Siyeon swears by tteokbokki,
+Handong loves hotpot, everyone loves chicken, pork, and steak.
+
+JiU's favourite food seems to be... Food. She's open to try pretty much everything.
+
+Dami *hates* pineapple due to a traumatic experience, SuA hates coffee
+(no trauma involved), Handong loves chocolate but is allergic, Siyeon dislikes
+seafood. Gahyun doesn't eat sweet potatoes, while Dami loves them.
+Everyone loves noodles, but they all have different favourites...
+
+* **[3][9]** [Dreamcatcher mukbang series ep 1: chicken](https://www.youtube.com/watch?v=A8IB7WIQqhQ)
+* **[3][9]** [Dreamcatcher mukbang series ep 2: burger](https://www.youtube.com/watch?v=eX4D2A1LiSM)
+
+### Various videos
+
+* **[3]** [Laughing with Dreamcatcher](https://www.youtube.com/playlist?list=PLTeXsqL7jUNHHwFPqvGXwFLebcG5LHDEb) *(This is a playlist, so far with 6 episodes, with the members laughing; if you love hearing laughter, this is the playlist for you)*
+* **[3]** [Introducing Dreamcatcher Being Unfiltered Idols](https://www.youtube.com/watch?v=P-OfF4lPh2I) *(This is the first in a series of, so far, 8 episodes. Sadly there's no separate playlist, but I highly recommend watching all of them)*
+* **[3]** [Dreamcatcher Dealing with Malicious Comments and Sasaengs](https://www.youtube.com/watch?v=3R5BMGUK8j8) [[H]](Dreamcatcher_Dealing_with_Malicious_Comments_and_Sasaengs_hints.md)
