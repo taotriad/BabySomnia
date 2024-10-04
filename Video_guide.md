@@ -333,6 +333,8 @@ but behind the scenes, or when they themselves write the scripts, oh boy, chaos 
 
 ### More history and intros to the members
 
+![Road to Fame (6th Anniversary Video)](images/road_to_fame.g.png 'Road to Fame (6th Anniversary Video)')
+![We Are Dreamcatcher (7th Anniversary Video)](images/we_are_dreamcatcher.g.png 'We Are Dreamcatcher (7th Anniversary Video)')
 ![This Is JiU (2023)](images/this_is_jiu_2023.g.png 'This Is JiU (2023)')
 ![This Is SuA (2023)](images/this_is_sua_2023.g.png 'This Is SuA (2023)')
 ![This Is Siyeon (2024)](images/this_is_siyeon_2024.g.png 'This Is Siyeon (2024)')
@@ -345,7 +347,7 @@ Note: Insomnicsy's "This Is..." videos are intended to be entertaining first and
 That said, even with context included a lot of things just cannot be explained.
 
 * **[6]** [Road to Fame (6th Anniversary Video)](https://www.youtube.com/watch?v=2u_ZG5Vf_3Q) *(Insomnicsy's 6th anniversary video about Dreamcatcher; obviously this video is full of spoilers)*
-* **[6]**  [We Are Dreamcatcher (7th Anniversary Video)](https://www.youtube.com/watch?v=foVtASN01xQ) *(Insomnicsy's 7th anniversary video about Dreamcatcher; Likewise full of spoilers)*
+* **[6]** [We Are Dreamcatcher (7th Anniversary Video)](https://www.youtube.com/watch?v=foVtASN01xQ) *(Insomnicsy's 7th anniversary video about Dreamcatcher; Likewise full of spoilers)*
 * **[3]** [This is JiU 2023](https://www.youtube.com/watch?v=EiJSeXxonJ8) *(Insomnicsy's 2023-edition of the JiU guide)*
 * **[3]** [This is SuA 2023](https://www.youtube.com/watch?v=oy3AI7X7M0A) *(Insomnicsy's 2023-edition of the SuA guide)*
 * **[3]** [This is Siyeon 2024](https://www.youtube.com/watch?v=lWIGxjlYjsQ) *(Insomnicsy's 2024-edition of the Siyeon guide)*
