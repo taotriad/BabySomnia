@@ -62,6 +62,10 @@ the info in **[[S]]** is intended to clarify things if you're still confused aft
 
 ### Alternate versions
 
+![BOCA Choreo version Screenshot](images/boca_choreography.g.png 'BOCA Choreo version Screenshot')
+![BOCA Zombie version Screenshot](images/boca_zombie.g.png 'BOCA Zombie version Screenshot')
+![BOCA Part Change version Screenshot](images/boca_part_change.g.png 'BOCA Part Change version Screenshot')
+
 *Note*: While the part change video is listed here, it might be better to wait a bit and watch it once you've learned to
 know a bit about the personalities and quirks of the members, since that shines through quite heavily in that video and is a large
 part of what makes it so funny.
