@@ -87,6 +87,9 @@ Let's do a few B-sides that will give you a first glimpse of the real people beh
 
 ### Music videos
 
+![Sahara Screenshot](images/sahara.g.png 'Sahara Screenshot')
+![Poison Love Screenshot](images/poison_love.g.png 'Poison Love Screenshot')
+
 * [Sahara](https://www.youtube.com/watch?v=BgLhbkKu1s4) *(Self-made MV)* [[H]](Sahara_hints.md)
 * [Poison Love](https://www.youtube.com/watch?v=wKXjvh-wYKY) *(Self-made MV)* [[H]](Poison_Love_hints.md)
 
