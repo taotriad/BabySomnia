@@ -113,9 +113,12 @@ Chase Me and Good Night should ideally be watched back to back.
 
 ### Alternate versions
 
+![What relay dance Screenshot](images/what_relay_dance.g.png 'What relay dance Screenshot')
+
 * **[4]** [Chase Me (Dance Video)](https://www.youtube.com/watch?v=jRW29bBK_oM) *(Chase Me is still regarded as one of their most demanding choreographies; several other companies have used it to test trainees.)*
 * **[4]** [Good Night Dance Video](https://www.youtube.com/watch?v=2-kCpiibFAg) *(The choreo, especially the intro, is fantastic)*
 * **[4]** [Good Night Dance Practice)](https://www.youtube.com/watch?v=ceABfphGjUo) *(The dance practice video is probably better though, since it shows off the footwork in the intro)*
+* **[4]** [What relay dance)](https://www.youtube.com/watch?v=KeBNIujhrtM) *(Since this is one of their earlier relay dances it's mostly crazy choreography; the goofiness is restricted to the end of the video; might trigger copyright strikes)*
 
 ## **[1][6]** The History of Dreamcatcher
 
@@ -152,6 +155,9 @@ If you're interested this is probably the right opportunity to watch their debut
 Not all Dreamcatcher releases belong to story archs, let's catch up with the non-story releases.
 
 ### Music videos
+
+![R.o.S.E. BLUE Screenshot](images/rose_blue.g.png 'R.o.S.E. BLUE Screenshot')
+![BEcause Screenshot](images/because.g.png 'BEcause Screenshot')
 
 * [R.o.S.E. BLUE](https://www.youtube.com/watch?v=Lja79dlQiZI) [[H]](RoSE_BLUE_hints.md), [[S]](RoSE_BLUE_spoilers.md)
 * [BEcause](https://www.youtube.com/watch?v=PEKkdIT8JPM) [[H]](BEcause_hints.md), [[S]](BEcause_spoilers.md)
