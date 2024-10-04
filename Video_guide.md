@@ -275,17 +275,61 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 * **[5]** [Gahyun: Coming of Age Ceremony, original by Park Ji Yoon](https://www.youtube.com/watch?v=8047Ocu8gBw) *(Gahyun celebrated coming of age with a cover of, fittingly, Coming of Age ceremony)*
 * [Gahyun: Vanishing Paycheck, original by Stella Jang](https://www.youtube.com/watch?v=xCORBPliQ0A) *(If you've seen her "Rich" clip, you'll know why she decided to cover this song)*
 
-## Miscellaneous videos
+## Choreography videos
 
 ![Abracadabra Screenshot](images/abracadabra.g.png 'Abracadabra Screenshot')
 
-Warning: If you have a heart condition you might want to avoid the video below tagged **[5]**.
-
-* **[5]** [All No Dot stages from North American tour](https://www.youtube.com/watch?v=mzTNYCfZoaw) *(No matter who your bias is you'll see fantastic performances)*
 * **[4][5]** [SuA and Seungyeon ex. CLC: Tadow / Masego, FKJ performance video](https://www.youtube.com/watch?v=bWaAB7ju7Mk)
 * **[4][5]** [JiU, SuA, Yoohyeon: Taki Taki dance performance](https://www.youtube.com/watch?v=8dGFe4MlaZU)
 * **[4][5]** [SuA: Copycat dance performance](https://www.youtube.com/watch?v=5_k0gLXiMjs)
 * **[4][5]** [Dreamcatcher: Abracadabra relay dance](https://www.youtube.com/watch?v=S0-AJT9IPcY)
+
+## Miscellaneous performance videos
+
+A lot of these a fancams or have bad audio for other reasons. But they're all worth watching for other reasons.
+
+* **[5]** [All No Dot stages from North American tour](https://www.youtube.com/watch?v=mzTNYCfZoaw) *(No matter who your bias is you'll see fantastic performances)*
+* **[3]** [SuA, Handong, Yoohyeon: Cider, originally by Norazuda](https://www.youtube.com/watch?v=l3AsyQ9jX-4) *(SuA, Handong, and Yoohyeon sing their anthem; they've performed it on at least 3 different shows)*
+* [Halloween busking 2018 dance performance, fancam](https://www.youtube.com/watch?v=Xz52d66RoA4) *(This performance is special because of what happens during their performance of Good Night, but also because of the super-cute scene beginning at 37:42)*
+* [Halloween fan meet 2019 Deja Vu, fancam](https://www.youtube.com/watch?v=pQ6DVkZLhRQ) *(Some totally fantastic outfits, but SuA went the extra mile)*
+* [Dystopia Live Band Concert 2020 Dear, fancam](https://www.youtube.com/watch?v=LPygFF4dri4) *(Again totally fantastic outfits, SuA continues to be extra)*
+
+## Interviews
+
+* [Moonbyul, Sua, Siyeon, Dami, Gahyun: Studio Moon Night 2021-03-05](https://www.youtube.com/watch?v=XSSzdYOC4-o) *(A subset of Dreamcatcher got invited to Studio Moon Night)*
+* [Moonbyul, Dreamcatcher: Studio Moon Night 2021-08-09](https://www.youtube.com/watch?v=WwesEn2B2tg) *(Back again; this time all of Dreamcatcher got invited to Studio Moon Night)*
+* [Moonbyul, Dreamcatcher: Studio Moon Night 2022-04-29](https://www.youtube.com/watch?v=Ma_vf4Y4iIE) *(Their third visit to Studio Moon Night **spoiler alert** do not watch before watching the Apocalypse Trilogy)*
+
+## Chaoscatcher
+
+Their dancing might (except in the relay dances) seem razor sharp, their vocals and rap impeccable, and the acting in their music videos (except the self-made ones) professional,
+but behind the scenes, or when they themselves write the scripts, oh boy, chaos galore, as you probably noticed from their self-made music videos and relay dances already.
+
+* **[3]** [Dreamcatcher Mind](https://www.youtube.com/playlist?list=PLmNaKWy1cIoF57e1tG9BTdbHv1sOIGllr) *(What do you do if you don't get invited to enough variety shows? You create your own, obviously; there are currently 10 episodes)*
 * **[3]** [The World of Dreamcatcher Episode 1](https://www.youtube.com/watch?v=8q3__8AKTAU) *(Dreamcatcher's interpretation of the K-drama The World of the Married)*
 * **[3]** [The World of Dreamcatcher Episode 2](https://www.youtube.com/watch?v=n1zh5TllBwg) *(Dreamcatcher's interpretation of the K-drama The World of the Married)*
-* **[3]** [SuA, Handong, Yoohyeon: Cider, originally by Norazuda](https://www.youtube.com/watch?v=l3AsyQ9jX-4) *(SuA, Handong, and Yoohyeon sing their anthem; they've performed it on at least 3 different shows)*
+
+## Insomnicsy
+
+### More history and intros to the members
+
+![This Is JiU (2023)](images/this_is_jiu_2023.g.jpg)
+![This Is SuA (2023)](images/this_is_sua_2023.g.jpg)
+![This Is Siyeon (2024)](images/this_is_siyeon_2024.g.jpg)
+![This Is Handong (2023)](images/this_is_handong_2023.g.jpg)
+![This Is Yoohyeon (2023)](images/this_is_yoohyeon_2023.g.jpg)
+![This Is Dami (2023)](images/this_is_dami_2023.g.jpg)
+![This Is Gahyun (2023)](images/this_is_gahyun_2023.g.jpg)
+
+Note: Insomnicsy's "This Is..." videos are intended to be entertaining first and foremost; don't take them too seriously.
+That said, even with context included a lot of things just cannot be explained.
+
+* **[6]** [Road to Fame (6th Anniversary Video)](https://www.youtube.com/watch?v=2u_ZG5Vf_3Q) *(Insomnicsy's 6th anniversary video about Dreamcatcher; obviously this video is full of spoilers)*
+* **[6]**  [We Are Dreamcatcher (7th Anniversary Video)](https://www.youtube.com/watch?v=foVtASN01xQ) *(Insomnicsy's 7th anniversary video about Dreamcatcher; Likewise full of spoilers)*
+* [This is JiU 2023](https://www.youtube.com/watch?v=EiJSeXxonJ8) *(Insomnicsy's 2023-edition of the JiU guide)*
+* [This is SuA 2023](https://www.youtube.com/watch?v=oy3AI7X7M0A) *(Insomnicsy's 2023-edition of the SuA guide)*
+* [This is Siyeon 2024](https://www.youtube.com/watch?v=lWIGxjlYjsQ) *(Insomnicsy's 2024-edition of the Siyeon guide)*
+* [This is Handong 2023](https://www.youtube.com/watch?v=WuEb3B05dnM) *(Insomnicsy's 2023-edition of the Handong guide)*
+* [This is Yoohyeon 2023](https://www.youtube.com/watch?v=AucsvJw7-oo) *(Insomnicsy's 2023-edition of the Yoohyeon guide)*
+* [This is Dami 2023](https://www.youtube.com/watch?v=PoMguzXk6Xs) *(Insomnicsy's 2023-edition of the Dami guide)*
+* [This is Gahyun 2023](https://www.youtube.com/watch?v=2y4_vCp2CNI) *(Insomnicsy's 2023-edition of the Gahyun guide)*

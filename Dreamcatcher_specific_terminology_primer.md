@@ -12,6 +12,9 @@
 * **[Dreamcatcher Note](https://www.youtube.com/playlist?list=PLmNaKWy1cIoF84UDSoRR7mhwTVJ3EVp6w)**: Dreamcatcher's official behind-the-scene videos that are released on a regular basis during promotions and tours.
 * **Happyface Entertainment (HFE)**: The entertainment agency that birthed Minx and Dreamcatcher. Later renamed to Dreamcatcher Company.
 * **InSomnia**: The name of Dreamcatcher's official fan club. Often nicknamed Somnia. The word consists of the Latin words In Somnia joined up, meaning "In Dreams".
+* **Insomnicsy**: [Insomnicsy](https://www.youtube.com/@insomnicsy), Kit, is a YouTube content producer who deserves a separate entry for having produced over 600 videos related to Dreamcatcher.
+  Even Dreamcatcher themselves watch Insomnicsy's videos. Notable material includes yearly updated guides to every member, translated summaries of notable bits from vlives,
+  fan-music videos, documentaries, compilations of laughter, videos of the chemistry between the different members, etc.
 * **[Minx](A_brief_history_of_Minx.md)**: A group with the cute concept consisting of JiU, SuA, Siyeon, Yoohyeon, and Dami.
 * **MongMongie**: Dreamcatcher's lightstick; it is certified to be the longest lightstick in K-pop since it's extensible with extra segments
   that can be bought separately (two extra segments are included with the lightstick). MongMongie with extensions evokes the feeling of
