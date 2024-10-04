@@ -30,7 +30,7 @@ interests.
 **[0]** Are you completely new to K-pop?  
 **[1]** Are you planning to do reaction videos?  
 **[2]** Do you like rock music?  
-**[3]** Did you find out about Dreamcatcher through random weird clips?  
+**[3]** Did you find out about Dreamcatcher through random weird clips (or want to watch goofy stuff)?  
 **[4]** Do you like watching choreography videos?  
 **[5]** Are you attracted to women?  
 **[6]** Do you want the backstory of the group?  
