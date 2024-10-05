@@ -19,9 +19,9 @@ the documentary Dodging Disbandment and Other Extreme Sports before going to far
 and not watch the alternate versions and related videos in the Apocalypse trilogy until
 you've watched at least the first music video (Maison) of that trilogy.
 
-Also, remember: **[[S]]** stands for **spoilers**, **[[H]]** for **hints**.
-The info in **[[H]]** is intended to help understand the video without spoiling reaction,
-the info in **[[S]]** is intended to clarify things if you're still confused after watching the video.
+Also, remember: **[S]** stands for **spoilers**, **[H]** for **hints**.
+The info in **[H]** is intended to help understand the video without spoiling reaction,
+the info in **[S]** is intended to clarify things if you're still confused after watching the video.
 
 ## [1] A first peek (dipping your toes)
 
