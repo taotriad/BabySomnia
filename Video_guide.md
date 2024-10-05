@@ -237,7 +237,7 @@ but when factoring in the lore (some of which is mentioned in the spoiler for OO
 ### Alternative versions
 
 ![Justice (dancEAR live performance) Screenshot](images/justice_dancear.g.png 'Justice (dancEAR live performance) Screenshot')
-![Justice (band live concert It's Live) Screenshot](images/justice_its_live.g.png 'Justice (band live concert It's Live) Screenshot')
+![Justice (band live concert It's Live) Screenshot](images/justice_its_live.g.png 'Justice (band live concert It\'s Live) Screenshot')
 
 * **[1][4]** [Justice (dancEAR live performance)](https://www.youtube.com/watch?v=mmDSxJxyxTw) [[H]](Justice_dancEAR_hints.md) *(Spatial audio, live singing)*
 * **[1]** [Justice (band live concert It's Live)](https://www.youtube.com/watch?v=ZeXZ_ixi58I) *(Has what all Dreamcatcher songs title tracks should have; a live band and headbanging)*
