@@ -387,6 +387,10 @@ Everyone loves noodles, but they all have different favourites...
 
 ### Various videos
 
+![Laughing with Dreamcatcher Screenshot](images/laughing_with_dreamcatcher.g.png 'Laughing with Dreamcatcher Screenshot')
+![Introducing Dreamcatcher Being Unfiltered Idols Screenshot](images/dreamcatcher_being_unfiltered_idols.g.png 'Introducing Dreamcatcher Being Unfiltered Idols Screenshot')
+![Dreamcatcher Dealing with Malicious Comments and Sasaengs Screenshot](images/dreamcatcher_dealing_with_malicious_comments.g.png 'Introducing Dreamcatcher Being Unfiltered Idols Screenshot')
+
 * **[3]** [Laughing with Dreamcatcher](https://www.youtube.com/playlist?list=PLTeXsqL7jUNHHwFPqvGXwFLebcG5LHDEb) *(This is a playlist, so far with 6 episodes, with the members laughing; if you love hearing laughter, this is the playlist for you)*
 * **[3]** [Introducing Dreamcatcher Being Unfiltered Idols](https://www.youtube.com/watch?v=P-OfF4lPh2I) *(This is the first in a series of, so far, 8 episodes. Sadly there's no separate playlist, but I highly recommend watching all of them)*
 * **[3]** [Dreamcatcher Dealing with Malicious Comments and Sasaengs](https://www.youtube.com/watch?v=3R5BMGUK8j8) [[H]](Dreamcatcher_Dealing_with_Malicious_Comments_and_Sasaengs_hints.md)
