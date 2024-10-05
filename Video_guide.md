@@ -183,6 +183,12 @@ Not all Dreamcatcher releases belong to story archs, let us catch up with the no
 * **[3][4]** [BEcause (relay dance)](https://www.youtube.com/watch?v=XmWoGlrTPsA) *(This relay dance combines goofiness with crazy choreography; the only problem is knowing what to focus on; might trigger copyright strikes)*
 * [BEcause Band (live concert It's Live)](https://www.youtube.com/watch?v=6oKjhNljApA) *(Live band and choreography)*
 
+### Related videos
+
+![Dreamcatcher Playing Girl Café Gun Screenshot](images/dreamcatcher_playing_girl_cafe_gun.g.png 'Dreamcatcher Playing Girl Café Gun Screenshot')
+
+* [Dreamcatcher playing Girl Café Gun / interview about R.o.S.E. BLUE](https://www.youtube.com/watch?v=IWpg50r972Y) *(The girls talk about the game Girl Café Gun that the song R.o.S.E. BLUE was made for and show a bit of the game)*
+
 ## [1][6] The Apocalypse Trilogy
 
 ### Music videos
