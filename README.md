@@ -126,7 +126,9 @@ These will be in the section Recommended Viewing.
 
 ## [9] Food related videos (mukbang)
 
-Dreamcatcher eat and/or talk about food quite a lot in their behind the scenes and vlogs. If you enjoy seeing idols eating, you'll have plenty of bonus material to watch.
-If you *don't* like seeing idols eat sticking to just music videos might be your best bet--there will be no trigger warnings for food.
+Dreamcatcher eat and/or talk about food quite a lot in their behind the scenes and vlogs.
+If you enjoy seeing idols eating, you'll have plenty of bonus material to watch.
+If you *do not* like seeing idols eat sticking to just music videos might
+be your best bet—there will be no trigger warnings for food.
 
 [Time to get started](Video_guide.md)

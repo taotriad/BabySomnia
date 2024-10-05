@@ -100,6 +100,15 @@ Chase Me and Good Night should ideally be watched back to back.
 
 ### Music videos
 
+![Chase Me Screenshot](images/chase_me.g.png 'Chase Me Screenshot')
+![Good Night Screenshot](images/good_night.g.png 'Good Night Screenshot')
+![Fly High Screenshot](images/fly_high.g.png 'Fly High Screenshot')
+![You and I Screenshot](images/you_and_i.g.png 'You and I Screenshot')
+![What Screenshot](images/what.g.png 'What Screenshot')
+![Piri Screenshot](images/piri.g.png 'Piri Screenshot')
+![Breaking Out Screenshot](images/breaking_out.g.png 'Breaking Out Screenshot')
+![The Curse of the Spider (2024 Concert Version) Screenshot](images/the_curse_of_the_spider.g.png 'The Curse of the Spider (2024 Concert Version) Screenshot')
+
 * [Chase Me](https://www.youtube.com/watch?v=zihoyz0u_cs) *(Debut)* [[H]](Chase_Me_hints.md), [[S]](Chase_Me_spoilers.md)
 * [Good Night](https://www.youtube.com/watch?v=Lxfl8LRab_I) [[H]](Good_Night_hints.md), [[S]](Good_Night_spoilers.md)
 * [Fly High](https://www.youtube.com/watch?v=39yeTdIuKJU) [[H]](Fly_High_hints.md)
@@ -255,11 +264,11 @@ They have only done covers though; some which are included in the *Covers* secti
 
 All members have made at least one solo, published on Dreamcatcher's album Apocalypse: Save Us. SuA, Siyeon, Handong, and Dami have separate solo releases.
 
-*Note:* since Siyeon and Dami have published quite a lot more solo releases than the rest of the members I only included a representative subset.
+*Note:* since Siyeon and Dami have published quite a lot more solo releases than the rest of the members this list only includes a representative subset.
 
 ### Music videos
 
-* [JiU: Cherry--Real Miracle](https://www.youtube.com/watch?v=2L0q-nWS1xA) *(Warning: cuteness overload. JiU's love song to her dog)*
+* [JiU: Cherry—Real Miracle](https://www.youtube.com/watch?v=2L0q-nWS1xA) *(Warning: cuteness overload. JiU's love song to her dog)*
 * [SuA: Still with You](https://www.youtube.com/watch?v=pAn5MLPVa20) *(O.S.T. for the K-drama Café Minamdang)*
 * **[4]** [SuA: No Dot](https://www.youtube.com/watch?v=oxPyRRKEtHI)
 * [SuA: Feel Alive](https://www.youtube.com/watch?v=QZtMAXFSlZ0)
@@ -392,5 +401,5 @@ Everyone loves noodles, but they all have different favourites...
 ![Dreamcatcher Dealing with Malicious Comments and Sasaengs Screenshot](images/dreamcatcher_dealing_with_malicious_comments.g.png 'Introducing Dreamcatcher Being Unfiltered Idols Screenshot')
 
 * **[3]** [Laughing with Dreamcatcher](https://www.youtube.com/playlist?list=PLTeXsqL7jUNHHwFPqvGXwFLebcG5LHDEb) *(This is a playlist, so far with 6 episodes, with the members laughing; if you love hearing laughter, this is the playlist for you)*
-* **[3]** [Introducing Dreamcatcher Being Unfiltered Idols](https://www.youtube.com/watch?v=P-OfF4lPh2I) *(This is the first in a series of, so far, 8 episodes. Sadly there's no separate playlist, but I highly recommend watching all of them)*
+* **[3]** [Introducing Dreamcatcher Being Unfiltered Idols](https://www.youtube.com/watch?v=P-OfF4lPh2I) *(This is the first in a series of, so far, 8 episodes. Sadly there's no separate playlist, but it is highly recommend watching all of them)*
 * **[3]** [Dreamcatcher Dealing with Malicious Comments and Sasaengs](https://www.youtube.com/watch?v=3R5BMGUK8j8) [[H]](Dreamcatcher_Dealing_with_Malicious_Comments_and_Sasaengs_hints.md)

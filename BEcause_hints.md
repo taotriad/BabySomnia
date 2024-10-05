@@ -15,7 +15,7 @@ Enjoy JiU and (especially) Gahyun's facial expressions in this music video.
 
 The amusement park that the music video is set in contains a ride called Disco Pang Pang;
 in one scene Handong is seen standing in the middle of it.
-There's some irony here; early in Dreamcatcher's career (2018 I think) they got to
-to an amusement park (not the abandoned park in the MV, obviously),
+There's some irony here; early in Dreamcatcher's career (2018?) they got to
+go to an amusement park (not the abandoned park in the MV, obviously),
 where Yoohyeon decided that they should try the Disco Pang Pang.
 Handong *really* hated that experience.

@@ -6,7 +6,7 @@
 * Most of their title tracks are pop/rock with other influences mixed in.
 * Almost all their songs are composed by the same duo; Ollounder & Leez.
 * Leez left the company in 2022 when offered an exclusive contract with Hi-Hat Co., Ltd as music director.
-* Rock isn't very popular in South Korea, at least partially related to the "Rux scandal". I suggest reading about it, but not watching any videos you might find.
+* Rock isn't very popular in South Korea, at least partially related to the "Rux scandal". Feel free to read about it, but watching any videos you might find is not recommended.
 * Their company used to be called Happy Face Entertainment (HFE; logotype: a red smiling face). Nowadays it's called Dreamcatcher Company (DCC).
 * The official fanclub is called InSomnia.
 * InSomnia has a reputation for being helpful (and thankful!) towards reactors and welcoming towards newcomers. This guide aims to continue that tradition.
