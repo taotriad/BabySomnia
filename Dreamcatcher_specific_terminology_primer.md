@@ -10,6 +10,8 @@
 * **[Dreamcatcher Mind](https://www.youtube.com/playlist?list=PLmNaKWy1cIoF57e1tG9BTdbHv1sOIGllr)**: Dreamcatcher's own variety show. Currently
   one season, with 10 episodes, has been made. Rumour has it that they made their own show because they didn't get enough invitations to other shows.
 * **[Dreamcatcher Note](https://www.youtube.com/playlist?list=PLmNaKWy1cIoF84UDSoRR7mhwTVJ3EVp6w)**: Dreamcatcher's official behind-the-scene videos that are released on a regular basis during promotions and tours.
+* **Dreancatger**: When Dreamcatcher were promoting their first comeback [Good Night at Mnet Countdown](https://www.youtube.com/watch?v=IyK13KctCY8), the official performance video (uploaded by Mnet) listed the group as Dreancatger.
+  That was back in 2017. Even now (as of writing), 7.5 years later, this has still not been corrected. *(Note: obviously doing a reaction to the video is not recommended, seeing as it's from a music show and thus likely to trigger a copyright strike)*
 * **Happyface Entertainment (HFE)**: The entertainment agency that birthed Minx and Dreamcatcher. Later renamed to Dreamcatcher Company.
 * **InSomnia**: The name of Dreamcatcher's official fan club. Often nicknamed Somnia. The word consists of the Latin words In Somnia joined up, meaning "In Dreams".
 * **Insomnicsy**: [Insomnicsy](https://www.youtube.com/@insomnicsy), Kit, is a YouTube content producer who deserves a separate entry for having produced over 600 videos related to Dreamcatcher.

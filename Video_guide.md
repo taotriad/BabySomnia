@@ -9,9 +9,7 @@ feel confused, it's probably best to find the section that contains the video yo
 and start from the beginning in that section. So for instance, if your introduction to
 Dreamcatcher happened to be BOCA (a rather common thing), you'd go to the section
 containing the Dystopia trilogy and watch Scream, BOCA again just to refresh your memory,
-then Odd Eye. If you're still confused after that you can read the spoilers
-(though in the case of the Dystopia trilogy there are only hints, since the videos
-are fairly straight-forward).
+then Odd Eye. If you're still confused after that you can read the spoilers.
 
 If you're not here because you want to react to Dreamcatcher, feel free to jump around
 however you choose. For your own viewing experience I'd recommend watching
@@ -19,8 +17,8 @@ the documentary Dodging Disbandment and Other Extreme Sports before going to far
 and not watch the alternate versions and related videos in the Apocalypse trilogy until
 you've watched at least the first music video (Maison) of that trilogy.
 
-Also, remember: **[S]** stands for **spoilers**, **[H]** for **hints**.
-The info in **[H]** is intended to help understand the video without spoiling reaction,
+Also, remember: **[S]** stands for **Spoilers**, **[H]** for **Hints**.
+The info in **[H]** is intended to be read before watching the video to help understand the video without spoiling anything important,
 the info in **[S]** is intended to clarify things if you're still confused after watching the video.
 
 ## [1] A first peek (dipping your toes)
@@ -56,9 +54,9 @@ the info in **[S]** is intended to clarify things if you're still confused after
 ![BOCA Screenshot](images/boca.g.png 'BOCA Screenshot')
 ![Odd Eye Screenshot](images/odd_eye.g.png 'Odd Eye Screenshot')
 
-* [Scream](https://www.youtube.com/watch?v=FKlGHHhTOsQ) [[H]](Scream_hints.md)
+* [Scream](https://www.youtube.com/watch?v=FKlGHHhTOsQ) [[H]](Scream_hints.md) [[S]](Scream_spoilers.md)
 * [BOCA](https://www.youtube.com/watch?v=MZ4JGye4dQU) [[H]](BOCA_hints.md)
-* [Odd Eye](https://www.youtube.com/watch?v=1QD0FeZyDtQ) [[H]](Odd_Eye_hints.md)
+* [Odd Eye](https://www.youtube.com/watch?v=1QD0FeZyDtQ) [[H]](Odd_Eye_hints.md) [[S]](Odd_Eye_spoilers.md)
 
 ### Alternate versions
 
@@ -130,7 +128,7 @@ I'm recommending this video for two reasons:
 
 ### Documentary video
 
-![Dodging Disbandment and Other Extreme Sports: A History of Dreamcatcher](images/dodging_disbandment_and_other_extreme_sports.g.png)
+![Dodging Disbandment and Other Extreme Sports: A History of Dreamcatcher Screenshot](images/dodging_disbandment_and_other_extreme_sports.g.png 'Dodging Disbandment and Other Extreme Sports: A History of Dreamcatcher Screenshot')
 
 * [Dodging Disbandment and Other Extreme Sports: A History of Dreamcatcher](https://www.youtube.com/watch?v=YIgCAp3i1os)
 
@@ -144,7 +142,7 @@ If you're interested this is probably the right opportunity to watch their debut
 
 ### Music videos
 
-![Why Did You Come to My Home?](images/why_did_you_come_to_my_home.g.png) ![Love Shake](images/love_shake.g.png)
+![Minx: Why Did You Come to My Home? Screenshot](images/why_did_you_come_to_my_home.g.png 'Minx: Why Did You Come to My Home? Screenshot') ![Minx: Love Shake Screenshot](images/love_shake.g.png 'Minx: Love Shake Screenshot')
 
 * [Why Did You Come to My Home?](https://www.youtube.com/watch?v=wqiEAod0LYI) [[H]](Why_Did_You_Come_to_My_Home_hints.md) *(Minx' debut single)*
 * [Love Shake](https://www.youtube.com/watch?v=iLXyoC2HRgY) [[H]](Love_Shake_hints.md) *(Minx' only comeback)*
@@ -319,6 +317,8 @@ A lot of these a fancams or have bad audio for other reasons. But they're all wo
 
 ## Chaoscatcher
 
+![Dreamcatcher Mind Screenshot](images/dreamcatcher_mind.g.png 'Dreamcatcher Mind Screenshot')
+![The World of Dreamcatcher Screenshot](images/the_world_dreamcatcher.g.png 'The World of Dreamcatcher Screenshot')
 ![Dreamcatcher Esquire Korea Bon Voyage Screenshot](images/dreamcatcher_esquire_korea_bon_voyage.g.png 'Dreamcatcher Esquire Korea Bon Voyage Screenshot')
 
 Their dancing might (except in the relay dances) seem razor sharp, their vocals and rap impeccable, and the acting in their music videos (except the self-made ones) professional,
@@ -327,7 +327,7 @@ but behind the scenes, or when they themselves write the scripts, oh boy, chaos 
 * **[3]** [Dreamcatcher Mind](https://www.youtube.com/playlist?list=PLmNaKWy1cIoF57e1tG9BTdbHv1sOIGllr) *(What do you do if you don't get invited to enough variety shows? You create your own, obviously; there are currently 10 episodes)*
 * **[3]** [The World of Dreamcatcher Episode 1](https://www.youtube.com/watch?v=8q3__8AKTAU) *(Dreamcatcher's interpretation of the K-drama The World of the Married)*
 * **[3]** [The World of Dreamcatcher Episode 2](https://www.youtube.com/watch?v=n1zh5TllBwg) *(Dreamcatcher's interpretation of the K-drama The World of the Married)*
-* **[3]** [Totally chaotic games](https://www.youtube.com/watch?v=e-gSdThVEGU&t=13s)
+* **[3]** [Dreamcatcher Esquire Korea Bon Voyage](https://www.youtube.com/watch?v=e-gSdThVEGU&t=13s) *(Dreamcatcher visits Esquire Korea during the Bon Voyage promotions and plays chaotic games)*
 
 ## Insomnicsy
 
