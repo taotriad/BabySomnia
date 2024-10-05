@@ -354,7 +354,7 @@ A lot of these a fancams or have bad audio for other reasons. But they're all wo
 ## Chaoscatcher
 
 ![Dreamcatcher Mind Screenshot](images/dreamcatcher_mind.g.png 'Dreamcatcher Mind Screenshot')
-![The World of Dreamcatcher Screenshot](images/the_of_world_dreamcatcher.g.png 'The World of Dreamcatcher Screenshot')
+![The World of Dreamcatcher Screenshot](images/the_world_of_dreamcatcher.g.png 'The World of Dreamcatcher Screenshot')
 ![Dreamcatcher Esquire Korea Bon Voyage Screenshot](images/dreamcatcher_esquire_korea_bon_voyage.g.png 'Dreamcatcher Esquire Korea Bon Voyage Screenshot')
 
 Their dancing might (except in the relay dances) seem razor sharp, their vocals and rap impeccable, and the acting in their music videos (except the self-made ones) professional,
