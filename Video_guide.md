@@ -120,10 +120,13 @@ Chase Me and Good Night should ideally be watched back to back.
 
 ### Alternative versions
 
+![Chase Me (dance video) Screenshot](images/chase_me_dance_video.g.png 'Chase Me (dance video) Screenshot')
+![Good Night (dance video) Screenshot](images/good_night_dance_video.g.png 'Good Night (dance video) Screenshot')
+![Good Night (dance practice) Screenshot](images/good_night_dance_practice.g.png 'Good Night (dance practice) Screenshot')
 ![What (relay dance) Screenshot](images/what_relay_dance.g.png 'What (relay dance) Screenshot')
 
-* **[4]** [Chase Me (dance video)](https://www.youtube.com/watch?v=jRW29bBK_oM) *(Chase Me is still regarded as one of their most demanding choreographies; several other companies have used it to test trainees.)*
-* **[4]** [Good Night (dance video)](https://www.youtube.com/watch?v=2-kCpiibFAg) *(The choreo, especially the intro, is fantastic)*
+* **[4]** [Chase Me (dance video)](https://www.youtube.com/watch?v=jRW29bBK_oM) *(Chase Me is still regarded as one of their most demanding choreographies; several other companies have used it to test trainees)*
+* **[4]** [Good Night (dance video)](https://www.youtube.com/watch?v=2-kCpiibFAg) *(The choreo, especially the intro, is fantastic; the video is pretty crappy though)*
 * **[4]** [Good Night (dance practice)](https://www.youtube.com/watch?v=ceABfphGjUo) *(The dance practice video is probably better though, since it shows off the footwork in the intro)*
 * **[4]** [What (relay dance)](https://www.youtube.com/watch?v=KeBNIujhrtM) *(Since this is one of their earlier relay dances it's mostly crazy choreography; the goofiness is restricted to the end of the video; might trigger copyright strikes)*
 
@@ -151,7 +154,8 @@ If you're interested this is probably the right opportunity to watch their debut
 
 ### Music videos
 
-![Minx: Why Did You Come to My Home? Screenshot](images/why_did_you_come_to_my_home.g.png 'Minx: Why Did You Come to My Home? Screenshot') ![Minx: Love Shake Screenshot](images/love_shake.g.png 'Minx: Love Shake Screenshot')
+![Minx: Why Did You Come to My Home? Screenshot](images/why_did_you_come_to_my_home.g.png 'Minx: Why Did You Come to My Home? Screenshot')
+![Minx: Love Shake Screenshot](images/love_shake.g.png 'Minx: Love Shake Screenshot')
 
 * [Why Did You Come to My Home?](https://www.youtube.com/watch?v=wqiEAod0LYI) [[H]](Why_Did_You_Come_to_My_Home_hints.md) *(Minx' debut single)*
 * [Love Shake](https://www.youtube.com/watch?v=iLXyoC2HRgY) [[H]](Love_Shake_hints.md) *(Minx' only comeback)*
