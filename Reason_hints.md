@@ -29,9 +29,7 @@ The video clips include significant events in their career; among other things:
 
 * One of their online concerts during Covid-19
 * A Halloween event where SuA scared everyone dressed as Pennywise
-* Their legendary late November busking outdoors for fans when their music broke down
-and InSomnias sang Good Night for them
-* The time their got their YouTube subscribers plaque.
+* Their legendary late November busking outdoors in 2018 when their music broke down and InSomnias sang **Good Night** for them
 * Handong getting a surprise birthday message from her parents at one of their concerts
 
 The outdoor performance is from Primavera, one of the world's largest music festivals,

@@ -15,7 +15,7 @@ If you're not here because you want to react to Dreamcatcher, feel free to jump 
 however you choose. For your own viewing experience I'd recommend watching
 the documentary Dodging Disbandment and Other Extreme Sports before going to far,
 and not watch the alternative versions and related videos in the Apocalypse trilogy until
-you've watched at least the first music video (Maison) of that trilogy.
+you have watched at least the first music video (Maison) of that trilogy.
 
 Also, remember: **[S]** stands for **Spoilers**, **[H]** for **Hints**.
 The info in **[H]** is intended to be read before watching the video to help understand the video without spoiling anything important,
@@ -39,9 +39,9 @@ the info in **[S]** is intended to clarify things if you're still confused after
 
 ### Alternative versions
 
-![Deja Vu Unplugged Screenshot](images/deja_vu_unplugged.g.png 'Deja Vu Unplugged Screenshot')
+![Deja Vu (unplugged acoustic version Utopia Crossroad Concert) Screenshot](images/deja_vu_unplugged.g.png 'Deja Vu (unplugged acoustic version Utopia Crossroad Concert) Screenshot')
 
-* [Deja Vu Unplugged Acoustics Version Utopia Crossroad Concert](https://www.youtube.com/watch?v=DB7vLwdIeiw)
+* [Deja Vu (unplugged acoustics version Utopia Crossroad Concert)](https://www.youtube.com/watch?v=DB7vLwdIeiw)
 
 ## [1] Your first storyline (The Dystopia Trilogy)
 
@@ -60,22 +60,22 @@ the info in **[S]** is intended to clarify things if you're still confused after
 
 ### Alternative versions
 
-![BOCA Choreo version Screenshot](images/boca_choreography.g.png 'BOCA Choreo version Screenshot')
-![BOCA Zombie version Screenshot](images/boca_zombie.g.png 'BOCA Zombie version Screenshot')
-![BOCA Part Change version Screenshot](images/boca_part_change.g.png 'BOCA Part Change version Screenshot')
+![BOCA (choreo version) Screenshot](images/boca_choreography.g.png 'BOCA (choreo version) Screenshot')
+![BOCA (zombie version) Screenshot](images/boca_zombie.g.png 'BOCA (zombie version) Screenshot')
+![BOCA (part change version) Screenshot](images/boca_part_change.g.png 'BOCA (part change version) Screenshot')
 
-*Note*: While the part change video is listed here, it might be better to wait a bit and watch it once you've learned to
+*Note*: While the part change video is listed here, it might be better to wait a bit and watch it once you have learned to
 know a bit about the personalities and quirks of the members, since that shines through quite heavily in that video and is a large
 part of what makes it so funny.
 
-* **[4]** [BOCA Choreo version](https://www.youtube.com/watch?v=rfp2bGytsak) (The full version of the choreography from the music video)
-* **[3][4]** [BOCA Zombie version](https://www.youtube.com/watch?v=yAuJuHI00g8)
-* **[3]** [BOCA Dance Video (Part Change version)](https://www.youtube.com/watch?v=8ggaDmDFWfE)
+* **[4]** [BOCA (choreo version)](https://www.youtube.com/watch?v=rfp2bGytsak) (The full version of the choreography from the music video)
+* **[3][4]** [BOCA (zombie version)](https://www.youtube.com/watch?v=yAuJuHI00g8)
+* **[3]** [BOCA (dance video, part change version)](https://www.youtube.com/watch?v=8ggaDmDFWfE)
 
 
 ## Interlude: Self-made MVs for awesome B-sides
 
-Are you still with us? Like what you've been hearing so far?
+Are you still with us? Like what you have been hearing so far?
 Let's do a few B-sides that will give you a first glimpse of the real people behind the polished idol surface.
 
 ## [3] First batch of B-sides
@@ -95,7 +95,7 @@ If you did **not** enjoy these videos you're unlikely to enjoy their behind-the-
 
 ## [1] Back to A-sides (The Nightmare Era)
 
-This is their longest story line. It's also their first. They're younger and have lower budget for the videos.
+This is their longest story line. It is also their first. They are younger and have lower budget for the videos.
 Chase Me and Good Night should ideally be watched back to back.
 
 ### Music videos
@@ -111,20 +111,20 @@ Chase Me and Good Night should ideally be watched back to back.
 
 ### Alternative versions
 
-![What relay dance Screenshot](images/what_relay_dance.g.png 'What relay dance Screenshot')
+![What (relay dance) Screenshot](images/what_relay_dance.g.png 'What (relay dance) Screenshot')
 
-* **[4]** [Chase Me (Dance Video)](https://www.youtube.com/watch?v=jRW29bBK_oM) *(Chase Me is still regarded as one of their most demanding choreographies; several other companies have used it to test trainees.)*
-* **[4]** [Good Night Dance Video](https://www.youtube.com/watch?v=2-kCpiibFAg) *(The choreo, especially the intro, is fantastic)*
-* **[4]** [Good Night Dance Practice)](https://www.youtube.com/watch?v=ceABfphGjUo) *(The dance practice video is probably better though, since it shows off the footwork in the intro)*
-* **[4]** [What relay dance)](https://www.youtube.com/watch?v=KeBNIujhrtM) *(Since this is one of their earlier relay dances it's mostly crazy choreography; the goofiness is restricted to the end of the video; might trigger copyright strikes)*
+* **[4]** [Chase Me (dance video)](https://www.youtube.com/watch?v=jRW29bBK_oM) *(Chase Me is still regarded as one of their most demanding choreographies; several other companies have used it to test trainees.)*
+* **[4]** [Good Night (dance video)](https://www.youtube.com/watch?v=2-kCpiibFAg) *(The choreo, especially the intro, is fantastic)*
+* **[4]** [Good Night (dance practice)](https://www.youtube.com/watch?v=ceABfphGjUo) *(The dance practice video is probably better though, since it shows off the footwork in the intro)*
+* **[4]** [What (relay dance)](https://www.youtube.com/watch?v=KeBNIujhrtM) *(Since this is one of their earlier relay dances it's mostly crazy choreography; the goofiness is restricted to the end of the video; might trigger copyright strikes)*
 
 ## **[1][6]** The History of Dreamcatcher
 
 While it's not strictly necessary to know the full history of Dreamcatcher when doing reactions,
-I'm recommending this video for two reasons:
+this video is recommended for two reasons:
 
 1. The video is highly entertaining
-2. I gives some insight into just how tough their journey has been
+2. It gives some insight into just how tough their journey has been
 
 ### Documentary video
 
@@ -134,7 +134,7 @@ I'm recommending this video for two reasons:
 
 ## Interlude II: Minx
 
-If you've made it here, and still enjoy yourself, consider yourself a BabySomnia!
+If you have made it here, and still enjoy yourself, consider yourself a BabySomnia!
 As JiU once said, "Dreamcatcher is like a black hole. Once you go in you won't be able to get out."
 
 You probably noticed that a group named Minx was mentioned in Dodging Disbandment (assuming you watched it)?
@@ -150,7 +150,7 @@ If you're interested this is probably the right opportunity to watch their debut
 
 ## [1] Two More Stand-alone releases
 
-Not all Dreamcatcher releases belong to story archs, let's catch up with the non-story releases.
+Not all Dreamcatcher releases belong to story archs, let us catch up with the non-story releases.
 
 ### Music videos
 
@@ -162,15 +162,20 @@ Not all Dreamcatcher releases belong to story archs, let's catch up with the non
 
 ### Alternative versions
 
-* **[4]** [BEcause Dance Video](https://www.youtube.com/watch?v=TG32s-ivmjY) *(I love the music video, but missing out on the choreography would be a bad mistake)*
-* **[3][4]** [BEcause relay dance](https://www.youtube.com/watch?v=XmWoGlrTPsA) *(This relay dance combines goofiness with crazy choreography; the only problem is knowing what to focus on; might trigger copyright strikes)*
+![BEcause (dance video) Screenshot](images/because_dance_video.g.png 'BEcause (dance video) Screenshot')
+![BEcause (relay dance) Screenshot](images/because_relay_dance.g.png 'BEcause (relay dance) Screenshot')
+![BEcause (band live concert It's Live) Screenshot](images/because_its_live.g.png 'BEcause (band live concert It\'s Live) Screenshot')
+
+* **[4]** [BEcause (dance video)](https://www.youtube.com/watch?v=TG32s-ivmjY) *(I love the music video, but missing out on the choreography would be a bad mistake)*
+* **[3][4]** [BEcause (relay dance)](https://www.youtube.com/watch?v=XmWoGlrTPsA) *(This relay dance combines goofiness with crazy choreography; the only problem is knowing what to focus on; might trigger copyright strikes)*
+* [BEcause Band (live concert It's Live)](https://www.youtube.com/watch?v=6oKjhNljApA) *(Live band and choreography)*
 
 ## [1][6] The Apocalypse Trilogy
 
 ### Music videos
 
 * [Maison](https://www.youtube.com/watch?v=z4t9LLq1Nk0) [[H]](Maison_hints.md)
-* [Reason](https://www.youtube.com/watch?v=G3fUZUh1LBs) [[H]](Reason_hints.md) *(Dreamcatcher's third fan-song released at Dreamcatcher's 6th anniversary; not part of the Apocalypse trilogy, but just trust me, this is where it belongs; be sure to watch with lyrics)*
+* [Reason](https://www.youtube.com/watch?v=G3fUZUh1LBs) [[H]](Reason_hints.md) *(Dreamcatcher\'s third fan-song released at Dreamcatcher\'s 6th anniversary; not part of the Apocalypse trilogy, but just trust me, this is where it belongs; be sure to watch with lyrics)*
 * [Vision](https://www.youtube.com/watch?v=jKrJBVLnRiM) [[H]](Vision_hints.md)
 * [Bon Voyage](https://www.youtube.com/watch?v=RPNaYj6etb8) [[H]](Bon_Voyage_hints.md)
 
@@ -186,8 +191,8 @@ Not all Dreamcatcher releases belong to story archs, let's catch up with the non
 
 ## [1] VersuS Duology
 
-This is, as of writing, their most recent era. It's also by far the most lore heavy. The first part of the duology was released along with an Alternate Reality Game,
-the second part of the duology was launched along with a Dreamcatcher escape room. Especially the first part of the duology can be a bit jarring compared to what you've experienced so far,
+This is, as of writing, their most recent era. It is also by far the most external lore heavy. The first part of the duology was released along with an Alternate Reality Game,
+the second part of the duology was launched along with a Dreamcatcher escape room. Especially the first part of the duology can be a bit jarring compared to what you have experienced so far,
 but when factoring in the lore (some of which is mentioned in the spoiler for OOTD) it all makes sense.
 
 ### Music videos
@@ -197,8 +202,8 @@ but when factoring in the lore (some of which is mentioned in the spoiler for OO
 
 ### Alternative versions
 
-* **[1][4]** [Justice dancEAR Live Performance](https://www.youtube.com/watch?v=mmDSxJxyxTw) [[H]](Justice_dancEAR_hints.md) *(Spatial audio, live singing)*
-* **[1]** [Justice Band Live Concert (It's Live)](https://www.youtube.com/watch?v=ZeXZ_ixi58I) *(Has what all Dreamcatcher songs title tracks should have; a live band and headbanging)*
+* **[1][4]** [Justice (dancEAR live performance)](https://www.youtube.com/watch?v=mmDSxJxyxTw) [[H]](Justice_dancEAR_hints.md) *(Spatial audio, live singing)*
+* **[1]** [Justice (band live concert It's Live)](https://www.youtube.com/watch?v=ZeXZ_ixi58I) *(Has what all Dreamcatcher songs title tracks should have; a live band and headbanging)*
 
 ### External reading
 
@@ -206,8 +211,8 @@ but when factoring in the lore (some of which is mentioned in the spoiler for OO
 
 ## Interlude III
 
-Congratulations! You've journeyed your way through Dreamcatcher's title tracks + a few bonuses.
-That said, you've only scratched the surface. Now it's time for It's time for some B-sides, covers, solos/subunits, etc.,
+Congratulations! You have journeyed your way through Dreamcatcher\'s title tracks + a few bonuses.
+That said, you have only scratched the surface. Now it is time for some B-sides, covers, solos/subunits, etc.,
 to get some depth.
 
 ## [1][2][6] Japanese releases
@@ -224,7 +229,7 @@ They didn't have much luck, but at least it resulted in some great tracks.
 
 ## B-sides
 
-By now they've published over 100 B-sides, so I'm only going to recommend a small subset, mainly songs that have interesting videos.
+By now they have published over 100 B-sides, so this is only a small subset, mainly songs that have interesting videos.
 
 ### Music videos
 
@@ -232,11 +237,11 @@ By now they've published over 100 B-sides, so I'm only going to recommend a smal
 
 [5] If women in suits is your thing, both versions of Black or White are for you.
 
-* **[4][5]** [Black or White Performance Video](https://www.youtube.com/watch?v=-Q6iOxdsAbw) *(A clear tribute to Michael Jackson; might trigger copyright strikes)*
-* **[4][5]** [Black or White Music Bank](https://www.youtube.com/watch?v=6Ogxy2lU5qw) *(A visual feast; almost seamlessly spliced together from two takes of the same choreography but with different outfits; might trigger copyright strikes)*
+* **[4][5]** [Black or White (performance video)](https://www.youtube.com/watch?v=-Q6iOxdsAbw) *(A clear tribute to Michael Jackson; might trigger copyright strikes)*
+* **[4][5]** [Black or White (Music Bank)](https://www.youtube.com/watch?v=6Ogxy2lU5qw) *(A visual feast; almost seamlessly spliced together from two takes of the same choreography but with different outfits; might trigger copyright strikes)*
 * [Jazz Bar](https://www.youtube.com/watch?v=AZoEESSF528)
 * **[4]** [Red Sun](https://www.youtube.com/watch?v=RKBJVdjOHUY) *(SuA choreographed this video; the choreo is outright hypnotic, which is fitting since the song is about hypnotism)*
-* [July 7th](https://www.youtube.com/watch?v=7u7vUzgtUlk)
+* [July 7th](https://www.youtube.com/watch?v=7u7vUzgtUlk) [[H]](July_7th_hints.md)
 * **[4]** [Sleepwalking](https://www.youtube.com/watch?v=2_GcbZlDnns) *(A really early Dreamcatcher song with a very low budget MV)*
 * [Fireflies](https://www.youtube.com/watch?v=lJTk5TPBl9M) *(A true vocal showcase, with a massive overdose of harmonies. Insomnicsy, one of the most famous Dreamcatcher fan-content producers, made a MV for it; be prepared with tissues)*
 * [Can't Get You Out of My Mind](https://www.youtube.com/watch?v=BC3hSEPLqEc) *(live performance with band)*
@@ -246,7 +251,7 @@ By now they've published over 100 B-sides, so I'm only going to recommend a smal
 ## [8] Solos and Sub-units
 
 Dreamcatcher only has one (semi-)official subunit; Yaja Time. Bong (SuA; maknae, vocals), Nibal (Siyeon, rapper, vocals), and Tafe (Yoohyeon; leader, vocals).
-They have only done covers though; some which are included in the *Covers* section. Dami & Siyeon has made one O.S.T. together.
+They have only done covers though; some which are included in the *Covers* section. Dami and Siyeon have made one O.S.T. together.
 
 All members have made at least one solo, published on Dreamcatcher's album Apocalypse: Save Us. SuA, Siyeon, Handong, and Dami have separate solo releases.
 
@@ -254,7 +259,7 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 
 ### Music videos
 
-* [JiU: Cherry--Real Miracle](https://www.youtube.com/watch?v=2L0q-nWS1xA) *(JiU's love song to her dog)*
+* [JiU: Cherry--Real Miracle](https://www.youtube.com/watch?v=2L0q-nWS1xA) *(Warning: cuteness overload. JiU's love song to her dog)*
 * [SuA: Still with You](https://www.youtube.com/watch?v=pAn5MLPVa20) *(O.S.T. for the K-drama Café Minamdang)*
 * **[4]** [SuA: No Dot](https://www.youtube.com/watch?v=oxPyRRKEtHI)
 * [SuA: Feel Alive](https://www.youtube.com/watch?v=QZtMAXFSlZ0)
@@ -266,7 +271,7 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 * [Handong: Snow](https://www.youtube.com/watch?v=jQ_ogJWssXU)
 * [Yoohyeon: For](https://www.youtube.com/watch?v=1HwjxbE7_Qw)
 * [Dami: Once Upon a Time](https://www.youtube.com/watch?v=KYnJFfeXeGI)
-* [Dami: Butterfly](https://www.youtube.com/watch?v=w8Tfb2R_-DY) *(Dami's good bye to Ddo Ddo, her dog)*
+* [Dami: Butterfly](https://www.youtube.com/watch?v=w8Tfb2R_-DY) *(Dami's good bye to Ddo Ddo, her dog 😭)*
 * **[4]** [Dami: Beauty. Full](https://www.youtube.com/watch?v=nivI7w9HagI) *(Dami goes Green Day meets Avril Lavigne)*
 * **[4]** [Gahyon: Playground](https://www.youtube.com/watch?v=iYvErpLnQ-8) *(Warning: cuteness overload)*
 
@@ -275,26 +280,26 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 ![Bang Bang Bang Screenshot](images/bang_bang_bang.g.png 'Bang Bang Bang Screenshot') ![Speechless Screenshot](images/speechless.g.png 'Speechless Screenshot') ![Oort Cloud Screenshot](images/oort_cloud.g.png 'Oort Cloud Screenshot')
 ![Every Day, Every Moment Screenshot](images/every_day_every_moment.g.png 'Every Day, Every Moment Screenshot')
 
-* [Dreamcatcher: Lucky Strike, original by Maroon 5](https://www.youtube.com/watch?v=AM7ro_nBCHI) *(If you make a cover you might as well make it better than the original, right?)*
-* [Dreamcatcher: Bang Bang Bang, original by Big Bang](https://www.youtube.com/watch?v=jzpfj7Rbvl4) *(Not only did they make a great cover, Dami wrote her own intro to the song)*
-* **[3]** [Dreamcatcher: What Makes You Beautiful, original by One Direction](https://www.youtube.com/watch?v=EvuvWdDJLdc) *(recorded while in Paris for the recording of the Fly High music video)*
-* [Yaja Time: Really Really, original by Winner](https://www.youtube.com/watch?v=Y-MadjDYQYk)
-* [Yaja Time: Love 119, original by Riize](https://www.youtube.com/watch?v=075D94edXDk)
-* [JiU: I Love You 3000, original by Stephanie Poetri](https://www.youtube.com/watch?v=nlFepvQ59i0)
-* [SuA and Hwiseo from H1-Key: Titanium, original by David Guetta featuring Sia](https://www.youtube.com/watch?v=waIoo19aKnc) *(H1-Key sent their fantastic main vocalist; Dreamcatcher's main vocalist was on a hiatus, so they sent their main dancer instead)*
-* [SuA and Siyeon: Oort Cloud, original by Younha](https://www.youtube.com/watch?v=uGuu_vDF8f4)
-* [Siyeon: Speechless, original from the Aladdin live action movie](https://www.youtube.com/watch?v=tOBZjPuAKMQ) *(So good that Disney Music commented on it; as of writing this cover has 11M views)*
-* [Siyeon: Overdose, original by Exo](https://www.youtube.com/watch?v=-B8x_bn8FKM) *(Siyeon participated in V1 singer and ended up second, but her cover of Overdose won everyone's heart)*
-* [Handong, Siyeon, Gahyun: Every Day, Every Moment, original by Paul Kim](https://www.youtube.com/watch?v=FVCfrHgAXY8)
-* [Yoohyeon and Dami: Love Me or Leave Me, by Day6](https://www.youtube.com/watch?v=ghWFZoV3_L8) *(Music Video filmed on their day off in Hong Kong)*
-* **[5]** [Gahyun: Coming of Age Ceremony, original by Park Ji Yoon](https://www.youtube.com/watch?v=8047Ocu8gBw) *(Gahyun celebrated coming of age with a cover of, fittingly, Coming of Age ceremony)*
-* [Gahyun: Vanishing Paycheck, original by Stella Jang](https://www.youtube.com/watch?v=xCORBPliQ0A) *(If you've seen her "Rich" clip, you'll know why she decided to cover this song)*
+* [Dreamcatcher: Lucky Strike (original by Maroon 5)](https://www.youtube.com/watch?v=AM7ro_nBCHI) *(If you make a cover you might as well make it better than the original, right?)*
+* [Dreamcatcher: Bang Bang Bang (original by Big Bang)](https://www.youtube.com/watch?v=jzpfj7Rbvl4) *(Not only did they make a great cover, Dami wrote her own intro to the song)*
+* **[3]** [Dreamcatcher: What Makes You Beautiful (original by One Direction)](https://www.youtube.com/watch?v=EvuvWdDJLdc) *(recorded while in Paris for the recording of the Fly High music video)*
+* [Yaja Time: Really Really (original by Winner)](https://www.youtube.com/watch?v=Y-MadjDYQYk)
+* [Yaja Time: Love 119 (original by Riize)](https://www.youtube.com/watch?v=075D94edXDk)
+* [JiU: I Love You 3000 (original by Stephanie Poetri)](https://www.youtube.com/watch?v=nlFepvQ59i0)
+* [SuA and Hwiseo from H1-Key: Titanium (original by David Guetta featuring Sia)](https://www.youtube.com/watch?v=waIoo19aKnc) *(H1-Key sent their fantastic main vocalist; Dreamcatcher's main vocalist was on a hiatus, so they sent their main dancer instead)*
+* [SuA and Siyeon: Oort Cloud (original by Younha)](https://www.youtube.com/watch?v=uGuu_vDF8f4)
+* [Siyeon: Speechless (original from the Aladdin live action movie)](https://www.youtube.com/watch?v=tOBZjPuAKMQ) *(So good that Disney Music commented on it; as of writing this cover has 11M views)*
+* [Siyeon: Overdose (original by Exo)](https://www.youtube.com/watch?v=-B8x_bn8FKM) *(Siyeon participated in V1 singer and ended up second, but her cover of Overdose won everyone's heart)*
+* [Handong, Siyeon, Gahyun: Every Day, Every Moment (original by Paul Kim)](https://www.youtube.com/watch?v=FVCfrHgAXY8)
+* [Yoohyeon and Dami: Love Me or Leave Me (original by Day6)](https://www.youtube.com/watch?v=ghWFZoV3_L8) *(Music Video filmed on their day off in Hong Kong)*
+* **[5]** [Gahyun: Coming of Age Ceremony (original by Park Ji Yoon)](https://www.youtube.com/watch?v=8047Ocu8gBw) *(Gahyun celebrated coming of age with a cover of, fittingly, Coming of Age ceremony)*
+* [Gahyun: Vanishing Paycheck (original by Stella Jang)](https://www.youtube.com/watch?v=xCORBPliQ0A) *(If you have seen her "Rich" clip, you will know why she decided to cover this song)*
 
 ## Choreography videos
 
 ![Abracadabra Screenshot](images/abracadabra.g.png 'Abracadabra Screenshot')
 
-* **[4][5]** [SuA and Seungyeon ex. CLC: Tadow / Masego, FKJ performance video](https://www.youtube.com/watch?v=bWaAB7ju7Mk)
+* **[4][5]** [SuA and Seungyeon ex. CLC: Tadow dance performance](https://www.youtube.com/watch?v=bWaAB7ju7Mk)
 * **[4][5]** [JiU, SuA, Yoohyeon: Taki Taki dance performance](https://www.youtube.com/watch?v=8dGFe4MlaZU)
 * **[4][5]** [SuA: Copycat dance performance](https://www.youtube.com/watch?v=5_k0gLXiMjs)
 * **[4][5]** [Dreamcatcher: Abracadabra relay dance](https://www.youtube.com/watch?v=S0-AJT9IPcY)
@@ -304,10 +309,10 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 A lot of these a fancams or have bad audio for other reasons. But they're all worth watching for other reasons.
 
 * **[5]** [All No Dot stages from North American tour](https://www.youtube.com/watch?v=mzTNYCfZoaw) *(No matter who your bias is you'll see fantastic performances)*
-* **[3]** [SuA, Handong, Yoohyeon: Cider, originally by Norazuda](https://www.youtube.com/watch?v=l3AsyQ9jX-4) *(SuA, Handong, and Yoohyeon sing their anthem; they've performed it on at least 3 different shows)*
-* [Halloween busking 2018 dance performance, fancam](https://www.youtube.com/watch?v=Xz52d66RoA4) *(This performance is special because of what happens during their performance of Good Night, but also because of the super-cute scene beginning at 37:42)*
-* [Halloween fan meet 2019 Deja Vu, fancam](https://www.youtube.com/watch?v=pQ6DVkZLhRQ) *(Some totally fantastic outfits, but SuA went the extra mile)*
-* [Dystopia Live Band Concert 2020 Dear, fancam](https://www.youtube.com/watch?v=LPygFF4dri4) *(Again totally fantastic outfits, SuA continues to be extra)*
+* **[3]** [SuA, Handong, Yoohyeon: Cider (original by Norazuda)](https://www.youtube.com/watch?v=l3AsyQ9jX-4) *(SuA, Handong, and Yoohyeon sing their anthem; they have performed it on at least 3 different shows)*
+* [Halloween busking 2018 dance performance (fancam)](https://www.youtube.com/watch?v=Xz52d66RoA4) *(This performance is special because of what happens during their performance of Good Night, but also because of the super-cute scene beginning at 37:42)*
+* [Halloween fan meet 2019 Deja Vu (fancam)](https://www.youtube.com/watch?v=pQ6DVkZLhRQ) *(Some totally fantastic outfits, but SuA went the extra mile)*
+* [Dystopia Live Band Concert 2020 Dear (fancam)](https://www.youtube.com/watch?v=LPygFF4dri4) *(Again totally fantastic outfits, SuA continues to be extra)*
 
 ## Interviews
 
@@ -348,13 +353,13 @@ That said, even with context included a lot of things just cannot be explained.
 
 * **[6]** [Road to Fame (6th Anniversary Video)](https://www.youtube.com/watch?v=2u_ZG5Vf_3Q) *(Insomnicsy's 6th anniversary video about Dreamcatcher; obviously this video is full of spoilers)*
 * **[6]** [We Are Dreamcatcher (7th Anniversary Video)](https://www.youtube.com/watch?v=foVtASN01xQ) *(Insomnicsy's 7th anniversary video about Dreamcatcher; Likewise full of spoilers)*
-* **[3]** [This is JiU 2023](https://www.youtube.com/watch?v=EiJSeXxonJ8) *(Insomnicsy's 2023-edition of the JiU guide)*
-* **[3]** [This is SuA 2023](https://www.youtube.com/watch?v=oy3AI7X7M0A) *(Insomnicsy's 2023-edition of the SuA guide)*
-* **[3]** [This is Siyeon 2024](https://www.youtube.com/watch?v=lWIGxjlYjsQ) *(Insomnicsy's 2024-edition of the Siyeon guide)*
-* **[3]** [This is Handong 2023](https://www.youtube.com/watch?v=WuEb3B05dnM) *(Insomnicsy's 2023-edition of the Handong guide)*
-* **[3]** [This is Yoohyeon 2023](https://www.youtube.com/watch?v=AucsvJw7-oo) *(Insomnicsy's 2023-edition of the Yoohyeon guide)*
-* **[3]** [This is Dami 2023](https://www.youtube.com/watch?v=PoMguzXk6Xs) *(Insomnicsy's 2023-edition of the Dami guide)*
-* **[3]** [This is Gahyun 2023](https://www.youtube.com/watch?v=2y4_vCp2CNI) *(Insomnicsy's 2023-edition of the Gahyun guide)*
+* **[3]** [This is JiU (2023)](https://www.youtube.com/watch?v=EiJSeXxonJ8) *(Insomnicsy's 2023-edition of the JiU guide)*
+* **[3]** [This is SuA (2023)](https://www.youtube.com/watch?v=oy3AI7X7M0A) *(Insomnicsy's 2023-edition of the SuA guide)*
+* **[3]** [This is Siyeon (2024)](https://www.youtube.com/watch?v=lWIGxjlYjsQ) *(Insomnicsy's 2024-edition of the Siyeon guide)*
+* **[3]** [This is Handong (2023)](https://www.youtube.com/watch?v=WuEb3B05dnM) *(Insomnicsy's 2023-edition of the Handong guide)*
+* **[3]** [This is Yoohyeon (2023)](https://www.youtube.com/watch?v=AucsvJw7-oo) *(Insomnicsy's 2023-edition of the Yoohyeon guide)*
+* **[3]** [This is Dami (2023)](https://www.youtube.com/watch?v=PoMguzXk6Xs) *(Insomnicsy's 2023-edition of the Dami guide)*
+* **[3]** [This is Gahyun (2023)](https://www.youtube.com/watch?v=2y4_vCp2CNI) *(Insomnicsy's 2023-edition of the Gahyun guide)*
 
 ### Mukbang
 
