@@ -236,6 +236,9 @@ but when factoring in the lore (some of which is mentioned in the spoiler for OO
 
 ### Alternative versions
 
+![Justice (dancEAR live performance) Screenshot](images/justice_dancear.g.png 'Justice (dancEAR live performance) Screenshot')
+![Justice (band live concert It's Live) Screenshot](images/justice_its_live.g.png 'Justice (band live concert It's Live) Screenshot')
+
 * **[1][4]** [Justice (dancEAR live performance)](https://www.youtube.com/watch?v=mmDSxJxyxTw) [[H]](Justice_dancEAR_hints.md) *(Spatial audio, live singing)*
 * **[1]** [Justice (band live concert It's Live)](https://www.youtube.com/watch?v=ZeXZ_ixi58I) *(Has what all Dreamcatcher songs title tracks should have; a live band and headbanging)*
 
@@ -255,6 +258,11 @@ So, you are a rocker? Most of this section is for you! Dreamcatcher made a few a
 They didn't have much luck, but at least it resulted in some great tracks.
 
 ### Music videos
+
+![No More Screenshot](images/no_more.g.png 'No More Screenshot')
+![Don't Light My Fire Screenshot](images/dont_light_my_fire.g.png 'Don\'t Light My Fire Screenshot')
+![Endless Night Screenshot](images/endless_night.g.png 'Endless Night Screenshot')
+![Eclipse Screenshot](images/eclipse.g.png 'Eclipse Screenshot')
 
 * **[2]** [No More](https://www.youtube.com/watch?v=HanFwe41w9s) *(Possibly their heaviest track; could be considered an honourary member of the Dystopia trilogy, since it deals with the same topic. Pontus Norgren, guitar player from HammerFall, helped compose the song)*
 * **[2]** [Don't Light My Fire](https://www.youtube.com/watch?v=HVg7ELM1iZ4) *(Nice chugging guitars!)*
