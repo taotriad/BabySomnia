@@ -14,7 +14,7 @@ then Odd Eye. If you're still confused after that you can read the spoilers.
 If you're not here because you want to react to Dreamcatcher, feel free to jump around
 however you choose. For your own viewing experience I'd recommend watching
 the documentary Dodging Disbandment and Other Extreme Sports before going to far,
-and not watch the alternate versions and related videos in the Apocalypse trilogy until
+and not watch the alternative versions and related videos in the Apocalypse trilogy until
 you've watched at least the first music video (Maison) of that trilogy.
 
 Also, remember: **[S]** stands for **Spoilers**, **[H]** for **Hints**.
@@ -37,7 +37,7 @@ the info in **[S]** is intended to clarify things if you're still confused after
 
 * [Deja Vu](https://www.youtube.com/watch?v=W761DtH1oRg) [[H]](Deja_Vu_hints.md), [[S]](Deja_Vu_spoilers.md)
 
-### Alternate versions
+### Alternative versions
 
 ![Deja Vu Unplugged Screenshot](images/deja_vu_unplugged.g.png 'Deja Vu Unplugged Screenshot')
 
@@ -58,7 +58,7 @@ the info in **[S]** is intended to clarify things if you're still confused after
 * [BOCA](https://www.youtube.com/watch?v=MZ4JGye4dQU) [[H]](BOCA_hints.md)
 * [Odd Eye](https://www.youtube.com/watch?v=1QD0FeZyDtQ) [[H]](Odd_Eye_hints.md) [[S]](Odd_Eye_spoilers.md)
 
-### Alternate versions
+### Alternative versions
 
 ![BOCA Choreo version Screenshot](images/boca_choreography.g.png 'BOCA Choreo version Screenshot')
 ![BOCA Zombie version Screenshot](images/boca_zombie.g.png 'BOCA Zombie version Screenshot')
@@ -73,7 +73,7 @@ part of what makes it so funny.
 * **[3]** [BOCA Dance Video (Part Change version)](https://www.youtube.com/watch?v=8ggaDmDFWfE)
 
 
-## Interlude
+## Interlude: Self-made MVs for awesome B-sides
 
 Are you still with us? Like what you've been hearing so far?
 Let's do a few B-sides that will give you a first glimpse of the real people behind the polished idol surface.
@@ -109,7 +109,7 @@ Chase Me and Good Night should ideally be watched back to back.
 * **[X]** [Breaking Out](https://www.youtube.com/watch?v=SHmOpFbFgrM) [[S]](Breaking_Out_spoilers.md) (Japanese release connected to the Nightmare era)
 * **[X]** [The Curse of the Spider (2024 Concert Version)](https://www.youtube.com/watch?v=JUcuTIMTZq4) (B-side connected to the Nightmare era)
 
-### Alternate versions
+### Alternative versions
 
 ![What relay dance Screenshot](images/what_relay_dance.g.png 'What relay dance Screenshot')
 
@@ -132,7 +132,7 @@ I'm recommending this video for two reasons:
 
 * [Dodging Disbandment and Other Extreme Sports: A History of Dreamcatcher](https://www.youtube.com/watch?v=YIgCAp3i1os)
 
-## Interlude II
+## Interlude II: Minx
 
 If you've made it here, and still enjoy yourself, consider yourself a BabySomnia!
 As JiU once said, "Dreamcatcher is like a black hole. Once you go in you won't be able to get out."
@@ -160,7 +160,7 @@ Not all Dreamcatcher releases belong to story archs, let's catch up with the non
 * [R.o.S.E. BLUE](https://www.youtube.com/watch?v=Lja79dlQiZI) [[H]](RoSE_BLUE_hints.md), [[S]](RoSE_BLUE_spoilers.md)
 * [BEcause](https://www.youtube.com/watch?v=PEKkdIT8JPM) [[H]](BEcause_hints.md), [[S]](BEcause_spoilers.md)
 
-### Alternate versions
+### Alternative versions
 
 * **[4]** [BEcause Dance Video](https://www.youtube.com/watch?v=TG32s-ivmjY) *(I love the music video, but missing out on the choreography would be a bad mistake)*
 * **[3][4]** [BEcause relay dance](https://www.youtube.com/watch?v=XmWoGlrTPsA) *(This relay dance combines goofiness with crazy choreography; the only problem is knowing what to focus on; might trigger copyright strikes)*
@@ -174,7 +174,7 @@ Not all Dreamcatcher releases belong to story archs, let's catch up with the non
 * [Vision](https://www.youtube.com/watch?v=jKrJBVLnRiM) [[H]](Vision_hints.md)
 * [Bon Voyage](https://www.youtube.com/watch?v=RPNaYj6etb8) [[H]](Bon_Voyage_hints.md)
 
-### Alternate versions
+### Alternative versions
 
 * [Maison Stage Mix](https://www.youtube.com/watch?v=e76SadRkkaQ) *(This is a cross-edit of their various stage performances; **very** likely to trigger copyright strikes)*
 * **[A]** [Maison Backstage](https://www.youtube.com/watch?v=SOAmF7RwFkk) [[S]](Maison_Backstage_spoilers.md)
@@ -195,7 +195,7 @@ but when factoring in the lore (some of which is mentioned in the spoiler for OO
 * [OOTD]() [[H]](OOTD_hints.md)
 * [Justice](https://www.youtube.com/watch?v=Wkn6s8RuUDg) [[H]](Justice_hints.md)
 
-### Alternate versions
+### Alternative versions
 
 * **[1][4]** [Justice dancEAR Live Performance](https://www.youtube.com/watch?v=mmDSxJxyxTw) [[H]](Justice_dancEAR_hints.md) *(Spatial audio, live singing)*
 * **[1]** [Justice Band Live Concert (It's Live)](https://www.youtube.com/watch?v=ZeXZ_ixi58I) *(Has what all Dreamcatcher songs title tracks should have; a live band and headbanging)*
@@ -357,6 +357,9 @@ That said, even with context included a lot of things just cannot be explained.
 * **[3]** [This is Gahyun 2023](https://www.youtube.com/watch?v=2y4_vCp2CNI) *(Insomnicsy's 2023-edition of the Gahyun guide)*
 
 ### Mukbang
+
+![Dreamcatcher mukbang series ep 1: chicken](images/mukbang_chicken.g.png 'Dreamcatcher mukbang series ep 1: chicken')
+![Dreamcatcher mukbang series ep 2: burger](images/mukbang_burger.g.png 'Dreamcatcher mukbang series ep 2: burger')
 
 Dreamcatcher *loves* food, and unlike most companies Dreamcatcher Company (ex Happyface Entertainment) doesn't force them to starve.
 Instead the policy is that it's better to stay fit by exercise and eating well.
