@@ -361,6 +361,10 @@ A lot of these a fancams or have bad audio for other reasons. But they're all wo
 
 ## Interviews
 
+![Moonbyul, Sua, Siyeon, Dami, Gahyun: Studio Moon Night 2021-03-05 Screenshot](images/studio_moon_night_20210305.g.png 'Moonbyul, Sua, Siyeon, Dami, Gahyun: Studio Moon Night 2021-03-05 ScreenshotScreenshot')
+![Moonbyul, Dreamcatcher: Studio Moon Night 2021-08-09](images/studio_moon_night_20210809.g.png 'Moonbyul, Dreamcatcher: Studio Moon Night 2021-08-09')
+![Moonbyul, Dreamcatcher: Studio Moon Night 2022-04-29](images/studio_moon_night_20220429.g.png 'Moonbyul, Dreamcatcher: Studio Moon Night 2022-04-29')
+
 * [Moonbyul, Sua, Siyeon, Dami, Gahyun: Studio Moon Night 2021-03-05](https://www.youtube.com/watch?v=XSSzdYOC4-o) *(A subset of Dreamcatcher got invited to Studio Moon Night)*
 * [Moonbyul, Dreamcatcher: Studio Moon Night 2021-08-09](https://www.youtube.com/watch?v=WwesEn2B2tg) *(Back again; this time all of Dreamcatcher got invited to Studio Moon Night)*
 * [Moonbyul, Dreamcatcher: Studio Moon Night 2022-04-29](https://www.youtube.com/watch?v=Ma_vf4Y4iIE) *(Their third visit to Studio Moon Night **spoiler alert** do not watch before watching the Apocalypse Trilogy)*
