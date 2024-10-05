@@ -187,6 +187,11 @@ Not all Dreamcatcher releases belong to story archs, let us catch up with the no
 
 ### Music videos
 
+![Maison Screenshot](images/maison.g.png 'Maison Screenshot')
+![Reason Screenshot](images/reason.g.png 'Reason Screenshot')
+![Vision Screenshot](images/vision.g.png 'Vision Screenshot')
+![Bon Voyage Screenshot](images/bon_voyage.g.png 'Bon Voyage Screenshot')
+
 * [Maison](https://www.youtube.com/watch?v=z4t9LLq1Nk0) [[H]](Maison_hints.md)
 * [Reason](https://www.youtube.com/watch?v=G3fUZUh1LBs) [[H]](Reason_hints.md) *(Dreamcatcher\'s third fan-song released at Dreamcatcher\'s 6th anniversary; not part of the Apocalypse trilogy, but just trust me, this is where it belongs; be sure to watch with lyrics)*
 * [Vision](https://www.youtube.com/watch?v=jKrJBVLnRiM) [[H]](Vision_hints.md)
@@ -194,12 +199,19 @@ Not all Dreamcatcher releases belong to story archs, let us catch up with the no
 
 ### Alternative versions
 
-* [Maison Stage Mix](https://www.youtube.com/watch?v=e76SadRkkaQ) *(This is a cross-edit of their various stage performances; **very** likely to trigger copyright strikes)*
-* **[A]** [Maison Backstage](https://www.youtube.com/watch?v=SOAmF7RwFkk) [[S]](Maison_Backstage_spoilers.md)
-* [Maison Show Champion Performance](https://www.youtube.com/watch?v=aLgL6_C3Edo) *(Their Show Champion performance; likely to trigger copyright strikes)*
-* **[3][4]** [Bon Voyage relay dance](https://www.youtube.com/watch?v=YrK5OAL67oc) *(This relay dance combines goofiness with crazy choreography; the only problem is knowing what to focus on; might trigger copyright strikes)*
+![Maison (stage mix) Screenshot](images/maison_stage_mix.g.png 'Maison (stage mix) Screenshot')
+![Maison (backstage) Screenshot](images/maison_backstage.g.png 'Maison (backstage) Screenshot')
+![Bon Voyage (relay dance) Screenshot](images/bon_voyage_relay_dance.g.png 'Bon Voyage (relay dance) Screenshot')
+
+* [Maison (stage mix)](https://www.youtube.com/watch?v=e76SadRkkaQ) *(This is a cross-edit of their various stage performances; **very** likely to trigger copyright strikes)*
+* **[A]** [Maison (backstage)](https://www.youtube.com/watch?v=SOAmF7RwFkk) [[S]](Maison_Backstage_spoilers.md)
+* [Maison (Show Champion performance)](https://www.youtube.com/watch?v=aLgL6_C3Edo) *(Their Show Champion performance; likely to trigger copyright strikes)*
+* **[3][4]** [Bon Voyage (relay dance)](https://www.youtube.com/watch?v=YrK5OAL67oc) *(This relay dance combines goofiness with crazy choreography; the only problem is knowing what to focus on; might trigger copyright strikes)*
 
 ### Related videos
+
+![Interview with JiU before Vision comeback Screenshot](images/interview_with_jiu_before_vision_comeback.g.png 'Interview with JiU before Vision comeback Screenshot')
+
 * **[1][6]** [Interview with JiU before Vision comeback](https://www.youtube.com/watch?v=UnVwsSP3_30) *(JiU talks about her and the group's career)*
 
 ## [1] VersuS Duology
@@ -210,7 +222,10 @@ but when factoring in the lore (some of which is mentioned in the spoiler for OO
 
 ### Music videos
 
-* [OOTD]() [[H]](OOTD_hints.md)
+![OOTD Screenshot](images/ootd.g.png 'OOTD Screenshot')
+![Justice Screenshot](images/justice.g.png 'Justice Screenshot')
+
+* [OOTD](https://www.youtube.com/watch?v=OKcRvqJlQog) [[H]](OOTD_hints.md)
 * [Justice](https://www.youtube.com/watch?v=Wkn6s8RuUDg) [[H]](Justice_hints.md)
 
 ### Alternative versions
