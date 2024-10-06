@@ -1,25 +1,35 @@
 # Recommended watching for Dreamcatcher
 
 First of all, there's no need to slavishly follow the order in this guide.
-But sticking to the order within each section is recommended, at least for the sections
-that have "trilogy", "era", or "duology" in their names.
+But sticking to the order within each section is recommended, at least for the
+sections that have "trilogy", "era", or "duology" in their names. Also, not
+surprisingly any guides, interviews, behind the scenes, etc. may contain
+spoilers.  So if you're doing reactions, either follow the order here, or stick
+only to MVs + relay dances + choreography vides + showcases.
 
-Second of all, if you came here BEcause you already watched some Dreamcatcher video and now
-feel confused, it's probably best to find the section that contains the video you saw,
-and start from the beginning in that section. So for instance, if your introduction to
-Dreamcatcher happened to be BOCA (a rather common thing), you'd go to the section
-containing the Dystopia trilogy and watch Scream, BOCA again just to refresh your memory,
-then Odd Eye. If you're still confused after that you can read the spoilers.
+Second of all, if you came here because you have already watched some
+Dreamcatcher video but felt confused by the video, it's probably best to find
+the section that contains the video you saw, and start from the beginning in
+that section (or simply read the hints/spoilers).
+
+So for instance, if your introduction to Dreamcatcher happened to be BOCA (a
+rather common thing), you'd go to the section containing the Dystopia trilogy
+and watch Scream, BOCA (again, just to refresh your memory), then Odd Eye.
+If you're still confused after that you can read the spoilers.
 
 If you're not here because you want to react to Dreamcatcher, feel free to jump around
 however you choose. For your own viewing experience I'd recommend watching
-the documentary Dodging Disbandment and Other Extreme Sports before going to far,
+the documentary Dodging Disbandment and Other Extreme Sports before going too far,
 and not watch the alternative versions and related videos in the Apocalypse trilogy until
 you have watched at least the first music video (Maison) of that trilogy.
 
 Also, remember: **[S]** stands for **Spoilers**, **[H]** for **Hints**.
 The info in **[H]** is intended to be read before watching the video to help understand the video without spoiling anything important,
 the info in **[S]** is intended to clarify things if you're still confused after watching the video.
+A [S] before a video indicates that it spoils material that preceeds it in the guide.
+
+**NOTE**: Everything in the sections **Interviews**, **Chaoscatcher**, and **Insomnicsy** may contain spoilers.
+Those videos will **NOT** have separate spoiler warnings.
 
 ## [1] A first peek (dipping your toes)
 
@@ -144,7 +154,7 @@ this video is recommended for two reasons:
 
 ![Dodging Disbandment and Other Extreme Sports: A History of Dreamcatcher Screenshot](images/dodging_disbandment_and_other_extreme_sports.g.png 'Dodging Disbandment and Other Extreme Sports: A History of Dreamcatcher Screenshot')
 
-* [Dodging Disbandment and Other Extreme Sports: A History of Dreamcatcher](https://www.youtube.com/watch?v=YIgCAp3i1os)
+* **[S]** [Dodging Disbandment and Other Extreme Sports: A History of Dreamcatcher](https://www.youtube.com/watch?v=YIgCAp3i1os)
 
 ## Interlude II: Minx
 
@@ -212,15 +222,15 @@ Not all Dreamcatcher releases belong to story archs, let us catch up with the no
 ![Bon Voyage (relay dance) Screenshot](images/bon_voyage_relay_dance.g.png 'Bon Voyage (relay dance) Screenshot')
 
 * [Maison (stage mix)](https://www.youtube.com/watch?v=e76SadRkkaQ) *(This is a cross-edit of their various stage performances; **very** likely to trigger copyright strikes)*
-* **[A]** [Maison (backstage)](https://www.youtube.com/watch?v=SOAmF7RwFkk) [[S]](Maison_Backstage_spoilers.md)
-* [Maison (Show Champion performance)](https://www.youtube.com/watch?v=aLgL6_C3Edo) *(Their Show Champion performance; likely to trigger copyright strikes)*
+* **[S][A]** [Maison (backstage)](https://www.youtube.com/watch?v=SOAmF7RwFkk) [[S]](Maison_Backstage_spoilers.md)
+* **[S]** [Maison (Show Champion performance)](https://www.youtube.com/watch?v=aLgL6_C3Edo) *(Their Show Champion performance; likely to trigger copyright strikes)*
 * **[3][4]** [Bon Voyage (relay dance)](https://www.youtube.com/watch?v=YrK5OAL67oc) *(This relay dance combines goofiness with crazy choreography; the only problem is knowing what to focus on; might trigger copyright strikes)*
 
 ### Related videos
 
 ![Interview with JiU before Vision comeback Screenshot](images/interview_with_jiu_before_vision_comeback.g.png 'Interview with JiU before Vision comeback Screenshot')
 
-* **[1][6]** [Interview with JiU before Vision comeback](https://www.youtube.com/watch?v=UnVwsSP3_30) *(JiU talks about her and the group's career)*
+* **[S][1][6]** [Interview with JiU before Vision comeback](https://www.youtube.com/watch?v=UnVwsSP3_30) *(JiU talks about her and the group's career)*
 
 ## [1] VersuS Duology
 
@@ -246,7 +256,7 @@ but when factoring in the lore (some of which is mentioned in the spoiler for OO
 
 ### External reading
 
-* [Full analysis of the VersuS duology](https://genius.com/discussions/484386-Feature-a-fight-between-villains-and-heroes-explaining-dreamcatchers-versus-series)
+* **[S]** [Full analysis of the VersuS duology](https://genius.com/discussions/484386-Feature-a-fight-between-villains-and-heroes-explaining-dreamcatchers-versus-series)
 
 ## Interlude III
 
@@ -352,6 +362,12 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 * **[4][5]** [Dreamcatcher: Abracadabra relay dance](https://www.youtube.com/watch?v=S0-AJT9IPcY)
 
 ## Miscellaneous performance videos
+
+![All No Dot stages from North American tour Screenshot](images/all_no_dot_stages.g.png 'All No Dot stages from North American tour Screenshot')
+![SuA, Handong, Yoohyeon: Cider (original by Norazuda) Screenshot](images/cider.g.png 'SuA, Handong, Yoohyeon: Cider (original by Norazuda) Screenshot')
+![Halloween busking 2018 dance performance (fancam) Screenshot](images/halloween_busking_2018.g.png 'Halloween busking 2018 dance performance (fancam) Screenshot')
+![Halloween fan meet 2019 Deja Vu (fancam) Screenshot](images/halloween_2019.g.png 'Halloween fan meet 2019 Deja Vu (fancam) Screenshot')
+![Dystopia Live Band Concert 2020 Dear (fancam) Screenshot](images/halloween_2020.g.png 'Dystopia Live Band Concert 2020 Dear (fancam) Screenshot')
 
 A lot of these a fancams or have bad audio for other reasons. But they're all worth watching for other reasons.
 
