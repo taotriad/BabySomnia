@@ -52,7 +52,7 @@ Dreamcatcher in general; for music just think of yourself as a reactor.
 **[0]** [Some general K-pop terminology if you need a primer](Kpop_terminology_primer.md)  
 **[1][6]** [Dreamcatcher specific terminology](Dreamcatcher_specific_terminology_primer.md)
 
-**[A]** [Basic facts about Dreamcatcher](Basic_facts_about_Dreamcatcher.md)
+**[A]** [Basic facts about Dreamcatcher](Basic_facts_about_Dreamcatcher.md)  
 **[A]** [Discography](Discography.md)
 
 ## [1] Things to keep in mind when doing reaction videos
