@@ -331,8 +331,20 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 
 ## [7] Covers
 
-![Bang Bang Bang Screenshot](images/bang_bang_bang.g.png 'Bang Bang Bang Screenshot') ![Speechless Screenshot](images/speechless.g.png 'Speechless Screenshot') ![Oort Cloud Screenshot](images/oort_cloud.g.png 'Oort Cloud Screenshot')
+![Lucky Strike Screenshot](images/lucky_strike.g.png 'Lucky Strike Screenshot')
+![Bang Bang Bang Screenshot](images/bang_bang_bang.g.png 'Bang Bang Bang Screenshot')
+![What Makes You Beautiful Screenshot](images/what_makes_you_beautiful.g.png 'What Makes You Beautiful Screenshot')
+![Really Really Screenshot](images/really_really.g.png 'Really Really Screenshot')
+![Love 119 Screenshot](images/love_119.g.png 'Love 119 Screenshot')
+![I Love You 3000 Screenshot](images/i_love_you_3000.g.png 'I Love You 3000 Screenshot')
+![Titanium Screenshot](images/titanium.g.png 'Titanium Screenshot')
+![Oort Cloud Screenshot](images/oort_cloud.g.png 'Oort Cloud Screenshot')
+![Speechless Screenshot](images/speechless.g.png 'Speechless Screenshot')
+![Overdose Screenshot](images/overdose.g.png 'Overdose Screenshot')
 ![Every Day, Every Moment Screenshot](images/every_day_every_moment.g.png 'Every Day, Every Moment Screenshot')
+![Love Me or Leave Me Screenshot](images/love_me_or_leave_me.g.png 'Love Me or Leave Me Screenshot')
+![Coming of Age Ceremony Screenshot](images/coming_of_age_ceremony.g.png 'Coming of Age Ceremony Screenshot Screenshot')
+![Vanishing Paycheck Screenshot](images/vanishing_paycheck.g.png 'Vanishing Paycheck Screenshot')
 
 * [Dreamcatcher: Lucky Strike (original by Maroon 5)](https://www.youtube.com/watch?v=AM7ro_nBCHI) *(If you make a cover you might as well make it better than the original, right?)*
 * [Dreamcatcher: Bang Bang Bang (original by Big Bang)](https://www.youtube.com/watch?v=jzpfj7Rbvl4) *(Not only did they make a great cover, Dami wrote her own intro to the song)*
