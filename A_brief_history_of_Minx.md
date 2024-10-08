@@ -12,7 +12,7 @@ Before Dreamcatcher there was Minx. Minx was a 5-member group, formed in
 Minx' concept was cute.
 
 History:
-* 2014-08-09: First perofmance at Oak Valley Summertime Festival.
+* 2014-08-09: First performance at Oak Valley Summertime Festival.
 * 2014-09-15: Group officially announced as Minx.
 * 2014-09-18: Why Did You Come to My Home? (digital single only) (**debut**)
 * 2015-07-02: Love Shake (mini album; a cover of a B-side from Dal★Shabet) (**first—and only—comeback**)
