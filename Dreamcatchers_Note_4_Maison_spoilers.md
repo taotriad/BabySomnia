@@ -1,7 +1,10 @@
 # Maison: Guide with spoilers!
 
-Well, not much of a guide, really. This video was taken backstage where Dreamcatcher
-was waiting for the announcement of the winner. They can be heard talking along the lines of:
+Well, not much of a guide, really. This is the episode of Dreamcatcher's Note that covers
+their performance of Maison at Show Champion.
+
+The timestamp in the URL points it to when they're waiting for the announcement of the winner.
+They can be heard talking along the lines of:
 
 Dami: Maybe they left us for the content what we did, recorded just before the broadcast.  
 Yoohyeon: Then say bye-bye.  
@@ -27,12 +30,14 @@ they inevitably always answered that their wish was to get a show win.
 
 But this time it was different. When InSomnias asked before the promotions for Maison started,
 they just answered that they hoped that the fans would like the song and other non-committal answers;
-at this point it was clear that they had given up hope on ever winning a show. They knew that they were loved by their fans,
-they knew that their sales were good, they knew that their concerts attracted audiences,
-but by then they had also realised being loved by their fans was not enough to get a win.
+at this point it was clear that they had given up hope on ever winning a show.
+They knew that they were loved by their fans, they knew that their sales were good,
+they knew that their concerts attracted audiences, but by then they had also realised being loved
+by their fans was not enough to get a win.
 
 1923 days of waiting for the Dreamcatcher members.
 2771 days of waiting for the Minx members.
 
 Less than a week after the win at Show Champion they got their second win.
-At The Show. Their nemesis. Vindication.
+At The Show. Their nemesis. Vindication. Their win margin? 14 points...
+Kind of Deja Vu vibes here, eh? (If you don't get the reference it's time to watch Dodging Disbandment...)
