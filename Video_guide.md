@@ -429,10 +429,16 @@ but behind the scenes, or when they themselves write the scripts, oh boy, chaos 
 Note: Insomnicsy's "This Is..." videos are intended to be entertaining first and foremost; don't take them too seriously.
 That said, even with context included a lot of things just cannot be explained.
 
+*Note:* Since more 2024-editions started dropping after the first batch was added here.
+At least for the time being the new versions will be added, the old versions kept around,
+but the screenshots will *not* be updated.
+
 * **[6]** [Road to Fame (6th Anniversary Video)](https://www.youtube.com/watch?v=2u_ZG5Vf_3Q) *(Insomnicsy's 6th anniversary video about Dreamcatcher; obviously this video is full of spoilers)*
 * **[6]** [We Are Dreamcatcher (7th Anniversary Video)](https://www.youtube.com/watch?v=foVtASN01xQ) *(Insomnicsy's 7th anniversary video about Dreamcatcher; Likewise full of spoilers)*
 * **[3]** [This is JiU (2023)](https://www.youtube.com/watch?v=EiJSeXxonJ8) *(Insomnicsy's 2023-edition of the JiU guide)*
+* **[3]** [This is JiU (2024)](https://www.youtube.com/watch?v=KpNc4qpYbqU) *(Insomnicsy's 2024-edition of the JiU guide)*
 * **[3]** [This is SuA (2023)](https://www.youtube.com/watch?v=oy3AI7X7M0A) *(Insomnicsy's 2023-edition of the SuA guide)*
+* **[3]** [This is Siyeon (2023)](https://www.youtube.com/watch?v=t7gCrDVgczU) *(Insomnicsy's 2023-edition of the Siyeon guide)*
 * **[3]** [This is Siyeon (2024)](https://www.youtube.com/watch?v=lWIGxjlYjsQ) *(Insomnicsy's 2024-edition of the Siyeon guide)*
 * **[3]** [This is Handong (2023)](https://www.youtube.com/watch?v=WuEb3B05dnM) *(Insomnicsy's 2023-edition of the Handong guide)*
 * **[3]** [This is Yoohyeon (2023)](https://www.youtube.com/watch?v=AucsvJw7-oo) *(Insomnicsy's 2023-edition of the Yoohyeon guide)*
