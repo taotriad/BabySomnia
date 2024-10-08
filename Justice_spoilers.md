@@ -14,3 +14,6 @@ The third suspect would be JiU from the Deja Vu video;
 this is mainly based on the looks of the character and the fact that
 there are a lot of multiverse references during this era.
 Finally, the fourth suspect is that the character represents InSomnia.
+
+In OOTD they were singing about being flawless. In Justice they sing
+"clean me up", knowing that they're flawed.

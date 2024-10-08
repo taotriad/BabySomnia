@@ -17,16 +17,15 @@ rather common thing), you'd go to the section containing the Dystopia trilogy
 and watch Scream, BOCA (again, just to refresh your memory), then Odd Eye.
 If you're still confused after that you can read the spoilers.
 
-If you're not here because you want to react to Dreamcatcher, feel free to jump around
-however you choose. For your own viewing experience I'd recommend watching
-the documentary Dodging Disbandment and Other Extreme Sports before going too far,
-and not watch the alternative versions and related videos in the Apocalypse trilogy until
-you have watched at least the first music video (Maison) of that trilogy.
+If you're **not** here because you want to react to Dreamcatcher, feel free to jump around
+however you choose. In fact, if you don't mind song spoilers you might as well
+start off by watching the documentary
+**Dodging Disbandment and Other Extreme Sports**.
 
 Also, remember: **[S]** stands for **Spoilers**, **[H]** for **Hints**.
 The info in **[H]** is intended to be read before watching the video to help understand the video without spoiling anything important,
 the info in **[S]** is intended to clarify things if you're still confused after watching the video.
-A [S] before a video indicates that it spoils material that preceeds it in the guide.
+An **[S]** before a video indicates that it spoils material that preceeds it in the guide.
 
 **NOTE**: Everything in the sections **Interviews**, **Chaoscatcher**, and **Insomnicsy** may contain spoilers.
 Those videos will **NOT** have separate spoiler warnings.
