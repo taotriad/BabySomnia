@@ -341,7 +341,9 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 ![Speechless Screenshot](images/speechless.g.png 'Speechless Screenshot')
 ![Overdose Screenshot](images/overdose.g.png 'Overdose Screenshot')
 ![Every Day, Every Moment Screenshot](images/every_day_every_moment.g.png 'Every Day, Every Moment Screenshot')
+![A Heart of Sunflower, Jazz Bar, Daydream, Polaris (Chinese Medley) Screenshot](images/chinese_medley.g.png 'A Heart of Sunflower, Jazz Bar, Daydream, Polaris (Chinese Medley) Screenshot')
 ![Love Me or Leave Me Screenshot](images/love_me_or_leave_me.g.png 'Love Me or Leave Me Screenshot')
+![Touch Screenshot](images/touch.g.png 'Touch Screenshot')
 ![Coming of Age Ceremony Screenshot](images/coming_of_age_ceremony.g.png 'Coming of Age Ceremony Screenshot Screenshot')
 ![Vanishing Paycheck Screenshot](images/vanishing_paycheck.g.png 'Vanishing Paycheck Screenshot')
 
@@ -356,7 +358,9 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 * [Siyeon: Speechless (original from the Aladdin live action movie)](https://www.youtube.com/watch?v=tOBZjPuAKMQ) *(So good that Disney Music commented on it; as of writing this cover has 11M views)*
 * [Siyeon: Overdose (original by Exo)](https://www.youtube.com/watch?v=-B8x_bn8FKM) *(Siyeon participated in V1 singer and ended up second, but her cover of Overdose won everyone's heart)*
 * [Handong, Siyeon, Gahyun: Every Day, Every Moment (original by Paul Kim)](https://www.youtube.com/watch?v=FVCfrHgAXY8)
+* [Handong: A Heart of Sunflower, Jazz Bar, Daydream, Polaris (Chinese Medley) (original by Dreamcatcher)](https://www.youtube.com/watch?v=hKrni6lDCXU)
 * [Yoohyeon and Dami: Love Me or Leave Me (original by Day6)](https://www.youtube.com/watch?v=ghWFZoV3_L8) *(Music Video filmed on their day off in Hong Kong)*
+* [Yoohyeon: Touch (original by Little Mix)](https://www.youtube.com/watch?v=TM5RGrV77eI)
 * **[5]** [Gahyun: Coming of Age Ceremony (original by Park Ji Yoon)](https://www.youtube.com/watch?v=8047Ocu8gBw) *(Gahyun celebrated coming of age with a cover of, fittingly, Coming of Age ceremony)*
 * [Gahyun: Vanishing Paycheck (original by Stella Jang)](https://www.youtube.com/watch?v=xCORBPliQ0A) *(If you have seen her "Rich" clip, you will know why she decided to cover this song)*
 
