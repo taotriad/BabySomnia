@@ -1,9 +1,9 @@
 # Why Did You Come to My Home?: Hints and details to look out for
 
 This was Minx' debut single. Siyeon has a crazy high note at the end of the song,
-and she also pulled it off live on the debut stage.
+and she also performed it live on the debut stage.
 
-This song was released shortly before Siyeon's birthday; this means that 3 out of 5 members
+This song was released shortly before Siyeon's birthday. This means that 3 out of 5 members
 were underage (by Korean standards) when it released; Dami and Yoohyeon were merely 17,
 Siyeon just about to turn 19.
 
@@ -15,3 +15,5 @@ well received it was not a commercial success.
 
 Anyhow, a lot of band debuted or released successful albums right about the same time,
 so a band from a small company simply couldn't compete.
+
+*Note:* This song is based on [Why Did You Come to My Home? (Korean Nursery Rhyme)](https://www.youtube.com/watch?v=IYzGzWRr9Eg)
