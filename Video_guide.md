@@ -5,7 +5,7 @@ But sticking to the order within each section is recommended, at least for the
 sections that have "trilogy", "era", or "duology" in their names. Also, not
 surprisingly any guides, interviews, behind the scenes, etc. may contain
 spoilers.  So if you're doing reactions, either follow the order here, or stick
-only to MVs + relay dances + choreography vides + showcases.
+only to MVs + relay dances + choreography videos + showcases.
 
 Second of all, if you came here because you have already watched some
 Dreamcatcher video but felt confused by the video, it's probably best to find
@@ -25,7 +25,7 @@ start off by watching the documentary
 Also, remember: **[S]** stands for **Spoilers**, **[H]** for **Hints**.
 The info in **[H]** is intended to be read before watching the video to help understand the video without spoiling anything important,
 the info in **[S]** is intended to clarify things if you're still confused after watching the video.
-An **[S]** before a video indicates that it spoils material that preceeds it in the guide.
+An **[S]** before a video indicates that it spoils material that precedes it in the guide.
 
 **NOTE**: Everything in the sections **Interviews**, **Chaoscatcher**, and **Insomnicsy** may contain spoilers.
 Those videos will **NOT** have separate spoiler warnings.
@@ -136,7 +136,7 @@ Chase Me and Good Night should ideally be watched back to back.
 ![Piri (relay dance) Screenshot](images/piri_relay_dance.g.png 'Piri (relay dance) Screenshot')
 
 * **[4]** [Chase Me (dance video)](https://www.youtube.com/watch?v=jRW29bBK_oM) *(Chase Me is still regarded as one of their most demanding choreographies; several other companies have used it to test trainees)*
-* **[4]** [Good Night (dance video)](https://www.youtube.com/watch?v=2-kCpiibFAg) *(The choreo, especially the intro, is fantastic; the video is pretty crappy though)*
+* **[4]** [Good Night (dance video)](https://www.youtube.com/watch?v=2-kCpiibFAg) *(The choreography, especially the intro, is fantastic; the video is pretty crappy though)*
 * **[4]** [Good Night (dance practice)](https://www.youtube.com/watch?v=ceABfphGjUo) *(The dance practice video is probably better though, since it shows off the footwork in the intro)*
 * **[4]** [What (relay dance)](https://www.youtube.com/watch?v=KeBNIujhrtM) *(Since this is one of their earlier relay dances it's mostly crazy choreography; the goofiness is restricted to the end of the video; might trigger copyright strikes)*
 * **[4]** [Piri (relay dance)](https://www.youtube.com/watch?v=dcjEhPWUILo) *(Since this is one of their earlier relay dances it's mostly crazy choreography; the goofiness is restricted to the end of the video; might trigger copyright strikes)*
@@ -293,18 +293,18 @@ By now they have published over 100 B-sides, so this is only a small subset, mai
 * **[4][5]** [Black or White (performance video)](https://www.youtube.com/watch?v=-Q6iOxdsAbw) *(A clear tribute to Michael Jackson; might trigger copyright strikes)*
 * **[4][5]** [Black or White (Music Bank)](https://www.youtube.com/watch?v=6Ogxy2lU5qw) *(A visual feast; almost seamlessly spliced together from two takes of the same choreography but with different outfits; might trigger copyright strikes)*
 * [Jazz Bar](https://www.youtube.com/watch?v=AZoEESSF528)
-* **[4]** [Red Sun](https://www.youtube.com/watch?v=RKBJVdjOHUY) *(SuA choreographed this video; the choreo is outright hypnotic, which is fitting since the song is about hypnotism)*
+* **[4]** [Red Sun](https://www.youtube.com/watch?v=RKBJVdjOHUY) *(SuA choreographed this video; the choreography is outright hypnotic, which is fitting since the song is about hypnotism)*
 * [July 7th](https://www.youtube.com/watch?v=7u7vUzgtUlk) [[H]](July_7th_hints.md)
 * **[4]** [Sleepwalking](https://www.youtube.com/watch?v=2_GcbZlDnns) *(A really early Dreamcatcher song with a very low budget MV)*
 * [Fireflies](https://www.youtube.com/watch?v=lJTk5TPBl9M) *(A true vocal showcase, with a massive overdose of harmonies. Insomnicsy, one of the most famous Dreamcatcher fan-content producers, made a MV for it; be prepared with tissues)*
 * [Can't Get You Out of My Mind](https://www.youtube.com/watch?v=BC3hSEPLqEc) *(live performance with band)*
-* [Silent Night Live in Paris](https://www.youtube.com/watch?v=PtscFflDUMA) *(The sound quality is bad, the video quality is bad, but it's still awesome; this song is best heard live on location and you'll never know what choreo you'll get)*:
+* [Silent Night Live in Paris](https://www.youtube.com/watch?v=PtscFflDUMA) *(The sound quality is bad, the video quality is bad, but it's still awesome; this song is best heard live on location and you'll never know what choreography you'll get)*:
 * **[3]** [Break the Wall](https://www.youtube.com/watch?v=TqcPjwKU_zc) *(Self-made MV)* [[H]](Break_the_Wall_hints.md)
 
 ## [8] Solos and Sub-units
 
 Dreamcatcher only has one (semi-)official subunit; Yaja Time. Bong (SuA; maknae, vocals), Nibal (Siyeon, rapper, vocals), and Tafe (Yoohyeon; leader, vocals).
-They have only done covers though; some which are included in the *Covers* section. Dami and Siyeon have made one O.S.T. together.
+They have only done covers though; some which are included in the *Covers* section. Dami and Siyeon have made one OST together.
 
 All members have made at least one solo, published on Dreamcatcher's album Apocalypse: Save Us. SuA, Siyeon, Handong, and Dami have separate solo releases.
 
@@ -313,20 +313,20 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 ### Music videos
 
 * [JiU: Cherry—Real Miracle](https://www.youtube.com/watch?v=2L0q-nWS1xA) *(Warning: cuteness overload. JiU's love song to her dog)*
-* [SuA: Still with You](https://www.youtube.com/watch?v=pAn5MLPVa20) *(O.S.T. for the K-drama Café Minamdang)*
+* [SuA: Still with You](https://www.youtube.com/watch?v=pAn5MLPVa20) *(OST for the K-drama Café Minamdang)*
 * **[4]** [SuA: No Dot](https://www.youtube.com/watch?v=oxPyRRKEtHI)
 * [SuA: Feel Alive](https://www.youtube.com/watch?v=QZtMAXFSlZ0)
 * [Siyeon: Paradise](https://www.youtube.com/watch?v=BuaGs9W6Un8) [Paradise Piano Version](https://www.youtube.com/watch?v=tQQ4HO_5-v8) [Paradise: Black Version](https://www.youtube.com/watch?v=6TyOvuMWGSQ) [Paradise: White Version](https://www.youtube.com/watch?v=Za1tWSLbNYo) [[H]](Paradise_hints.md)
 * [Siyeon: Start Over](https://www.youtube.com/watch?v=YlNQFvpjwYU)
-* [Siyeon: Good Sera](https://www.youtube.com/watch?v=Vquzh9HKjlw) *(O.S.T. for the K-drama Into the Ring)*
-* [Siyeon and Dami: Shadow](https://www.youtube.com/watch?v=KzOiPkBRLEo) [Siyeon and Dami: Shadow Slow Version](https://www.youtube.com/watch?v=Cafd39K_MmQ) *(**Trigger warning**: If you don't like horror/zombies, don't watch. Likewise if you cannot handle hauntingly beautiful singing. O.S.T. for the K-drama Dark Hole)*
+* [Siyeon: Good Sera](https://www.youtube.com/watch?v=Vquzh9HKjlw) *(OST for the K-drama Into the Ring)*
+* [Siyeon and Dami: Shadow](https://www.youtube.com/watch?v=KzOiPkBRLEo) [Siyeon and Dami: Shadow Slow Version](https://www.youtube.com/watch?v=Cafd39K_MmQ) *(**Trigger warning**: If you don't like horror/zombies, don't watch. Likewise if you cannot handle hauntingly beautiful singing. OST for the K-drama Dark Hole)*
 * [Handong: First Light of Dawn](https://www.youtube.com/watch?v=WztTaJBB_R8)
 * [Handong: Snow](https://www.youtube.com/watch?v=jQ_ogJWssXU)
 * [Yoohyeon: For](https://www.youtube.com/watch?v=1HwjxbE7_Qw)
 * [Dami: Once Upon a Time](https://www.youtube.com/watch?v=KYnJFfeXeGI)
 * [Dami: Butterfly](https://www.youtube.com/watch?v=w8Tfb2R_-DY) *(Dami's good bye to Ddo Ddo, her dog 😭)*
 * **[4]** [Dami: Beauty. Full](https://www.youtube.com/watch?v=nivI7w9HagI) *(Dami goes Green Day meets Avril Lavigne)*
-* **[4]** [Gahyon: Playground](https://www.youtube.com/watch?v=iYvErpLnQ-8) *(Warning: cuteness overload)*
+* **[4]** [Gahyun: Playground](https://www.youtube.com/watch?v=iYvErpLnQ-8) *(Warning: cuteness overload)*
 
 ## [7] Covers
 
@@ -384,7 +384,7 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 ![Halloween fan meet 2019 Deja Vu (fancam) Screenshot](images/halloween_2019.g.png 'Halloween fan meet 2019 Deja Vu (fancam) Screenshot')
 ![Dystopia Live Band Concert 2020 Dear (fancam) Screenshot](images/halloween_2020.g.png 'Dystopia Live Band Concert 2020 Dear (fancam) Screenshot')
 
-A lot of these a fancams or have bad audio for other reasons. But they're all worth watching for other reasons.
+A lot of these are fancams or have bad audio for other reasons. But they're all worth watching for other reasons.
 
 * **[5]** [All No Dot stages from North American tour](https://www.youtube.com/watch?v=mzTNYCfZoaw) *(No matter who your bias is you'll see fantastic performances)*
 * **[3]** [SuA, Handong, Yoohyeon: Cider (original by Norazuda)](https://www.youtube.com/watch?v=l3AsyQ9jX-4) *(SuA, Handong, and Yoohyeon sing their anthem; they have performed it on at least 3 different shows)*
@@ -463,8 +463,8 @@ Handong loves hotpot, everyone loves chicken, pork, and steak.
 JiU's favourite food seems to be... Food. She's open to try pretty much everything.
 
 Dami *hates* pineapple due to a traumatic experience, SuA hates coffee
-(no trauma involved), Handong loves chocolate but is allergic, Siyeon dislikes
-seafood. Gahyun doesn't eat sweet potatoes, while Dami loves them.
+(no trauma involved to the best of my knowledge), Handong loves chocolate but is allergic, Siyeon dislikes seafood.
+Yoohyeon doesn't eat olives. Gahyun doesn't eat sweet potatoes, while Dami loves them.
 Everyone loves noodles, but they all have different favourites...
 
 * **[3][9]** [Dreamcatcher mukbang series ep 1: chicken](https://www.youtube.com/watch?v=A8IB7WIQqhQ)

@@ -9,7 +9,7 @@ people who have been requested to react to Dreamcatcher, etc.
 The guide makes the assumption that you have a fairly limited, or
 non-existing, exposure to Dreamcatcher, or at least to their music
 videos and history. Having heard their music without seeing the videos
-is OK. Having seen random tiktok clips or other clips also won't
+is OK. Having seen random TikTok clips or other clips also won't
 interfere with the general flow outlined here.
 
 If you're planning to react to Dreamcatcher's music videos,
@@ -59,7 +59,8 @@ Dreamcatcher in general; for music just think of yourself as a reactor.
 
 If you plan to react to their music, here are a few things to keep in mind:
 
-* Since the Dreamcatcher music videos are story heavy, most reactors seem to have a difficult time focusing on lyrics, music, and music video at the same time; 2 viewings might be a good idea, or just listening to the song first without the video.
+* Since the Dreamcatcher music videos tend to be story heavy, most reactors seem to have a difficult time focusing on lyrics, music, and music video at the same time; 2 viewings might be a good idea, or just listening to the song first without the video.
+  Another option is to pause and rewind. No matter what you do there will always be someone who complains. Do whatever feels best.
 * Don't spend too much effort on trying to tell the members apart at first. That will come with experience.
 * Finding correct lyrics videos, especially with correct line distribution, is tricky.
 * Most of their official music videos have subtitles. A few of them have subtitles that are prefixed with the name of the vocalist/rapper performing the current line, which is helpful to get to recognise the members.

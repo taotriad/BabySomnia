@@ -2,7 +2,7 @@
 
 The music video for BEcause is based on the movie Us by Jordan Peele,
 where doppelgangers replace people. This is represented by the members
-being snatched away, mirrored scenes, the same choreo mirrored with
+being snatched away, mirrored scenes, the same choreography mirrored with
 different colours, etc.
 
 Gahyun's "with your angelic face" definitely sounds like Für Elise,

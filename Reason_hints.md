@@ -36,6 +36,6 @@ The outdoor performance is from Primavera, one of the world's largest music fest
 where they performed as the first K-pop band ever at that festival;
 one of the world's largest festivals.
 
-A lot of the choreo clips are from their solos.
+A lot of the choreography clips are from their solos.
 
 All three rappers have their own rap parts in the song.

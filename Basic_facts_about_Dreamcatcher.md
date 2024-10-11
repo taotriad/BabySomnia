@@ -1,6 +1,6 @@
 # Basic facts about Dreamcatcher
 
-* The group has 7 members. In a few of the videos there are only 6 members (possibly with some additional background dancers); this is because one of the members was in China when Covid hit and wasn't allowed back to South Korea for one year.
+* The group has 7 members. In a few of the videos there are only 6 members (possibly with some additional background dancers); this is because one of the members was in China when Covid-19 hit and wasn't allowed back to South Korea for one year.
   The comeback for Justice in summer 2024 had the main vocalist Siyeon missing, but only during promotions. The music video and a few other videos has 7 members, but the showcases only have 6 members.
 * The group was formed in 2017[^](A_brief_history_of_Minx.md).
 * Most of their title tracks are pop/rock with other influences mixed in.
@@ -8,13 +8,13 @@
 * Leez left the company in 2022 when offered an exclusive contract with Hi-Hat Co., Ltd as music director.
 * Rock isn't very popular in South Korea, at least partially related to the "Rux scandal". Feel free to read about it, but watching any videos you might find is not recommended.
 * Their company used to be called Happy Face Entertainment (HFE; logotype: a red smiling face). Nowadays it's called Dreamcatcher Company (DCC).
-* The official fanclub is called InSomnia.
+* The official fan club is called InSomnia.
 * InSomnia has a reputation for being helpful (and thankful!) towards reactors and welcoming towards newcomers. This guide aims to continue that tradition.
-* The leader of Dreamcatcher, JiU, has said that she would want to collab with all girl groups. It stands to reason that any good InSomnia should behave well towards other fandoms.
+* The leader of Dreamcatcher, JiU, has said that she would want to collaborate with all girl groups. It stands to reason that any good InSomnia should behave well towards other fandoms.
 
 ## About the members
 
-Just like most Kpop bands the members change outfits, hairstyles,
+Just like most K-pop bands the members change outfits, hairstyles,
 contact lenses, hair colours, makeup, etc. between almost every performance.
 Partially because the different TV-shows demand that the performers
 look different outfits than on the competitors shows.

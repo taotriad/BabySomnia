@@ -1,6 +1,6 @@
 # Justice: Guide with spoilers!
 
-Dreamcatcher are now heros instead, out to seek to avenge the 100 victims.
+Dreamcatcher are now heroes instead, out to seek to avenge the 100 victims.
 In the beginning the choruses are gated, but once JiU breaks her bonds
 and frees herself the distortion disappears.
 

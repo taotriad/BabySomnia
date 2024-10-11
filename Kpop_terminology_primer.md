@@ -11,15 +11,15 @@
 * **Album**: Typically more songs than a mini album...
 * **Boy Group**: Not unsurprisingly an idol group with only boys.
   Maybe the most famous example is [BTS](https://bts.fandom.com/wiki/BTS_Wiki).
+* **Coed Group**: A group with a mix of boys and girls. Very rare.
+  Since these groups are rare, and since they are friends with **Dreamcatcher**,
+  I'll give [KARD](https://kard.fandom.com/wiki/KARD) as an example.
 * **Concept**: The theme that the band wants to project. Most bands tend to
   follow trends and change concept almost every comeback.
 * **Comeback**: Any subsequent release. Unlike Western terminology where
   the term tends to imply that the artist has been inactive during an
   extended period of time in-between releases, in K-pop the term
   simply means a new release.
-* **Coed Group**: A group with a mix of boys and girls. Very rare.
-  Since these groups are rare, and since they are friends with **Dreamcatcher**,
-  I'll give [KARD](https://kard.fandom.com/wiki/KARD) as an example.
 * **Debut**: An idol's or group's first official release.
 * **Disbandment**: Typically describes when the companies that an idol
   group belongs to decides that the group no longer deserves to continue
@@ -30,6 +30,12 @@
   agreement about whether we're at the end of 4th gen or the beginning
   of 5th gen. One way or the other, **Dal★Shabet** is generally regarded as
   late 2nd gen, **Minx** as middle 3rd gen, and **Dreamcatcher** as late 3rd gen.
+* **Fancam**: An unofficial recording of a performance or other type of event.
+  Often, but not always, focuses on one single member of a group.
+  Some **music shows** also release what they call fancams; in those cases
+  it's official videos, but focusing on one single member. This means that from
+  music shows with Dreamcatcher there might be 8-9 recordings of the same performance.
+  The "regular" recording, a from high-up recording, and 7 fancams.
 * **Girl Group**: An idol group with only girls. Duh. The best example is *obviously*
   **Dreamcatcher**. 🤩
 * **Mini album**: Typically more songs than than a single album...
@@ -43,10 +49,11 @@
 * **Eonnie**: Older sister (if you're female).
 * **Noona**: Older sister (if you're male).
 * **Nuna**: Alternative spelling of Noona.
+* **OST**: Original Soundtrack. Music made for a movie, TV-series, game, or similar.
 * **Promotion**: The period after a comeback during which the idol or
   idol group promotes their new release.
-* The Big 3; the biggest 3 companies. Recently this was expanded to The Big 4.
-* The Big 4; the biggest 4 companies. They have vastly more resources to
+* **The Big 3**: the biggest 3 companies. Recently this was expanded to The Big 4.
+* **The Big 4**: the biggest 4 companies. They have vastly more resources to
   spend on marketing, choreographers, song writers, etc., and often have
   connections with both the Music Shows and with other shows where the
   idols and idol groups typically promote.
@@ -66,6 +73,7 @@
   information about idols.
 * **Single album**: Typically not just one song...
 * **Stan**: A fan.
+* **Subunit**: A subset of an idol group.
 * **Sulbang**: Like a Mukbang, but with alcohol.
 * **Sunbaenim**: Senior at a workplace; in the context of K-pop this
   is an idol or group that debuted before yours.
@@ -75,6 +83,8 @@
   of an idol or idol group; groups that repeatedly fail to a get a win tend to
   get disbanded by their company.  Going a long time without a win is
   often a major cause of stress for idols.
+* **Yaja Time**: Time when juniors are permitted to speak informal to their seniors.
+  Typically only used between friends or siblings.
 
 ## Group positions
 
@@ -84,7 +94,7 @@
   (since choreographers' time is money). Often have solo dance parts.
 * **Dancer**: The remaining dancers.
 * **Leader**: Hopefully self-explanatory. Often, but not always,
-  either the oldest or the first cruited member of a group.
+  either the oldest or the first recruited member of a group.
   Several groups have changed their leader over time, for a variety of reasons.
   The leader changing careers or going solo is one reason. Another is if the company
   or the members lose their trust in the leader's ability to lead
@@ -95,7 +105,7 @@
   titled lead rappers analogous to lead vocalists.
 * **Rapper (Main)**: Reflecting the position of the main vocalist the main
   rapper does most of the rapping; many groups have only one rapper,
-  some does not have any rapper at all. Rappers often participe
+  some does not have any rapper at all. Rappers often participate
   in writing their own lyrics. Rappers often have different choreography
   than the other members during their raps; sometimes the rest of the
   members will stand aside completely during the rap.

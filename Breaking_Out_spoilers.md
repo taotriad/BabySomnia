@@ -1,6 +1,6 @@
 # Breaking Out: Guide with spoilers!
 
-Breaking Out is, dependending on whom you ask, either an alternative ending instead of Piri, or a sequel to Piri.
+Breaking Out is, depending on whom you ask, either an alternative ending instead of Piri, or a sequel to Piri.
 In Breaking Out the members struggle to reach each other. By following the red threads
 (the threads of destiny) they find each other.
 

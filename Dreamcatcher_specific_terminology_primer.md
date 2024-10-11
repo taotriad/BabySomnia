@@ -2,6 +2,7 @@
 
 ![MongMongie](images/mongmongie.g.jpg) ![MongMongie (Extensions)](images/mongmongie_extension.g.jpg) ![MongMongie replacement head](images/mongmongie_extension.g.jpg)
 
+* **BabySomnia**: A new **InSomnia**. Can be used both self-referentially to signal that you'll need help, or as a group term when talking about newcomers. Never use it as a derogatory term.
 * **Cherry**: JiU's pomeranian. JiU's solo song [Cherry (Real Miracle)](https://www.youtube.com/watch?v=2L0q-nWS1xA) is
   about, and dedicated to, Cherry.
 * **Dal★Shabet [(Dal★Shabet Wiki)](https://dalshabet.fandom.com/wiki/Dalshabet_Wiki)**: Dreamcatcher & Minx' sunbaenims at Happyface
