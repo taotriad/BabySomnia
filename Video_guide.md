@@ -271,7 +271,7 @@ They didn't have much luck, but at least it resulted in some great tracks.
 ### Music videos
 
 ![No More Screenshot](images/no_more.g.png 'No More Screenshot')
-![Don't Light My Fire Screenshot](images/dont_light_my_fire.g.png 'Don\'t Light My Fire Screenshot')
+![Don't Light My Fire Screenshot](images/dont_light_my_fire.g.png 'Don\'t Light My Fire Screenshot')[[H]](Dont_Light_My_Fire_hints.md)
 ![Endless Night Screenshot](images/endless_night.g.png 'Endless Night Screenshot')
 ![Eclipse Screenshot](images/eclipse.g.png 'Eclipse Screenshot')
 
