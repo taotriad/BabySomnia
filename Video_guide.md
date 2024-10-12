@@ -77,7 +77,7 @@ Those videos will **NOT** have separate spoiler warnings.
 know a bit about the personalities and quirks of the members, since that shines through quite heavily in that video and is a large
 part of what makes it so funny.
 
-* **[4]** [BOCA (choreo version)](https://www.youtube.com/watch?v=rfp2bGytsak) (The full version of the choreography from the music video)
+* **[4]** [BOCA (choreo version)](https://www.youtube.com/watch?v=rfp2bGytsak) *(The full version of the choreography from the music video)*
 * **[3][4]** [BOCA (zombie version)](https://www.youtube.com/watch?v=yAuJuHI00g8)
 * **[3]** [BOCA (dance video, part change version)](https://www.youtube.com/watch?v=8ggaDmDFWfE)
 
@@ -89,7 +89,7 @@ Let's do a few B-sides that will give you a first glimpse of the real people beh
 
 ## [3] First batch of B-sides
 
-**[3]** These two videos are a **must** even if you're only here because of random weird clips.
+**[3]** These two videos are a **must** even if you're only here because of random weird clips.  
 *Prediction*: If you enjoy these videos you're one of us.
 
 ### Music videos
