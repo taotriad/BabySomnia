@@ -30,13 +30,13 @@ An **[S]** before a video indicates that it spoils material that precedes it in 
 **NOTE**: Everything in the sections **Interviews**, **Chaoscatcher**, and **Insomnicsy** may contain spoilers.
 Those videos will **NOT** have separate spoiler warnings.
 
-## [1] A first peek (dipping your toes)
+## [1] Deja Vu: A first peek (dipping your toes)
 
 *Justification*: the reason to start with this video is that:
 
-1. it's one of their most popular tracks
-2. it is not connected to their other videos
-3. it had a quite reasonable budget for the music video
+1. It's one of their most popular tracks
+2. It is not connected to their other videos
+3. It had a quite reasonable budget for the music video
 
 *Prediction*: if you like this song you'll soon be an InSomnia. If not, well, there's still hope to win you over yet.
 
