@@ -5,5 +5,5 @@ represent Hear No Evil (🙉), Speak No Evil (🙊), and See No Evil (🙈).
 
 Odd Eye represents See No Evil (🙈).
 
-*Note*: Handong is back in this video.
+*Note*: Handong is back in this video.  
 *Hint*: Look at the starting position of the choreography.
