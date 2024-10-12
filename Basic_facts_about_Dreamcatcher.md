@@ -26,7 +26,7 @@ Recognition will come with time.
 
 ### The members are (ordered by age)
 
-* **JiU** (Kim Min-ji); [Jee-yoo]. Leader, lead vocalist, lead dancer. Born 1994. Calls herself Charisma rabbit. Animal: rabbit (🐰)
+* **JiU** (Kim Min-ji); [Jee-yoo]. Leader, lead vocalist, lead dancer. Born 1994. Calls herself Charisma rabbit (sometimes also Pink Princess). Animal: rabbit (🐰)
 * **SuA** (Kim Bo-ra) [Soo-ah]. Main dancer, vocalist. Used to be lead rapper. Born 1994. Calls herself Queen SuA. Animal: crow-tit (🐥)
 * **Siyeon** (Lee Si-yeon) [She-yawn]. Main vocalist. Born 1995. Calls herself Wolfie (due to her intense stare on stage). Animal: wolf (🐺)
 * **Handong** (Han Dong) [Hahn-dong]. Vocalist. Born 1996. Chinese. Calls herself Ice Princess. Animal: cat (🐱)
