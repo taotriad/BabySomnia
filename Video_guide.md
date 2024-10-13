@@ -242,8 +242,8 @@ but when factoring in the lore (some of which is mentioned in the spoiler for OO
 ![OOTD Screenshot](images/ootd.g.png 'OOTD Screenshot')
 ![Justice Screenshot](images/justice.g.png 'Justice Screenshot')
 
-* [OOTD](https://www.youtube.com/watch?v=OKcRvqJlQog) [[H]](OOTD_hints.md)
-* [Justice](https://www.youtube.com/watch?v=Wkn6s8RuUDg) [[H]](Justice_hints.md)
+* [OOTD](https://www.youtube.com/watch?v=OKcRvqJlQog) [[H]](OOTD_hints.md), [[S]](OOTD_spoilers.md)
+* [Justice](https://www.youtube.com/watch?v=Wkn6s8RuUDg) [[H]](Justice_hints.md), [[S]](Justice_spoilers.md)
 
 ### Alternative versions
 
