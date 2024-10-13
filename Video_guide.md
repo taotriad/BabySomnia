@@ -266,7 +266,7 @@ to get some depth.
 ## [1][2][6] Japanese releases
 
 So, you are a rocker? Most of this section is for you! Dreamcatcher made a few attempts to get a break-through in the Japanese market.
-They didn't have much luck, but at least it resulted in some great tracks.
+They didn't have much luck (at least partially due to poor timing with Covid-19), but at least it resulted in some great tracks.
 
 ### Music videos
 
