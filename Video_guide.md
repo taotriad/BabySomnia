@@ -288,7 +288,7 @@ By now they have published over 100 B-sides, so this is only a small subset, mai
 
 ![Black or White (performance video) Screenshot](images/black_or_white_showcase.g.png 'Black or White (performance video) Screenshot')
 ![Black or White (Music Bank) Screenshot](images/black_or_white_music_bank.g.png 'Black or White (Music Bank) Screenshot')
-![Jazz Club Screenshot](images/jazz_club.g.png 'Jazz Club Screenshot')
+![Jazz Bar Screenshot](images/jazz_bar.g.png 'Jazz Bar Screenshot')
 ![Red Sun Screenshot](images/red_sun.g.png 'Red Sun Screenshot')
 ![July 7th Screenshot](images/july_7th.g.png 'July 7th Screenshot')
 ![Sleepwalking Screenshot](images/sleepwalking.g.png 'Sleepwalking Screenshot')
