@@ -325,8 +325,8 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 ![Snow Screenshot](images/snow.g.png 'Snow Screenshot')
 ![For Screenshot](images/for.g.png 'For Screenshot')
 ![Once Upon a Time Screenshot](images/once_upon_a_time.g.png 'Once Upon a Time Screenshot')
-![Butterfly Screenshot](images/.g.png 'Butterfly Screenshot')
-![Beauty. Full Screenshot](images/.g.png 'Beauty. Full Screenshot')
+![Butterfly Screenshot](images/butterfly.g.png 'Butterfly Screenshot')
+![Beauty. Full Screenshot](images/beauty_full.g.png 'Beauty. Full Screenshot')
 ![Playground Screenshot](images/playground.g.png 'Playground Screenshot')
 
 * [JiU: Cherry (Real Miracle)](https://www.youtube.com/watch?v=2L0q-nWS1xA) *(Warning: cuteness overload. JiU's love song to her dog)*
