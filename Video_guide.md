@@ -312,7 +312,12 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 
 ### Music videos
 
-* [JiU: Cherry—Real Miracle](https://www.youtube.com/watch?v=2L0q-nWS1xA) *(Warning: cuteness overload. JiU's love song to her dog)*
+![Cherry (Real Miracle) Screenshot](images/real_miracle.g.png 'Cherry (Real Miracle) Screenshot')
+![Still with You Screenshot](images/still_with_you.g.png 'Still with You Screenshot')
+![No Dot Screenshot](images/no_dot.g.png 'No Dot Screenshot')
+![Feel Alive Screenshot](images/feel_alive.g.png 'Feel Alive Screenshot')
+
+* [JiU: Cherry (Real Miracle)](https://www.youtube.com/watch?v=2L0q-nWS1xA) *(Warning: cuteness overload. JiU's love song to her dog)*
 * [SuA: Still with You](https://www.youtube.com/watch?v=pAn5MLPVa20) *(OST for the K-drama Café Minamdang)*
 * **[4]** [SuA: No Dot](https://www.youtube.com/watch?v=oxPyRRKEtHI)
 * [SuA: Feel Alive](https://www.youtube.com/watch?v=QZtMAXFSlZ0)
