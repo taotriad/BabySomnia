@@ -286,6 +286,13 @@ By now they have published over 100 B-sides, so this is only a small subset, mai
 
 ### Music videos
 
+![Black or White (performance video) Screenshot](images/black_or_white_showcase.g.png 'Black or White (performance video) Screenshot')
+![Black or White (Music Bank) Screenshot](images/black_or_white_music_bank.g.png 'Black or White (Music Bank) Screenshot')
+![Jazz Club Screenshot](images/jazz_club.g.png 'Jazz Club Screenshot')
+![Red Sun Screenshot](images/red_sun.g.png 'Red Sun Screenshot')
+![July 7th Screenshot](images/july_7th.g.png 'July 7th Screenshot')
+![Sleepwalking Screenshot](images/sleepwalking.g.png 'Sleepwalking Screenshot')
+![Fireflies Screenshot](images/fireflies.g.png 'Fireflies Screenshot')
 ![Break the Wall Screenshot](images/break_the_wall.g.png 'Break the Wall Screenshot')
 
 [5] If women in suits is your thing, both versions of Black or White are for you.
