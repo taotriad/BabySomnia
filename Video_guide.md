@@ -321,6 +321,13 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 ![Good Sera Screenshot](images/good_sera.g.png 'Good Sera Screenshot')
 ![Shadow Screenshot](images/shadow.g.png 'Shadow Screenshot')
 ![Shadow (Slow Version) Screenshot](images/shadow_slow_version.g.png 'Shadow (Slow Version) Screenshot')
+![First Light of Dawn Screenshot](images/first_light_of_dawn.g.png 'First Light of Dawn Screenshot')
+![Snow Screenshot](images/snow.g.png 'Snow Screenshot')
+![For Screenshot](images/for.g.png 'For Screenshot')
+![Once Upon a Time Screenshot](images/once_upon_a_time.g.png 'Once Upon a Time Screenshot')
+![Butterfly Screenshot](images/.g.png 'Butterfly Screenshot')
+![Beauty. Full Screenshot](images/.g.png 'Beauty. Full Screenshot')
+![Playground Screenshot](images/playground.g.png 'Playground Screenshot')
 
 * [JiU: Cherry (Real Miracle)](https://www.youtube.com/watch?v=2L0q-nWS1xA) *(Warning: cuteness overload. JiU's love song to her dog)*
 * [SuA: Still with You](https://www.youtube.com/watch?v=pAn5MLPVa20) *(OST for the K-drama Café Minamdang)*
