@@ -12,7 +12,7 @@ formed in 2014, consisting of:
 Minx' concept was cute.
 
 History:
-* 2014-08-09: First performance at Oak Valley Summertime Festival.
+* 2014-08-09: [First performance at Oak Valley Summertime Festival](https://www.youtube.com/watch?v=aRCRcR1nim0).
 * 2014-09-15: Group officially announced as Minx.
 * 2014-09-18: Why Did You Come to My Home? (digital single only) (**debut**)
 * 2014-12-22: [Minx x Dal★Shabet Rockin' Around the Christmas Tree](https://www.youtube.com/watch?v=lDmp6wSbozs)
