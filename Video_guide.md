@@ -293,6 +293,8 @@ By now they have published over 100 B-sides, so this is only a small subset, mai
 ![July 7th Screenshot](images/july_7th.g.png 'July 7th Screenshot')
 ![Sleepwalking Screenshot](images/sleepwalking.g.png 'Sleepwalking Screenshot')
 ![Fireflies Screenshot](images/fireflies.g.png 'Fireflies Screenshot')
+![Can't Get You Out of My Mind (live) Screenshot](images/cant_get_you_out_of_my_mind.g.png 'Can\'t Get You Out of My Mind (live) Screenshot')
+![Silent Night Live in Paris (fancam) Screenshot](images/silent_night_live_in_paris.g.png 'Silent Night Live in Paris (fancam) Screenshot')
 ![Break the Wall Screenshot](images/break_the_wall.g.png 'Break the Wall Screenshot')
 
 [5] If women in suits is your thing, both versions of Black or White are for you.
@@ -305,7 +307,7 @@ By now they have published over 100 B-sides, so this is only a small subset, mai
 * **[4]** [Sleepwalking](https://www.youtube.com/watch?v=2_GcbZlDnns) *(A really early Dreamcatcher song with a very low budget MV)*
 * [Fireflies](https://www.youtube.com/watch?v=lJTk5TPBl9M) *(A true vocal showcase, with a massive overdose of harmonies. Insomnicsy, one of the most famous Dreamcatcher fan-content producers, made a MV for it; be prepared with tissues)*
 * [Can't Get You Out of My Mind](https://www.youtube.com/watch?v=BC3hSEPLqEc) *(live performance with band)*
-* [Silent Night Live in Paris](https://www.youtube.com/watch?v=PtscFflDUMA) *(The sound quality is bad, the video quality is bad, but it's still awesome; this song is best heard live on location and you'll never know what choreography you'll get)*:
+* [Silent Night Live in Paris (fancam)](https://www.youtube.com/watch?v=PtscFflDUMA) *(The sound quality is bad, the video quality is bad, but it's still awesome; this song is best heard live on location and you'll never know what choreography you'll get)*:
 * **[3]** [Break the Wall](https://www.youtube.com/watch?v=TqcPjwKU_zc) *(Self-made MV)* [[H]](Break_the_Wall_hints.md)
 
 ## [8] Solos and Sub-units
