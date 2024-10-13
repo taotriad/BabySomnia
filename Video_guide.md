@@ -211,8 +211,8 @@ Not all Dreamcatcher releases belong to story archs, let us catch up with the no
 
 * [Maison](https://www.youtube.com/watch?v=z4t9LLq1Nk0) [[H]](Maison_hints.md)
 * [Reason](https://www.youtube.com/watch?v=G3fUZUh1LBs) [[H]](Reason_hints.md) *(Dreamcatcher\'s third fan-song released at Dreamcatcher\'s 6th anniversary; not part of the Apocalypse trilogy, but just trust me, this is where it belongs; be sure to watch with lyrics)*
-* [Vision](https://www.youtube.com/watch?v=jKrJBVLnRiM) [[H]](Vision_hints.md)
-* [Bon Voyage](https://www.youtube.com/watch?v=RPNaYj6etb8) [[H]](Bon_Voyage_hints.md)
+* [Vision](https://www.youtube.com/watch?v=jKrJBVLnRiM) [[H]](Vision_hints.md), [[S]](Vision_spoilers.md)
+* [Bon Voyage](https://www.youtube.com/watch?v=RPNaYj6etb8) [[H]](Bon_Voyage_hints.md), [[S]](Bon_Voyage_spoilers.md)
 
 ### Alternative versions
 
