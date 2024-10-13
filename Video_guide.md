@@ -316,6 +316,11 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 ![Still with You Screenshot](images/still_with_you.g.png 'Still with You Screenshot')
 ![No Dot Screenshot](images/no_dot.g.png 'No Dot Screenshot')
 ![Feel Alive Screenshot](images/feel_alive.g.png 'Feel Alive Screenshot')
+![Paradise Screenshot](images/paradise.g.png 'Paradise Screenshot')
+![Start Over Screenshot](images/start_over.g.png 'Start Over Screenshot')
+![Good Sera Screenshot](images/good_sera.g.png 'Good Sera Screenshot')
+![Shadow Screenshot](images/shadow.g.png 'Shadow Screenshot')
+![Shadow (Slow Version) Screenshot](images/shadow_slow_version.g.png 'Shadow (Slow Version) Screenshot')
 
 * [JiU: Cherry (Real Miracle)](https://www.youtube.com/watch?v=2L0q-nWS1xA) *(Warning: cuteness overload. JiU's love song to her dog)*
 * [SuA: Still with You](https://www.youtube.com/watch?v=pAn5MLPVa20) *(OST for the K-drama Café Minamdang)*
@@ -324,7 +329,7 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 * [Siyeon: Paradise](https://www.youtube.com/watch?v=BuaGs9W6Un8) [Paradise Piano Version](https://www.youtube.com/watch?v=tQQ4HO_5-v8) [Paradise: Black Version](https://www.youtube.com/watch?v=6TyOvuMWGSQ) [Paradise: White Version](https://www.youtube.com/watch?v=Za1tWSLbNYo) [[H]](Paradise_hints.md)
 * [Siyeon: Start Over](https://www.youtube.com/watch?v=YlNQFvpjwYU)
 * [Siyeon: Good Sera](https://www.youtube.com/watch?v=Vquzh9HKjlw) *(OST for the K-drama Into the Ring)*
-* [Siyeon and Dami: Shadow](https://www.youtube.com/watch?v=KzOiPkBRLEo) [Siyeon and Dami: Shadow Slow Version](https://www.youtube.com/watch?v=Cafd39K_MmQ) *(**Trigger warning**: If you don't like horror/zombies, don't watch. Likewise if you cannot handle hauntingly beautiful singing. OST for the K-drama Dark Hole)*
+* [Siyeon and Dami: Shadow](https://www.youtube.com/watch?v=KzOiPkBRLEo) [Siyeon and Dami: Shadow (Slow Version)](https://www.youtube.com/watch?v=Cafd39K_MmQ) *(**Trigger warning**: If you don't like horror/zombies, don't watch. Likewise if you cannot handle hauntingly beautiful singing. OST for the K-drama Dark Hole)*
 * [Handong: First Light of Dawn](https://www.youtube.com/watch?v=WztTaJBB_R8)
 * [Handong: Snow](https://www.youtube.com/watch?v=jQ_ogJWssXU)
 * [Yoohyeon: For](https://www.youtube.com/watch?v=1HwjxbE7_Qw)
