@@ -3,11 +3,11 @@
 Before Dreamcatcher there was Minx. Minx was a 5-member group,
 formed in 2014, consisting of:
 
-* JiU (leader, lead vocalist, lead dancer)
-* SuA (vocalist, lead rapper, main dancer)
-* Siyeon (main vocalist)
-* Yoohyeon (lead vocalist)
-* Dami (maknae, main rapper)
+* **JiU** (leader, lead vocalist, lead dancer)
+* **SuA** (vocalist, lead rapper, main dancer)
+* **Siyeon** (main vocalist)
+* **Yoohyeon** (lead vocalist)
+* **Dami** (maknae, main rapper)
 
 Minx' concept was cute.
 
