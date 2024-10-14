@@ -69,7 +69,7 @@
   much of their intimates; it took a few seconds for the producers to cut
   the live feed. The TV show ended up being cancelled and people were arrested.
   Ever since then rock music has had a bad reputation in Korea.
-* **Sasaeng**: A stalker or person who buys and sells private
+* **Sasaeng**: A stalker or person who buys and sells private.
   information about idols.
 * **Single album**: Typically not just one song...
 * **Stan**: A fan.

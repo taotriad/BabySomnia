@@ -4,7 +4,7 @@
   The comeback for Justice in summer 2024 had the main vocalist Siyeon missing, but only during promotions. The music video and a few other videos has 7 members, but the showcases only have 6 members.
 * The group was formed in 2017[^](A_brief_history_of_Minx.md).
 * Most of their title tracks are pop/rock with other influences mixed in.
-* Almost all their songs are composed by the same duo; Ollounder & Leez.
+* Almost all their songs are composed by the same duo; **Ollounder** (Oh Jong Hoon) & **Leez** (Lee Soo Min).
 * Leez left the company in 2022 when offered an exclusive contract with Hi-Hat Co., Ltd as music director.
 * Rock isn't very popular in South Korea, at least partially related to the "Rux scandal". Feel free to read about it, but watching any videos you might find is not recommended.
 * Their company used to be called Happy Face Entertainment (HFE; logotype: a red smiling face). Nowadays it's called Dreamcatcher Company (DCC).
@@ -43,8 +43,11 @@ word that sounds similar that means poop. Handong herself has pronounced her own
 * Initially JiU, Siyeon, and Dami shared a dorm room; JiU & Siyeon shared a bunk bed (JiU top bunk, Siyeon bottom bunk), Dami had a separate bed.
   SuA and Yoohyeon had the second room (Yoohyeon top bunk, SuA bottom bunk). Handong and Gahyun had the third room (Handong top bunk, Gahyun bottom bunk). One of their managers stayed in the fourth room.
 * Sometime in 2020 the manager moved out and Dami got that room to herself; JiU and Siyeon got their own beds.
-* A lot of their vlives are either recorded in the lower bunks in their rooms, directly on the floor with the camera facing their closets, or in the hallway in the closet area.
+* A lot of their vlives, especially during Covid-19, were either recorded in the lower bunks in their rooms, directly on the floor with the camera facing their closets, or in the hallway in the closet area.
 * For a long, long time their dorm didn't have a sofa. When watching TV they were either sitting on the floor or on a gigantic (Dami-sized) teddy bear that they got early on from a fan.
+* It seems that spring 2022 is the last time any of the members did vlives from anything resembling their old dorm. There have also been some vague statements alluding to them having their own place.
+  They still do joint vlives from time to time, but they're recorded at their office. It is speculated that they've moved to either to their own places,
+  or a new dorm. Most likely getting their own places or a new dorm was part of the renewed contract. Either way they are unlikely to disclose anything about new location(s) due to the the increase in sasaengs.
 
 ## External references
 
