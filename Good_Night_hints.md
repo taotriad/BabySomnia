@@ -3,3 +3,7 @@
 The music video resumes the story immediately after Chase Me.
 The cloaks worn in the final scene were later released as an official fan outfit
 along with the light stick.
+
+Cast:
+Paranormal investigator (Jo Dong Hyuk)
+Dreamcatcher
