@@ -2,12 +2,15 @@
 
 ## Introduction
 
+*The goal of this guide is to be helpful.*
+
 This guide is aimed at people who just stumbled upon Dreamcatcher,
 people who have been told that they *should* stumble upon Dreamcatcher,
-people who have been requested to react to Dreamcatcher, etc.
+people who have been requested to react to Dreamcatcher, etc.,
+or even just people who want to contribute to this guide to make it better.
 
 The guide makes the assumption that you have a fairly limited, or
-non-existing, exposure to Dreamcatcher, or at least to their music
+even non-existing, exposure to Dreamcatcher, or at least to their music
 videos and history. Having heard their music without seeing the videos
 is OK. Having seen random TikTok clips or other clips also won't
 interfere with the general flow outlined here.
@@ -16,12 +19,15 @@ If you're planning to react to Dreamcatcher's music videos,
 you should be aware that all Dreamcatcher main title videos
 have a deeper meaning.
 
-Therefore there all main titles will have two links attached;
+Therefore there all main titles will have one or two links attached;
 one to **[H]** ints and details to look out for.
 One to comments that contain **[S]** poilers.
 
 Furthermore a lot of the main titles are grouped into storylines.
-The storylines are introduced in the first title of the series.
+The storylines are introduced in the spoiler for the first title
+of a series, but explained throughout the spoilers.
+
+## Checklist
 
 You can use the checklist as a reference when figuring out
 what information in the guide is relevant to your particular
@@ -38,7 +44,7 @@ interests.
 **[8]** Are you interested solo songs and/or subunits?  
 **[9]** Do you like food related videos?  
 
-For of the titles before there are multiple video links.
+For some of the titles there are multiple video links.
 One will always be the primary music video (if any). The remaining links
 are typically performances with a live band, self-made music videos, etc.
 Videos that are primarily dance focused are tagged with **[4]**,
@@ -47,7 +53,7 @@ if they're primarily goofy they're tagged with **[3]**.
 Extra material that is recommended for every everyone are tagged with **[A]**.
 Extra material that complements an era is tagged with **[X]**.
 There will be no specific tags for people who want to get to know
-Dreamcatcher in general; for music just think of yourself as a reactor.
+Dreamcatcher music in general; just think of yourself as a reactor.
 
 **[0]** [Some general K-pop terminology if you need a primer](Kpop_terminology_primer.md)  
 **[1][6]** [Dreamcatcher specific terminology](Dreamcatcher_specific_terminology_primer.md)
@@ -67,6 +73,8 @@ If you plan to react to their music, here are a few things to keep in mind:
 * While it might be tempting to skip around randomly, Dreamcatcher's songs are grouped into themes; the music videos, and to some degree also the lyrics, are connected. Watching MVs within an era in the wrong order will be confusing.
 * **Dreamcatcher Company** does not seem to file copyright claims on YouTube. Japanese labels are typically stricter about copyright, but there are enough reactions to Dreamcatcher's Japanese releases to indicate this might not be an issue in Dreamcatcher's case.
 * **Music Shows** are *very* eager to file copyright claims. Some really good, and historically important, material is likely to be tricky to react to. My suggestion is to ask other reactors about their experience.
+* If any **Dreamcatcher** fans (**InSomnia**) seem overly/annoyingly eager to get more reactions, just remember that most of us are happy with what we get, and that a job you don't want to do will almost inevitably lead to a worse result than one you look forward to.
+* There are a lot of reactors out there. Don't try to be one of them. Be yourself. They are experts at being themselves, you're the expert at being yourself.
 
 ## [2] Rock music
 

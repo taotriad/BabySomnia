@@ -1,7 +1,7 @@
 # K-pop terminology primer
 
 * **7-year curse**: Most idols sign contracts that run for 7 years from
-  debut (unless the group is disbanded before that). The 7-year curse
+  debut (unless their group is disbanded before that). The 7-year curse
   refers to the fact that most groups don't make it past year 7 because
   some of the group members tend to want a solo career, other wants to
   quit entirely, etc.
@@ -16,12 +16,12 @@
   I'll give [KARD](https://kard.fandom.com/wiki/KARD) as an example.
 * **Concept**: The theme that the band wants to project. Most bands tend to
   follow trends and change concept almost every comeback.
-* **Comeback**: Any subsequent release. Unlike Western terminology where
+* **Comeback**: Any subsequent release after the debut. Unlike Western terminology where
   the term tends to imply that the artist has been inactive during an
   extended period of time in-between releases, in K-pop the term
   simply means a new release.
 * **Debut**: An idol's or group's first official release.
-* **Disbandment**: Typically describes when the companies that an idol
+* **Disbandment**: Typically describes when the company that an idol
   group belongs to decides that the group no longer deserves to continue
   existing.
 * **Gen(eration)**: K-pop groups tend to be lumped into generations.

@@ -10,6 +10,7 @@
 * Their company used to be called Happy Face Entertainment (HFE; logotype: a red smiling face). Nowadays it's called Dreamcatcher Company (DCC).
 * The official fan club is called InSomnia.
 * InSomnia has a reputation for being helpful (and thankful!) towards reactors and welcoming towards newcomers. This guide aims to continue that tradition.
+  That said, as the fandom has grown, inevitably there has been a surge of both sasaengs and toxic fans.
 * The leader of Dreamcatcher, JiU, has said that she would want to collaborate with all girl groups. It stands to reason that any good InSomnia should behave well towards other fandoms.
 
 ## About the members

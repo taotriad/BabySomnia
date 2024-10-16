@@ -379,7 +379,7 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 * [Yaja Time: Really Really (original by Winner)](https://www.youtube.com/watch?v=Y-MadjDYQYk)
 * [Yaja Time: Love 119 (original by Riize)](https://www.youtube.com/watch?v=075D94edXDk)
 * [JiU: I Love You 3000 (original by Stephanie Poetri)](https://www.youtube.com/watch?v=nlFepvQ59i0)
-* [SuA and Hwiseo from H1-Key: Titanium (original by David Guetta featuring Sia)](https://www.youtube.com/watch?v=waIoo19aKnc) *(H1-Key sent their fantastic main vocalist; Dreamcatcher's main vocalist was on a hiatus, so they sent their main dancer instead)*
+* [SuA and Hwiseo from H1-KEY: Titanium (original by David Guetta featuring Sia)](https://www.youtube.com/watch?v=waIoo19aKnc) *(H1-Key sent their fantastic main vocalist; Dreamcatcher's main vocalist was on a hiatus, so they sent their main dancer instead)*
 * [SuA and Siyeon: Oort Cloud (original by Younha)](https://www.youtube.com/watch?v=uGuu_vDF8f4)
 * [Siyeon: Speechless (original from the Aladdin live action movie)](https://www.youtube.com/watch?v=tOBZjPuAKMQ) *(So good that Disney Music commented on it; as of writing this cover has 11M views)*
 * [Siyeon: Overdose (original by Exo)](https://www.youtube.com/watch?v=-B8x_bn8FKM) *(Siyeon participated in V1 singer and ended up second, but her cover of Overdose won everyone's heart)*

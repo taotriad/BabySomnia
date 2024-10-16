@@ -5,8 +5,6 @@
 * **BabySomnia**: A new **InSomnia**. Can be used both self-referentially to signal that you'll need help, or as a group term when talking about newcomers. Never use it as a derogatory term.
 * **Cherry**: JiU's pomeranian. JiU's solo song [Cherry (Real Miracle)](https://www.youtube.com/watch?v=2L0q-nWS1xA) is
   about, and dedicated to, Cherry.
-* **Dal★Shabet [(Dal★Shabet Wiki)](https://dalshabet.fandom.com/wiki/Dalshabet_Wiki)**: Dreamcatcher & Minx' sunbaenims at Happyface
-  Entertainment.
 * **Dreamcatcher Company (DCC)**: The current name of the entertainment agency that manages Dreamcatcher.
 * **[Dreamcatcher Mind](https://www.youtube.com/playlist?list=PLmNaKWy1cIoF57e1tG9BTdbHv1sOIGllr)**: Dreamcatcher's own variety show. Currently
   one season, with 10 episodes, has been made. Rumour has it that they made their own show because they didn't get enough invitations to other shows.
@@ -28,3 +26,24 @@
   SuA got bored during the Covid-19 lockdown and recruited Siyeon. Initially the plan was that just the two of them would play all roles (Gahyun would act as camera person),
   but the other members soon wanted roles. Siyeon plays 4 roles (including one scene where she slaps herself), JiU plays Gahyun's baby, etc.
   They also recorded a soundtrack that's utterly magnificent.
+
+## Some K-pop idols with connections to Dreamcatcher
+
+* **[9Muses](https://9-muses.fandom.com/wiki/9MUSES)**: A girl group. Connected to Dreamcatcher via their main vocalist and leader, **Ryu Sera** (see separate entry).
+* **[ATEEZ](https://atiny.fandom.com/wiki/ATEEZ)**: A boy band. Uses mostly the same producers as Dreamcatcher.
+* **[Dal★Shabet](https://dalshabet.fandom.com/wiki/Dalshabet_Wiki)**: Dreamcatcher & Minx' sunbaenims at Happyface Entertainment.
+* **[Elkie Chong (Chong Ting-yan)](https://crystalclearclc.fandom.com/wiki/Elkie)**: Soloist. Lead vocalist of CLC. Friends with Handong.
+* **[Girls' Generation (aka SNSD)](https://girls-generation.fandom.com/wiki/Girls%27_Generation)**: One of K-pop's most famous girl groups. Dami's favourite girl group. She has met several of their members and received their autograph.
+* **[Hwiseo (Jo Hwi-hyeon)](https://h1-key.fandom.com/wiki/Hwiseo)**: Main vocalist in the girl group H1-KEY. Performed a cover of *Titanium* together with SuA.
+* **[KARD](https://kard.fandom.com/wiki/KARD)**: A coed group. Just like Dreamcatcher they are more popular internationally than in South Korea. Dami is close friends with Somin and Jiwoo.
+* **[Kei (Kim Ji Yeon)](https://lovelyz.fandom.com/wiki/Kei)**: Soloist. Main vocalist and lead dancer of Lovelyz. Friends with SuA.
+* **[Moonbyul (Moon Byul-yi)](https://mamamoo.fandom.com/wiki/Moon_Byul)**: Soloist. Rapper of Mamamoo. Has invited Dreamcatcher several times to her radio show *Studio Mooon Night*.
+* **[Rolling Quartz](https://kindie.fandom.com/wiki/Rolling_Quartz)**: An K-rock girl group. Their drummer, Yeongeun, has given Handong drumming lessons. Rolling Quartz has released a cover of *Chase Me*.
+* **Ryu Sera**: Ex-leader and main vocalist of the girl group 9Muses. Famously outspoken critic of the K-pop industry [9Muses Ryu Sera: Extreme Diet & Trauma Story 2010-2021](https://www.youtube.com/watch?v=I99JYtot560).
+  A lot of Loona fans recommended Dreamcatcher to her, so she decided to react to them. She quickly went from "I don't usually like rock sound" to being a stan;
+  has done [a fantastic interview with Dreamcatcher](https://www.youtube.com/watch?v=P3lxO6LqzSc). Sometimes referred to as president of InSomnia.
+* **[Seungyeon (Chang Seung-yeon)](https://crystalclearclc.fandom.com/wiki/Seungyeon)**: Soloist. Leader and vocalist of CLC. Friends with SuA.
+* **[Sunmi (Lee Sun-mi)](https://sun-mi.fandom.com/wiki/Sunmi)**: Soloist. Former member of Wonder Girls. Yoohyeon's idol. Yoohyeon met her (and got her number!) during Sunmi's *You Can't Sit with Us* promotion.
+
+*Note*: Members of groups that have been disbanded or are on indefinite hiatus are listed as members, while members who officially left the group are listed as former members.
+*Note*: This is obviously only a tiny subset. I've tried to include most of the idols encountered in the videos recommended here.
