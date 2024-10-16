@@ -9,7 +9,7 @@ formed in 2014, consisting of:
 * **Yoohyeon** (lead vocalist)
 * **Dami** (maknae, main rapper)
 
-Minx' concept was cute.
+Minx' concept was cute. Minx' official fan club was called Vitaminx.
 
 History:
 * 2014-08-09: [First performance at Oak Valley Summertime Festival](https://www.youtube.com/watch?v=aRCRcR1nim0).
