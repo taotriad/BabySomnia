@@ -1,6 +1,6 @@
 # Dreamcatcher Dealing with Malicious Comments and Sasaengs: Hints and details to look out for
 
-The clip with JiU, SuA, Siyeon, Yoohyeon, and Dami responding to hateful comments are from
+The clip with JiU, SuA, Siyeon, Yoohyeon, and Gahyun responding to hateful comments are from
 [this vlive](https://www.youtube.com/watch?v=prxH7Jo8wyE&t=1205s). The English subtitles in this vlive
 are watered down though.
 

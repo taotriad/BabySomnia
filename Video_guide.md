@@ -63,9 +63,9 @@ Those videos will **NOT** have separate spoiler warnings.
 ![BOCA Screenshot](images/boca.g.png 'BOCA Screenshot')
 ![Odd Eye Screenshot](images/odd_eye.g.png 'Odd Eye Screenshot')
 
-* [Scream](https://www.youtube.com/watch?v=FKlGHHhTOsQ) [[H]](Scream_hints.md) [[S]](Scream_spoilers.md)
-* [BOCA](https://www.youtube.com/watch?v=MZ4JGye4dQU) [[H]](BOCA_hints.md)
-* [Odd Eye](https://www.youtube.com/watch?v=1QD0FeZyDtQ) [[H]](Odd_Eye_hints.md) [[S]](Odd_Eye_spoilers.md)
+* [Scream](https://www.youtube.com/watch?v=FKlGHHhTOsQ) [[H]](Scream_hints.md), [[S]](Scream_spoilers.md)
+* [BOCA](https://www.youtube.com/watch?v=MZ4JGye4dQU) [[H]](BOCA_hints.md), [[S]](BOCA_spoilers.md)
+* [Odd Eye](https://www.youtube.com/watch?v=1QD0FeZyDtQ) [[H]](Odd_Eye_hints.md), [[S]](Odd_Eye_spoilers.md)
 
 ### Alternative versions
 
@@ -308,7 +308,7 @@ By now they have published over 100 B-sides, so this is only a small subset, mai
 * [Fireflies](https://www.youtube.com/watch?v=lJTk5TPBl9M) *(A true vocal showcase, with a massive overdose of harmonies. Insomnicsy, one of the most famous Dreamcatcher fan-content producers, made a MV for it; be prepared with tissues)*
 * [Can't Get You Out of My Mind](https://www.youtube.com/watch?v=BC3hSEPLqEc) *(live performance with band)*
 * [Silent Night Live in Paris (fancam)](https://www.youtube.com/watch?v=PtscFflDUMA) *(The sound quality is bad, the video quality is bad, but it's still awesome; this song is best heard live on location and you'll never know what choreography you'll get)*:
-* **[3]** [Break the Wall](https://www.youtube.com/watch?v=TqcPjwKU_zc) *(Self-made MV)* [[H]](Break_the_Wall_hints.md)
+* **[3]** [Break the Wall](https://www.youtube.com/watch?v=TqcPjwKU_zc) *(Self-made MV)* [[H]](Break_the_Wall_hints.md), [[S]](Break_the_Wall_spoilers.md)
 
 ## [8] Solos and Sub-units
 
