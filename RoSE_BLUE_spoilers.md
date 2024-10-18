@@ -22,4 +22,8 @@ and she is stuck in the alternate world.
 
 Some fans speculate that SuA was raging because she knew that JiU didn't have enough bullets.
 
-*Note*: Since Handong couldn't participate in the video she instead made [her own reaction video](https://www.youtube.com/watch?v=5-qxVhFq0Rw).
+## Notes
+
+* It's interesting to note that SuA's is the one who's being restrained; in the Nightmare series her nightmare is fear of being restrained.
+  R.o.S.E. BLUE is not connected to the Nightmare era, but it might be a subtle nod to that series anyway.
+* Since Handong couldn't participate in the video she instead made [her own reaction video](https://www.youtube.com/watch?v=5-qxVhFq0Rw).

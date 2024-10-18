@@ -5,7 +5,10 @@ the entire video is shot in their waiting room and in the hallways around it.
 Among other things the video features the famous "K-pop staircase" at KBS Open Hall
 where Music Bank is recorded.
 
-*Note*: Handong is missing in this video since it was recorded during the Scream era.  
-*Note*: This music video was inspired by the "K-pop with Zero Budget!" series of videos.  
 **Important**: Make sure that you're watching with subtitles and that you follow both what
 happens on-screen and the subtitles. They correlate *very* closely.
+
+# Notes
+
+* Handong is missing in this video since it was recorded during the Scream era.
+* This music video was inspired by the "K-pop with Zero Budget!" series of videos.

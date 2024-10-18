@@ -5,8 +5,9 @@ represent Hear No Evil (🙉), Speak No Evil (🙊), and See No Evil (🙈).
 
 Scream represents Hear No Evil (🙉).
 
-The tree seen in the beginning and at other points throughout this video and in the following videos is the tree of language;
-the Internet.
+The tree seen in the beginning and at other points throughout this video and in the following videos is the tree of language; the Internet.
 
-*Note*: Handong is missing in this video, due to participating in Youth With You, a talent show in China and subsequently getting stuck in Wuhan due to Covid-19 travel restrictions.  
-*Note*: In choreography scenes there is one dancer wearing a mask; that dancer represents Handong.
+## Notes
+
+* Handong is missing in this video, due to participating in Youth With You, a talent show in China and subsequently getting stuck in Wuhan due to Covid-19 travel restrictions.
+* In choreography scenes there is one dancer wearing a mask; that dancer represents Handong.

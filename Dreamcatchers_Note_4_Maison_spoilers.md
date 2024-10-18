@@ -3,25 +3,24 @@
 Well, not much of a guide, really. This is the episode of Dreamcatcher's Note that covers
 their performance of Maison at Show Champion.
 
-The timestamp in the URL points it to when they're waiting for the announcement of the winner.
+The timestamp in the URL points to when they're waiting for the announcement of the winner.
 They can be heard talking along the lines of:
 
-Dami: Maybe they left us for the content what we did, recorded just before the broadcast.  
-Yoohyeon: Then say bye-bye.  
-Siyeon: (gesturing countdown t-1)  
-SuA: Who will be?  
-Dongie: It's probably not...
+**Dami**: Maybe they left us for the content what we did, recorded just before the broadcast.  
+**Yoohyeon**: Then say bye-bye.  
+**Siyeon**: (gesturing countdown t-1)  
+**SuA**: Who will be?  
+**Dongie**: It's probably not...
 
 [Maison starts playing]
 
-SuA: How?
+**SuA**: How?
 
 You can really see from JiU's expression that she was pretty certain though.
 
 No other girl group had gone that long before getting a win; at this point they would've gotten
-disbanded. One group (*Weki Meki*) actually survived longer than that without a win, but they got disbanded
-without ever getting a win. The story about Weki Meki's disbandment is definitely worth reading about;
-basically they released their last single *and* announced their disbandment on the same day).
+disbanded. One group (*Weki Meki*) actually survived longer than that,
+[but they got disbanded without ever getting a win.](https://www.koreaboo.com/news/weki-meki-final-comeback-before-disbandment-leaves-many-disappointed/).
 
 Anyhow, back to Dreamcatcher.
 
@@ -35,8 +34,8 @@ They knew that they were loved by their fans, they knew that their sales were go
 they knew that their concerts attracted audiences, but by then they had also realised being loved
 by their fans was not enough to get a win.
 
-1923 days of waiting for the Dreamcatcher members.
-2771 days of waiting for the Minx members.
+**1923** days of waiting for the Dreamcatcher members.
+**2771** days of waiting for the Minx members.
 
 Less than a week after the win at Show Champion they got their second win.
 At The Show. Their nemesis. Vindication. Their win margin? 14 points...

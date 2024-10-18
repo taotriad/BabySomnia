@@ -2,9 +2,11 @@
 
 The music video resumes the story immediately after Chase Me.
 
-*Note*: The hand grabbing the book is Dami's hand.
-
 ## Cast
 
-**Jo Dong Hyuk**: Paranormal investigator  
-**Dreamcatcher**: The Seven Girls
+* **Jo Dong Hyuk**: Paranormal investigator
+* **Dreamcatcher**: The Seven Girls
+
+## Notes
+
+* The hand grabbing the book is Dami's hand.

@@ -16,4 +16,6 @@ well received it was not a commercial success.
 Anyhow, a lot of band debuted or released successful albums right about the same time,
 so a band from a small company simply couldn't compete.
 
-*Note:* This song is based on [Why Did You Come to My Home? (Korean Nursery Rhyme)](https://www.youtube.com/watch?v=IYzGzWRr9Eg)
+## Notes
+
+* This song is based on [Why Did You Come to My Home? (Korean Nursery Rhyme)](https://www.youtube.com/watch?v=IYzGzWRr9Eg)

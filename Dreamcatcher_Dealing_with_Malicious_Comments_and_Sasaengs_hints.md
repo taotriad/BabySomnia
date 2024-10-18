@@ -4,7 +4,7 @@ The clip with JiU, SuA, Siyeon, Yoohyeon, and Gahyun responding to hateful comme
 [this vlive](https://www.youtube.com/watch?v=prxH7Jo8wyE&t=1205s). The English subtitles in this vlive
 are watered down though.
 
-Anyway, some background story: this vlive came out shortly after BOCA, a song about cyber-bullying
+Some background story: this vlive came out shortly after BOCA, a song about cyber-bullying
 (as part of an entire trilogy about cyber-bullying).
 
 It's obvious that a lot of people didn't listen to the lyrics, didn't understand the lyrics,

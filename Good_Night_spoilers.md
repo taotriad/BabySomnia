@@ -21,6 +21,8 @@ once trapped in.
 As the video ends we see them escape into the forest, wearing capes.
 During their escape the drop the spell tome.
 
-*Note*: The capes that the girls are wearing in the forest was later released
-as "Dreamcatcher Official Robe ver. 1" on Dreamcatcher's official store.
-Sadly both sizes of the robes are sold out.
+## Notes
+
+* The capes that the girls are wearing in the forest were later released
+  as "Dreamcatcher Official Robe ver. 1" on Dreamcatcher's official store.
+  Sadly both sizes of the robes are sold out.

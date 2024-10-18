@@ -26,9 +26,13 @@ The video ends with a haunting melody from a music box playing, as the investiga
 smirks crookedly.  He still finds what he needs, however (hence his crooked smile);
 a photo of the girls.
 
-*Note*: Their dance outfits are shortened versions of yukata.
-Customarily when wearing a yukata the left side is always
-wrapped over the right side. However, in this music video they wear the right side over the left.
-Right to left closure is *only* worn by the deceased.
+## Notes
 
-*Extra material*: [Making of Chase Me MV](https://www.youtube.com/watch?v=uIzbI0zv5F4)
+* Their dance outfits are shortened versions of yukata.
+  Customarily when wearing a yukata the left side is always
+  wrapped over the right side. However, in this music video they wear the right side over the left.
+  Right to left closure is *only* worn by the deceased.
+
+## Extra material
+
+* [Making of Chase Me MV](https://www.youtube.com/watch?v=uIzbI0zv5F4)
