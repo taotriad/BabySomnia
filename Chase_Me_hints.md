@@ -2,9 +2,9 @@
 
 The music video is inspired by Stanley Kubrick's adaptation of Stephen King's book The Shining.
 
-Cast:
-Jo Dong Hyuk - Investigator  
-Dreamcatcher - The Seven Girls
+Cast:  
+**Jo Dong Hyuk**: Investigator  
+**Dreamcatcher**: The Seven Girls
 
 *Note*: In the original recording of Chase Me, Handong's first verse is actually recorded by Siyeon (in the MV Handong is shown as singing it though).
 In later performances, as well as the Japanese version, Handong is performing it herself though. The group has never confirmed if it was changed
