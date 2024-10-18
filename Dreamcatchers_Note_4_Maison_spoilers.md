@@ -20,7 +20,7 @@ You can really see from JiU's expression that she was pretty certain though.
 
 No other girl group had gone that long before getting a win; at this point they would've gotten
 disbanded. One group (*Weki Meki*) actually survived longer than that,
-[but they got disbanded without ever getting a win.](https://www.koreaboo.com/news/weki-meki-final-comeback-before-disbandment-leaves-many-disappointed/).
+[but they got disbanded without ever getting a win](https://www.koreaboo.com/news/weki-meki-final-comeback-before-disbandment-leaves-many-disappointed/).
 
 Anyhow, back to Dreamcatcher.
 
