@@ -6,6 +6,7 @@ The music video resumes the story immediately after Chase Me.
 fan outfit along with the light stick.
 *Note*: The hand grabbing the book is Dami's hand.
 
-Cast:
-Paranormal investigator (Jo Dong Hyuk)
-Dreamcatcher
+## Cast
+
+**Jo Dong Hyuk**: Paranormal investigator  
+**Dreamcatcher**: The Seven Girls

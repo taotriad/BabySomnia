@@ -1,6 +1,7 @@
 # Chase Me: Guide with spoilers!
 
-A paranormal investigator, hired to find and banish or trap
+An investigator arrives at a hotel. We quickly realise that he's
+a paranormal investigator hired to find and banish or trap
 (the story line never really clarifies) a group of ghosts, arrives at the hotel.
 The haunted room is room 808, but the door is locked, he cannot get in.
 Instead the light flickers and he sees JiU at the end of the corridor.
