@@ -130,12 +130,14 @@ Chase Me and Good Night should ideally be watched back to back.
 ### Alternative versions
 
 ![Chase Me (dance video) Screenshot](images/chase_me_dance_video.g.png 'Chase Me (dance video) Screenshot')
+![Chase Me (Fact in Star 2x speed version) Screenshot](images/chase_me_2x.g.png 'Chase Me (Fact in Star 2x speed version) Screenshot')
 ![Good Night (dance video) Screenshot](images/good_night_dance_video.g.png 'Good Night (dance video) Screenshot')
 ![Good Night (dance practice) Screenshot](images/good_night_dance_practice.g.png 'Good Night (dance practice) Screenshot')
 ![What (relay dance) Screenshot](images/what_relay_dance.g.png 'What (relay dance) Screenshot')
 ![Piri (relay dance) Screenshot](images/piri_relay_dance.g.png 'Piri (relay dance) Screenshot')
 
 * **[4]** [Chase Me (dance video)](https://www.youtube.com/watch?v=jRW29bBK_oM) *(Chase Me is still regarded as one of their most demanding choreographies; several other companies have used it to test trainees)*
+* **[4]** [Chase Me (Fact in Star 2x speed version)](https://www.youtube.com/watch?v=z3enEBCIq2Y&t=208s) *(At Fact in Star, recorded about a month after their debut, they are challenged to perform Chase Me at 2x speed)*
 * **[4]** [Good Night (dance video)](https://www.youtube.com/watch?v=2-kCpiibFAg) *(The choreography, especially the intro, is fantastic; the video is pretty crappy though)*
 * **[4]** [Good Night (dance practice)](https://www.youtube.com/watch?v=ceABfphGjUo) *(The dance practice video is probably better though, since it shows off the footwork in the intro)*
 * **[4]** [What (relay dance)](https://www.youtube.com/watch?v=KeBNIujhrtM) *(Since this is one of their earlier relay dances it's mostly crazy choreography; the goofiness is restricted to the end of the video; might trigger copyright strikes)*
