@@ -22,7 +22,7 @@ SuA is crying text, Gahyun's face has emojis on it.
 
 The starting position of the choreography is in the shape of an eye.
 
-Two alternate interpretation exists of the beverage Yoohyeon drunks;
+Two alternate interpretation exists of the beverage Yoohyeon drinks;
 either that it represents the red pill (from The Matrix) which enables you
 you to see the real truth. The other is that it's Kool-Aid.
 
