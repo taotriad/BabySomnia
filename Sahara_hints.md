@@ -8,7 +8,7 @@ where Music Bank is recorded.
 **Important**: Make sure that you're watching with subtitles and that you follow both what
 happens on-screen and the subtitles. They correlate *very* closely.
 
-# Notes
+## Notes
 
 * Handong is missing in this video since it was recorded during the Scream era.
 * This music video was inspired by the "K-pop with Zero Budget!" series of videos.
