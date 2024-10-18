@@ -1,5 +1,7 @@
 # Good Night: Guide with spoilers!
 
+The video starts with the motif from the music box that **Chase Me** ended with.
+
 The paranormal investigator, aided by pictures of the girls as well as a tome of spells,
 manages to trap Gahyun and SuA in their own nightmares; SuA's nightmare is
 fear of being constrained, while Gahyun's nightmare is fear of falling.
