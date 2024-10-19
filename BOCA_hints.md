@@ -5,10 +5,10 @@ represent Hear No Evil (🙉), Speak No Evil (🙊), and See No Evil (🙈).
 
 BOCA represents Speak No Evil (🙊).
 
-The "too many angels dying" part of the lyrics (most likely) refers to two idols, Sulli from f(x) and Goo Hara from Kara,
+The "too many angels dying" part of the lyrics (most likely) refers to two idols, Sulli from **f(x)** and Goo Hara from **Kara**,
 who committed suicide just a few months before the release of Scream.
 
-BOCA means "Mouth" in Spanish & Portuguese.
+BOCA means "Mouth" in Spanish & Portuguese. The hand gesture also symbolises a mouth.
 
 ## Notes
 

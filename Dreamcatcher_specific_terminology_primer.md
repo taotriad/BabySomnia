@@ -45,7 +45,7 @@
   A lot of Loona fans recommended Dreamcatcher to her, so she decided to react to them. She quickly went from "I don't usually like rock sound" to being a stan;
   has done [a fantastic interview with Dreamcatcher](https://www.youtube.com/watch?v=P3lxO6LqzSc). Sometimes referred to as president of InSomnia.
 * **[Seungyeon (Chang Seung-yeon)](https://crystalclearclc.fandom.com/wiki/Seungyeon)**: Soloist. Leader and vocalist of CLC. Friends with SuA.
-* **[Sunmi (Lee Sun-mi)](https://sun-mi.fandom.com/wiki/Sunmi)**: Soloist. Former member of Wonder Girls. Yoohyeon's idol. Yoohyeon met her (and got her number!) during Sunmi's *You Can't Sit with Us* promotion.
+* **[Sunmi (Lee Sun-mi)](https://sun-mi.fandom.com/wiki/Sunmi)**: Soloist. Former member of [Wonder Girls](https://kpop.fandom.com/wiki/Wonder_Girls). Yoohyeon's idol. Yoohyeon met her (and got her number!) during Sunmi's *You Can't Sit with Us* promotion.
 
 ## Notes
 
