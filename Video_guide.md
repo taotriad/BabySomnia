@@ -220,11 +220,13 @@ Not all Dreamcatcher releases belong to story archs, let us catch up with the no
 
 ![Maison (stage mix) Screenshot](images/maison_stage_mix.g.png 'Maison (stage mix) Screenshot')
 ![Dreamcatcher's Note 4 Maison Screenshot](images/maison_backstage.g.png 'Dreamcatcher\'s Note 4 Maison Screenshot')
+![Bon Voyage (suit dance) Screenshot](images/bon_voyage_suit_dance.g.png 'Bon Voyage (suit dance) Screenshot')
 ![Bon Voyage (relay dance) Screenshot](images/bon_voyage_relay_dance.g.png 'Bon Voyage (relay dance) Screenshot')
 
 * [Maison (stage mix)](https://www.youtube.com/watch?v=e76SadRkkaQ) *(This is a cross-edit of their various stage performances; **very** likely to trigger copyright strikes)*
 * **[S][A]** [Dreamcatcher's Note 4 Maison](https://www.youtube.com/watch?v=93FSJDOV-PM&t=477s) *(The Dreamcatcher's Note about this performance)* [[S]](Dreamcatchers_Note_4_Maison_spoilers.md)
 * **[S]** [Maison (Show Champion performance)](https://www.youtube.com/watch?v=aLgL6_C3Edo) *(Their Show Champion performance; likely to trigger copyright strikes)*
+* **[4]** [Bon Voyage (suit dance)](https://www.youtube.com/watch?v=X11k1HRa4o0) *(Dreamcatcher performs full choreography, wearing suits; might trigger copyright strikes)*
 * **[3][4]** [Bon Voyage (relay dance)](https://www.youtube.com/watch?v=YrK5OAL67oc) *(This relay dance combines goofiness with crazy choreography; the only problem is knowing what to focus on; might trigger copyright strikes)*
 
 ### Related videos
