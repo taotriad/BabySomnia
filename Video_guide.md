@@ -316,7 +316,7 @@ By now they have published over 100 B-sides, so this is only a small subset, mai
 * [Silent Night Live in Paris (fancam)](https://www.youtube.com/watch?v=PtscFflDUMA) *(The sound quality is bad, the video quality is bad, but it's still awesome; this song is best heard live on location and you'll never know what choreography you'll get)*:
 * **[3]** [Break the Wall](https://www.youtube.com/watch?v=TqcPjwKU_zc) *(Self-made MV)* [[H]](Break_the_Wall_hints.md), [[S]](Break_the_Wall_spoilers.md)
 * [In the Frozen (Crossroad concert)](https://www.youtube.com/watch?v=PRCVh8GZLMo) *(If EDM is your thing, this will probably be to your liking)*
-* [Demian](https://www.youtube.com/watch?v=iCH2rI7z_M0) [[H]](Demian_hints.md) *(Hands down Dami's most aggressive rap)*
+* **[4]** [Demian](https://www.youtube.com/watch?v=iCH2rI7z_M0) [[H]](Demian_hints.md) *(SuA choreographed this video. Hands down Dami's most aggressive rap)*
 
 ### Alternative versions
 
