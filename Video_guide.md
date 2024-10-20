@@ -288,7 +288,7 @@ They didn't have much luck (at least partially due to poor timing with Covid-19)
 
 By now they have published over 100 B-sides, so this is only a small subset, mainly songs that have interesting videos.
 
-### Music videos
+### Music and Performance videos
 
 ![Black or White (performance video) Screenshot](images/black_or_white_showcase.g.png 'Black or White (performance video) Screenshot')
 ![Black or White (Music Bank) Screenshot](images/black_or_white_music_bank.g.png 'Black or White (Music Bank) Screenshot')
@@ -300,6 +300,8 @@ By now they have published over 100 B-sides, so this is only a small subset, mai
 ![Can't Get You Out of My Mind (live) Screenshot](images/cant_get_you_out_of_my_mind.g.png 'Can\'t Get You Out of My Mind (live) Screenshot')
 ![Silent Night Live in Paris (fancam) Screenshot](images/silent_night_live_in_paris.g.png 'Silent Night Live in Paris (fancam) Screenshot')
 ![Break the Wall Screenshot](images/break_the_wall.g.png 'Break the Wall Screenshot')
+![In the Frozen (Crossroad concert) Screenshot](images/in_the_frozen.g.png 'In The Frozen (Crossroad concert) Screenshot')
+![Demian Screenshot](images/demian.g.png 'Demian Screenshot')
 
 [5] If women in suits is your thing, both versions of Black or White are for you.
 
@@ -313,6 +315,14 @@ By now they have published over 100 B-sides, so this is only a small subset, mai
 * [Can't Get You Out of My Mind](https://www.youtube.com/watch?v=BC3hSEPLqEc) *(live performance with band)*
 * [Silent Night Live in Paris (fancam)](https://www.youtube.com/watch?v=PtscFflDUMA) *(The sound quality is bad, the video quality is bad, but it's still awesome; this song is best heard live on location and you'll never know what choreography you'll get)*:
 * **[3]** [Break the Wall](https://www.youtube.com/watch?v=TqcPjwKU_zc) *(Self-made MV)* [[H]](Break_the_Wall_hints.md), [[S]](Break_the_Wall_spoilers.md)
+* [In the Frozen (Crossroad concert)](https://www.youtube.com/watch?v=PRCVh8GZLMo) *(If EDM is your thing, this will probably be to your liking)*
+* [Demian](https://www.youtube.com/watch?v=iCH2rI7z_M0) [[H]](Demian_hints.md) *(Hands down Dami's most aggressive rap)*
+
+### Alternative versions
+
+![Fireflies (Isolated vocals) Screenshot](images/fireflies_isolated_vocals.g.png 'Fireflies (Isolated vocals) Screenshot')
+
+* [Fireflies (Isolated vocals)](https://www.youtube.com/watch?v=nAsJunGa5Wo) *(If you were impressed by the vocals in Fireflies, this video provides the isolated vocals; sadly it doesn't have English subtitles, nor does it attribute the vocals, but it's a fantastic showcase of just how good vocalists they are)*
 
 ## [8] Solos and Sub-units
 
