@@ -488,6 +488,7 @@ but the screenshots will *not* be updated.
 * **[3]** [This is Yoohyeon (2023)](https://www.youtube.com/watch?v=AucsvJw7-oo) *(Insomnicsy's 2023-edition of the Yoohyeon guide)*
 * **[3]** [This is Yoohyeon (2024)](https://www.youtube.com/watch?v=s-5cVB5qxlQ) *(Insomnicsy's 2024-edition of the Yoohyeon guide)*
 * **[3]** [This is Dami (2023)](https://www.youtube.com/watch?v=PoMguzXk6Xs) *(Insomnicsy's 2023-edition of the Dami guide)*
+* **[3]** [This is Dami (2024)](https://www.youtube.com/watch?v=q9Na7jlieCQ) *(Insomnicsy's 2024-edition of the Dami guide)*
 * **[3]** [This is Gahyun (2023)](https://www.youtube.com/watch?v=2y4_vCp2CNI) *(Insomnicsy's 2023-edition of the Gahyun guide)*
 
 ### Mukbang
