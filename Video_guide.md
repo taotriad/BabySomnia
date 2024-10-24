@@ -72,6 +72,7 @@ Those videos will **NOT** have separate spoiler warnings.
 ![BOCA (choreo version) Screenshot](images/boca_choreography.g.png 'BOCA (choreo version) Screenshot')
 ![BOCA (zombie version) Screenshot](images/boca_zombie.g.png 'BOCA (zombie version) Screenshot')
 ![BOCA (part change version) Screenshot](images/boca_part_change.g.png 'BOCA (part change version) Screenshot')
+![Odd Eye (relay dance) Screenshot](images/odd_eye_relay_dance.g.png 'Odd Eye (relay dance) Screenshot')
 
 *Note*: While the part change video is listed here, it might be better to wait a bit and watch it once you have learned to
 know a bit about the personalities and quirks of the members, since that shines through quite heavily in that video and is a large
@@ -80,6 +81,7 @@ part of what makes it so funny.
 * **[4]** [BOCA (choreo version)](https://www.youtube.com/watch?v=rfp2bGytsak) *(The full version of the choreography from the music video)*
 * **[3][4]** [BOCA (zombie version)](https://www.youtube.com/watch?v=yAuJuHI00g8)
 * **[3]** [BOCA (dance video, part change version)](https://www.youtube.com/watch?v=8ggaDmDFWfE)
+* **[3][4]** [Odd Eye (relay dance)](https://www.youtube.com/watch?v=35XIso-DViE) *(This relay dance combines goofiness with crazy choreography; might trigger copyright strikes)*
 
 
 ## Interlude: Self-made MVs for awesome B-sides
@@ -140,6 +142,7 @@ Chase Me and Good Night should ideally be watched back to back.
 * **[4]** [Chase Me (Fact in Star 2x speed version)](https://www.youtube.com/watch?v=z3enEBCIq2Y&t=208s) *(At Fact in Star, recorded about a month after their debut, they are challenged to perform Chase Me at 2x speed)*
 * **[4]** [Good Night (dance video)](https://www.youtube.com/watch?v=2-kCpiibFAg) *(The choreography, especially the intro, is fantastic; the video is pretty crappy though)*
 * **[4]** [Good Night (dance practice)](https://www.youtube.com/watch?v=ceABfphGjUo) *(The dance practice video is probably better though, since it shows off the footwork in the intro)*
+* **[X]** [Good Night (busking video)](https://www.youtube.com/watch?v=-uwY3HI5pYE) *(100-day anniversary busking)*
 * **[4]** [What (relay dance)](https://www.youtube.com/watch?v=KeBNIujhrtM) *(Since this is one of their earlier relay dances it's mostly crazy choreography; the goofiness is restricted to the end of the video; might trigger copyright strikes)*
 * **[4]** [Piri (relay dance)](https://www.youtube.com/watch?v=dcjEhPWUILo) *(Since this is one of their earlier relay dances it's mostly crazy choreography; the goofiness is restricted to the end of the video; might trigger copyright strikes)*
 
