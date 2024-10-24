@@ -27,13 +27,13 @@ Recognition will come with time.
 
 ### The members are (ordered by age)
 
-* **JiU** (Kim Min-ji); [Jee-yoo]. Leader, lead vocalist, lead dancer. Born 1994. Calls herself Charisma rabbit (sometimes also Pink Princess). Animal: rabbit (🐰)
-* **SuA** (Kim Bo-ra) [Soo-ah]. Main dancer, vocalist. Used to be lead rapper. Born 1994. Calls herself Queen SuA. Animal: crow-tit (🐥)
-* **Siyeon** (Lee Si-yeon) [She-yawn]. Main vocalist. Born 1995. Calls herself Wolfie (due to her intense stare on stage). Animal: wolf (🐺)
-* **Handong** (Han Dong) [Hahn-dong]. Vocalist. Born 1996. Chinese. Calls herself Ice Princess. Animal: cat (🐱)
-* **Yoohyeon** (Kim Yoo-hyeon) [Yoo-hyawn]. Lead vocalist. Born 1997. Animal: dog (🐶)
-* **Dami** (Lee Yu-bin) [Dah-mee]. Main rapper, lead dancer. Born 1997. Calls herself panda. Animal: panda (🐼)
-* **Gahyun** (Lee Ga-hyun) [Kah-hyawn]. Lead rapper, vocalist. Born 1999. Animal: fox (🦊)
+* **JiU** (Kim Min-ji); [Jee-yoo]. Leader, lead vocalist, lead dancer. Born 1994. Calls herself Charisma rabbit (sometimes also Pink Princess). Fighter Name: Daejeon Hurricane. Animal: rabbit (🐰)
+* **SuA** (Kim Bo-ra) [Soo-ah]. Main dancer, vocalist. Used to be lead rapper. Born 1994. Calls herself Queen SuA. Fighter Name: Masan Killer. Animal: crow-tit (🐥)
+* **Siyeon** (Lee Si-yeon) [She-yawn]. Main vocalist. Born 1995. Calls herself Wolfie (due to her intense stare on stage). Fighter Name: Daegu Bloodpool. Animal: wolf (🐺)
+* **Handong** (Han Dong) [Hahn-dong]. Vocalist. Born 1996. Chinese. Calls herself Ice Princess. Fighter Name: Wuhan Poison. Animal: cat (🐱)
+* **Yoohyeon** (Kim Yoo-hyeon) [Yoo-hyawn]. Lead vocalist. Born 1997. Fighter Name: Incheon Firefist. Animal: dog (🐶)
+* **Dami** (Lee Yu-bin) [Dah-mee]. Main rapper, lead dancer. Born 1997. Calls herself panda. Fighter Name: Gunpo Insanity. Animal: panda (🐼)
+* **Gahyun** (Lee Ga-hyun) [Kah-hyawn]. Lead rapper, vocalist. Born 1999. Fighter Name: Bundang Thornfield. Animal: fox (🦊)
 
 *Note:* Material prior to July 2024 has Gahyun\'s name romanised as Gahyeon; this was done by the agency in an effort to pair her name with Yoohyeon.  
 *Note:* Handong often refers to herself as Dongie or Dong Dong. For a non-native speaker Dong Dong might be a bad idea to use, since there's a Korean
