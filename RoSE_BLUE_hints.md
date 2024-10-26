@@ -1,15 +1,16 @@
 # R.o.S.E. BLUE: Hints and details to look out for
 
 R.o.S.E. BLUE is the OST to the mobile RPG Girl Café Gun.
-This song is not composed by Dreamcatcher's normal producers.
-Blue roses is something that doesn't exist naturally.
+Blue roses do not exist naturally.
 In many cultures butterflies represent the soul leaving the body.
 
 ## Credits
 
-* **Composed By**: ESTi, Choe Yeong-kyeong
-* **Arranged By**: ESTi, Seibin, Benicx
+* **Composer**: [ESTi](https://www.discogs.com/artist/2509321-ESTi-2), Choe Yeong-kyeong
+* **Arranger**: ESTi, [seibin (ESTIMATE)](https://www.discogs.com/artist/7080018-Seibin), [Benicx](https://www.discogs.com/artist/8883331-Benicx)
 * **Lyrics**: ESTi, Dami
+* **Background Vocals**: 최영경
+* **Guitars**: Seibin
 
 ## Notes
 

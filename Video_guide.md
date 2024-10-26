@@ -287,7 +287,7 @@ They didn't have much luck (at least partially due to poor timing with Covid-19)
 * **[2]** [No More](https://www.youtube.com/watch?v=HanFwe41w9s) *(Possibly their heaviest track; could be considered an honourary member of the Dystopia trilogy, since it deals with the same topic. Pontus Norgren, guitar player from HammerFall, helped compose the song)*
 * **[2]** [Don't Light My Fire](https://www.youtube.com/watch?v=HVg7ELM1iZ4) [[H]](Dont_Light_My_Fire_hints.md) *(Nice chugging guitars!)*
 * **[2]** [Endless Night](https://www.youtube.com/watch?v=wCALuFy2YVI)
-* [Eclipse](https://www.youtube.com/watch?v=b9UxVkTfkVg) *(You know how everyone keeps saying that Dreamcatcher's title tracks sound like anime OST? Well, this one is the opening track from the anime adaptation of the game that Deja Vu was written for)*
+* [Eclipse](https://www.youtube.com/watch?v=b9UxVkTfkVg) [[H]](Eclipse_hints.md) *(You know how everyone keeps saying that Dreamcatcher's title tracks sound like anime OST? Well, this one is the opening track from the anime adaptation of the game that Deja Vu was written for)*
 
 ## B-sides
 
@@ -315,7 +315,7 @@ By now they have published over 100 B-sides, so this is only a small subset, mai
 * [Jazz Bar](https://www.youtube.com/watch?v=AZoEESSF528)
 * **[4]** [Red Sun](https://www.youtube.com/watch?v=RKBJVdjOHUY) *(SuA choreographed this video; the choreography is outright hypnotic, which is fitting since the song is about hypnotism)*
 * [July 7th](https://www.youtube.com/watch?v=7u7vUzgtUlk) [[H]](July_7th_hints.md)
-* **[4]** [Sleepwalking](https://www.youtube.com/watch?v=2_GcbZlDnns) *(A really early Dreamcatcher song with a very low budget MV)*
+* **[4]** [Sleepwalking](https://www.youtube.com/watch?v=2_GcbZlDnns) [[H]](Sleep-Walking_hints.md) *(A really early Dreamcatcher song with a very low budget MV)*
 * [Fireflies](https://www.youtube.com/watch?v=lJTk5TPBl9M) *(A true vocal showcase, with a massive overdose of harmonies. Insomnicsy, one of the most famous Dreamcatcher fan-content producers, made a MV for it; be prepared with tissues)*
 * [Can't Get You Out of My Mind](https://www.youtube.com/watch?v=BC3hSEPLqEc) *(live performance with band)*
 * [Silent Night Live in Paris (fancam)](https://www.youtube.com/watch?v=PtscFflDUMA) *(The sound quality is bad, the video quality is bad, but it's still awesome; this song is best heard live on location and you'll never know what choreography you'll get)*:

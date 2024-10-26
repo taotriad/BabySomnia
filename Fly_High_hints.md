@@ -1,6 +1,16 @@
 # Fly High: Hints and details to look out for
 
-This video takes place *before* Chase Me.  The events in this video aren't chronological.
+This video takes place *before* Chase Me.  The events in this video are not chronological.
+
+## Credits
+
+* **Composer**: [SEION](https://www.discogs.com/artist/4907372-SEION)
+* **Arranger**: SEION
+* **Lyrics**: SEION
+* **Keyboard**: SEION
+* **Background Vocals**: Siyeon, SEION
+* **Guitar**: [Go Tae Yeong (고태영)](https://www.discogs.com/artist/3432266-%EA%B3%A0%ED%83%9C%EC%98%81)
+* **Bass**: [TASCO](https://www.discogs.com/artist/6450656-Tasco-5)
 
 ## Notes
 
