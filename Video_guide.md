@@ -172,9 +172,11 @@ If you're interested this is probably the right opportunity to watch their debut
 
 ![Minx: Why Did You Come to My Home? Screenshot](images/why_did_you_come_to_my_home.g.png 'Minx: Why Did You Come to My Home? Screenshot')
 ![Minx: Love Shake Screenshot](images/love_shake.g.png 'Minx: Love Shake Screenshot')
+![Dreamcatcher: Love Shake Screenshot](images/love_shake_dreamcatcher.g.png 'Dreamcatcher: Love Shake 2022 Version Screenshot')
 
 * [Why Did You Come to My Home?](https://www.youtube.com/watch?v=wqiEAod0LYI) [[H]](Why_Did_You_Come_to_My_Home_hints.md) *(Minx' debut single)*
 * [Love Shake](https://www.youtube.com/watch?v=iLXyoC2HRgY) [[H]](Love_Shake_hints.md) *(Minx' only comeback)*
+* **[X]** [Love Shake (Dreamcatcher 2022 version)](https://www.youtube.com/watch?v=J4etNPsb344) *(Gahyun finally got her wish granted; a Dreamcatcher performance of Love Shake)*
 * **[X]** [Love Shake, original version by Dal★Shabet](https://www.youtube.com/watch?v=ydd5eDJVgjw)
 
 ## [1] Two More Stand-alone releases

@@ -9,7 +9,7 @@ of the music video, being one of those.
 
 Details indicating that things aren't as they should be:
 
-* The staged fight between Handong and Yoohyeon
+* The staged fight between Handong and Yoohyeon, where Handong breaks the fourth wall by helping Yoohyeon up
 * Dami singing that she's drunk-driving every day (Dami never drinks alcohol), also drops the F* bomb
 * Lyrics containing "look at my necklace" (when not wearing one) and "my black dress" (when not wearing a dress)
 * Retouching photos

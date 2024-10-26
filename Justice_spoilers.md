@@ -17,3 +17,7 @@ Finally, the fourth suspect is that the character represents InSomnia.
 
 In OOTD they were singing about being flawless. In Justice they sing
 "clean me up", knowing that they're flawed.
+
+In OOTD Handong pushes Yoohyeon to the ground then helps her up,
+showing that it's a fake fight. In Justice Yoohyeon helps Handong up,
+without fourth wall breakage.
