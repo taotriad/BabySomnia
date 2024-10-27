@@ -10,6 +10,17 @@ who committed suicide just a few months before the release of Scream.
 
 BOCA means "Mouth" in Spanish & Portuguese. The hand gesture also symbolises a mouth.
 
+## Credits
+
+* **Composer**: [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Ollounder](https://www.discogs.com/artist/6450665-Ollounder)
+* **Arranger**: Leez, Ollounder
+* **Lyrics**: Leez, Ollounder
+* **Backing Vocals**: Leez, Ollounder, Siyeon
+* **Guitar**: Ollounder
+* **Bass**: Ollounder
+* **MIDI Programming**: Ollounder
+* **Piano**: Leez
+
 ## Notes
 
 * Handong is missing in this video, due to participating in Youth With You, a talent show in China and subsequently getting stuck in Wuhan due to Covid-19 travel restrictions.

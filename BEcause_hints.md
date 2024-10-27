@@ -14,6 +14,16 @@ go to an amusement park (not the abandoned park in the MV, obviously),
 where Yoohyeon decided that they should try the Disco Pang Pang.
 Handong *really* hated that experience.
 
+## Credits
+
+* **Composer**: [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Ollounder](https://www.discogs.com/artist/6450665-Ollounder)
+* **Arranger**: Leez, Ollounder
+* **Lyrics**: Leez, Ollounder
+* **Backing Vocals**: Siyeon
+* **Drums**: Leez
+* **Guitars**: Ollounder
+* **Bass**: Ollounder
+
 ## Notes
 
 * The abandoned amusement park used for the music video is [Yongma Land](https://en.wikipedia.org/wiki/Yongma_Land) in Jungnang District, Seoul.

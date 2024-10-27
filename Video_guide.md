@@ -317,7 +317,7 @@ By now they have published over 100 B-sides, so this is only a small subset, mai
 * [July 7th](https://www.youtube.com/watch?v=7u7vUzgtUlk) [[H]](July_7th_hints.md)
 * **[4]** [Sleepwalking](https://www.youtube.com/watch?v=2_GcbZlDnns) [[H]](Sleep-Walking_hints.md) *(A really early Dreamcatcher song with a very low budget MV)*
 * [Fireflies](https://www.youtube.com/watch?v=lJTk5TPBl9M) *(A true vocal showcase, with a massive overdose of harmonies. Insomnicsy, one of the most famous Dreamcatcher fan-content producers, made a MV for it; be prepared with tissues)*
-* [Can't Get You Out of My Mind](https://www.youtube.com/watch?v=BC3hSEPLqEc) *(live performance with band)*
+* [Can't Get You Out of My Mind](https://www.youtube.com/watch?v=BC3hSEPLqEc) [[H]](Cant_Get_You_Out_of_My_Mind_hints.md) *(live performance with band)*
 * [Silent Night Live in Paris (fancam)](https://www.youtube.com/watch?v=PtscFflDUMA) *(The sound quality is bad, the video quality is bad, but it's still awesome; this song is best heard live on location and you'll never know what choreography you'll get)*:
 * **[3]** [Break the Wall](https://www.youtube.com/watch?v=TqcPjwKU_zc) *(Self-made MV)* [[H]](Break_the_Wall_hints.md), [[S]](Break_the_Wall_spoilers.md)
 * [In the Frozen (Crossroad concert)](https://www.youtube.com/watch?v=PRCVh8GZLMo) *(If EDM is your thing, this will probably be to your liking)*
@@ -357,21 +357,21 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 ![Beauty. Full Screenshot](images/beauty_full.g.png 'Beauty. Full Screenshot')
 ![Playground Screenshot](images/playground.g.png 'Playground Screenshot')
 
-* [JiU: Cherry (Real Miracle)](https://www.youtube.com/watch?v=2L0q-nWS1xA) *(Warning: cuteness overload. JiU's love song to her dog)*
+* [JiU: Cherry (Real Miracle)](https://www.youtube.com/watch?v=2L0q-nWS1xA) [[H]](Cherry_Real_Miracle_hints.md) *(Warning: cuteness overload. JiU's love song to her dog)*
 * [SuA: Still with You](https://www.youtube.com/watch?v=pAn5MLPVa20) *(OST for the K-drama Café Minamdang)*
-* **[4]** [SuA: No Dot](https://www.youtube.com/watch?v=oxPyRRKEtHI)
+* **[4]** [SuA: No Dot](https://www.youtube.com/watch?v=oxPyRRKEtHI) [[H]](No_Dot_hints.md)
 * [SuA: Feel Alive](https://www.youtube.com/watch?v=QZtMAXFSlZ0)
 * [Siyeon: Paradise](https://www.youtube.com/watch?v=BuaGs9W6Un8) [Paradise Piano Version](https://www.youtube.com/watch?v=tQQ4HO_5-v8) [Paradise: Black Version](https://www.youtube.com/watch?v=6TyOvuMWGSQ) [Paradise: White Version](https://www.youtube.com/watch?v=Za1tWSLbNYo) [[H]](Paradise_hints.md)
 * [Siyeon: Start Over](https://www.youtube.com/watch?v=YlNQFvpjwYU)
 * [Siyeon: Good Sera](https://www.youtube.com/watch?v=Vquzh9HKjlw) *(OST for the K-drama Into the Ring)*
 * [Siyeon and Dami: Shadow](https://www.youtube.com/watch?v=KzOiPkBRLEo) [Siyeon and Dami: Shadow (Slow Version)](https://www.youtube.com/watch?v=Cafd39K_MmQ) *(**Trigger warning**: If you don't like horror/zombies, don't watch. Likewise if you cannot handle hauntingly beautiful singing. OST for the K-drama Dark Hole)*
 * [Handong: First Light of Dawn](https://www.youtube.com/watch?v=WztTaJBB_R8)
-* [Handong: Snow](https://www.youtube.com/watch?v=jQ_ogJWssXU)
-* [Yoohyeon: For](https://www.youtube.com/watch?v=1HwjxbE7_Qw)
+* [Handong: Snow](https://www.youtube.com/watch?v=jQ_ogJWssXU) [[H]](Snow_hints.md)
+* [Yoohyeon: For](https://www.youtube.com/watch?v=1HwjxbE7_Qw) [[H]](For_hints.md)
 * [Dami: Once Upon a Time](https://www.youtube.com/watch?v=KYnJFfeXeGI)
 * [Dami: Butterfly](https://www.youtube.com/watch?v=w8Tfb2R_-DY) *(Dami's good bye to Ddo Ddo, her dog 😭)*
-* **[4]** [Dami: Beauty. Full](https://www.youtube.com/watch?v=nivI7w9HagI) *(Dami goes Green Day meets Avril Lavigne)*
-* **[4]** [Gahyun: Playground](https://www.youtube.com/watch?v=iYvErpLnQ-8) *(Warning: cuteness overload)*
+* **[4]** [Dami: Beauty. Full](https://www.youtube.com/watch?v=nivI7w9HagI) [[H]](Beauty_Full_hints.md) *(Dami goes Green Day meets Avril Lavigne)*
+* **[4]** [Gahyun: Playground](https://www.youtube.com/watch?v=iYvErpLnQ-8) [[H]](Playground_hints.md) *(Warning: cuteness overload)*
 
 ## [7] Covers
 

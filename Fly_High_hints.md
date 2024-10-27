@@ -8,7 +8,7 @@ This video takes place *before* Chase Me.  The events in this video are not chro
 * **Arranger**: SEION
 * **Lyrics**: SEION
 * **Keyboard**: SEION
-* **Background Vocals**: Siyeon, SEION
+* **Backing Vocals**: Siyeon, SEION
 * **Guitar**: [Go Tae Yeong (고태영)](https://www.discogs.com/artist/3432266-%EA%B3%A0%ED%83%9C%EC%98%81)
 * **Bass**: [TASCO](https://www.discogs.com/artist/6450656-Tasco-5)
 
