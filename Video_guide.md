@@ -487,6 +487,7 @@ but the screenshots will *not* be updated.
 * **[3]** [This is JiU (2023)](https://www.youtube.com/watch?v=EiJSeXxonJ8) *(Insomnicsy's 2023-edition of the JiU guide)*
 * **[3]** [This is JiU (2024)](https://www.youtube.com/watch?v=KpNc4qpYbqU) *(Insomnicsy's 2024-edition of the JiU guide)*
 * **[3]** [This is SuA (2023)](https://www.youtube.com/watch?v=oy3AI7X7M0A) *(Insomnicsy's 2023-edition of the SuA guide)*
+* **[3]** [This is SuA (2024)](https://www.youtube.com/watch?v=ZbsQzNB1e8Q) *(Insomnicsy's 2024-edition of the SuA guide)*
 * **[3]** [This is Siyeon (2023)](https://www.youtube.com/watch?v=t7gCrDVgczU) *(Insomnicsy's 2023-edition of the Siyeon guide)*
 * **[3]** [This is Siyeon (2024)](https://www.youtube.com/watch?v=lWIGxjlYjsQ) *(Insomnicsy's 2024-edition of the Siyeon guide)*
 * **[3]** [This is Handong (2023)](https://www.youtube.com/watch?v=WuEb3B05dnM) *(Insomnicsy's 2023-edition of the Handong guide)*
