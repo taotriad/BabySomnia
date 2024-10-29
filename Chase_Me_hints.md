@@ -7,6 +7,10 @@ The music video is inspired by Stanley Kubrick's adaptation of Stephen King's bo
 * **Jo Dong Hyuk**: Investigator
 * **Dreamcatcher**: The Seven Girls
 
+## Music Video
+
+* **Director**: Digipedi
+
 ## Credits
 
 * **Composer**: [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Ollounder](https://www.discogs.com/artist/6450665-Ollounder), [Sim Jae Hun (심재훈)](https://www.discogs.com/artist/4932011-%EC%8B%AC%EC%9E%AC%ED%9B%88)
