@@ -284,9 +284,9 @@ They didn't have much luck (at least partially due to poor timing with Covid-19)
 ![Endless Night Screenshot](images/endless_night.g.png 'Endless Night Screenshot')
 ![Eclipse Screenshot](images/eclipse.g.png 'Eclipse Screenshot')
 
-* **[2]** [No More](https://www.youtube.com/watch?v=HanFwe41w9s) *(Possibly their heaviest track; could be considered an honourary member of the Dystopia trilogy, since it deals with the same topic. Pontus Norgren, guitar player from HammerFall, helped compose the song)*
+* **[2]** [No More](https://www.youtube.com/watch?v=HanFwe41w9s) [[H]](No_More_hints.md) *(Possibly their heaviest track; could be considered an honourary member of the Dystopia trilogy, since it deals with the same topic. Pontus Norgren, guitar player from HammerFall, helped compose the song)*
 * **[2]** [Don't Light My Fire](https://www.youtube.com/watch?v=HVg7ELM1iZ4) [[H]](Dont_Light_My_Fire_hints.md) *(Nice chugging guitars!)*
-* **[2]** [Endless Night](https://www.youtube.com/watch?v=wCALuFy2YVI)
+* **[2]** [Endless Night](https://www.youtube.com/watch?v=wCALuFy2YVI) [[H]](Endless_Night.md)
 * [Eclipse](https://www.youtube.com/watch?v=b9UxVkTfkVg) [[H]](Eclipse_hints.md) *(You know how everyone keeps saying that Dreamcatcher's title tracks sound like anime OST? Well, this one is the opening track from the anime adaptation of the game that Deja Vu was written for)*
 
 ## B-sides
