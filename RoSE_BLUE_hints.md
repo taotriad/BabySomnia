@@ -6,10 +6,10 @@ In many cultures butterflies represent the soul leaving the body.
 
 ## Credits
 
-* **Composer**: [ESTi](https://www.discogs.com/artist/2509321-ESTi-2), Choe Yeong-kyeong
+* **Composer**: [ESTi](https://www.discogs.com/artist/2509321-ESTi-2), Choe Yeong-kyeong (최영경)
 * **Arranger**: ESTi, [seibin (ESTIMATE)](https://www.discogs.com/artist/7080018-Seibin), [Benicx](https://www.discogs.com/artist/8883331-Benicx)
 * **Lyrics**: ESTi, Dami
-* **Backing Vocals**: 최영경
+* **Backing Vocals**: [Choe Yeong-Kyeong](https://www.discogs.com/artist/6434326-%EC%B5%9C%EC%98%81%EA%B2%BD)
 * **Guitars**: Seibin
 
 ## Notes

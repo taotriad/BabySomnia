@@ -350,7 +350,7 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 ![Shadow Screenshot](images/shadow.g.png 'Shadow Screenshot')
 ![Shadow (Slow Version) Screenshot](images/shadow_slow_version.g.png 'Shadow (Slow Version) Screenshot')
 ![First Light of Dawn Screenshot](images/first_light_of_dawn.g.png 'First Light of Dawn Screenshot')
-![Snow Screenshot](images/snow.g.png 'Snow Screenshot')
+![Winter Screenshot](images/winter.g.png 'Winter Screenshot')
 ![For Screenshot](images/for.g.png 'For Screenshot')
 ![Once Upon a Time Screenshot](images/once_upon_a_time.g.png 'Once Upon a Time Screenshot')
 ![Butterfly Screenshot](images/butterfly.g.png 'Butterfly Screenshot')
@@ -366,7 +366,7 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 * [Siyeon: Good Sera](https://www.youtube.com/watch?v=Vquzh9HKjlw) *(OST for the K-drama Into the Ring)*
 * [Siyeon and Dami: Shadow](https://www.youtube.com/watch?v=KzOiPkBRLEo) [Siyeon and Dami: Shadow (Slow Version)](https://www.youtube.com/watch?v=Cafd39K_MmQ) *(**Trigger warning**: If you don't like horror/zombies, don't watch. Likewise if you cannot handle hauntingly beautiful singing. OST for the K-drama Dark Hole)*
 * [Handong: First Light of Dawn](https://www.youtube.com/watch?v=WztTaJBB_R8)
-* [Handong: Snow](https://www.youtube.com/watch?v=jQ_ogJWssXU) [[H]](Snow_hints.md)
+* [Handong: Winter](https://www.youtube.com/watch?v=jQ_ogJWssXU) [[H]](Winter_hints.md)
 * [Yoohyeon: For](https://www.youtube.com/watch?v=1HwjxbE7_Qw) [[H]](For_hints.md)
 * [Dami: Once Upon a Time](https://www.youtube.com/watch?v=KYnJFfeXeGI)
 * [Dami: Butterfly](https://www.youtube.com/watch?v=w8Tfb2R_-DY) *(Dami's good bye to Ddo Ddo, her dog 😭)*

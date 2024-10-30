@@ -9,7 +9,7 @@ The music video resumes the story immediately after Chase Me.
 
 ## Music Video
 
-* **Director**: Digipedi
+* **Director**: [Digipedi](https://www.imdb.com/name/nm10996650/)
 
 ## Credits
 

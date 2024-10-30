@@ -39,3 +39,14 @@ one of the world's largest festivals.
 A lot of the choreography clips are from their solos.
 
 All three rappers have their own rap parts in the song.
+
+## Credits
+
+* **Composer**: [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Ollounder](https://www.discogs.com/artist/6450665-Ollounder)
+* **Arranger**: Leez, Ollounder
+* **Lyrics**: Leez, Ollounder
+* **Backing Vocals**: Siyeon
+* **Choir**: JiU, SuA, Siyeon, Handong, Yoohyeon, Dami, Gahyun
+* **Guitars**: Ollounder
+* **Bass**: Ollounder
+* **MIDI Programming**: Ollounder

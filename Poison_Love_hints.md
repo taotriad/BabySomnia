@@ -2,6 +2,14 @@
 
 The music video was recorded entirely in their training room.
 
+## Credits
+
+* **Composer**: [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Ollounder](https://www.discogs.com/artist/6450665-Ollounder), [Eom Tae Won (엄태원)](https://www.discogs.com/artist/8720464-%EC%97%84%ED%83%9C%EC%9B%90)
+* **Arranger**: Leez, Ollounder, Eom Tae Won
+* **Lyrics** Leez, Ollounder
+* **Backing Vocals**: Siyeon, Leez
+* **MIDI Programming**: Leez
+
 ## Notes
 
 * Handong is **definitely** back.

@@ -6,6 +6,6 @@
 * **Arranger**: JiU, Leez, Peperoni
 * **Lyrics**: JiU, Ollounder
 * **Backing Vocals**: JiU
-* **Guitars**: [염창준](https://www.discogs.com/artist/11137952-%EC%97%BC%EC%B0%BD%EC%A4%80)
+* **Guitars**: [Yeom Chang Jun (염창준)](https://www.discogs.com/artist/11137952-%EC%97%BC%EC%B0%BD%EC%A4%80)
 * **Bass**: Ollounder
 * **Synthesizer**: Peperoni

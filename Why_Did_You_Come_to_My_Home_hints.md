@@ -16,6 +16,14 @@ well received it was not a commercial success.
 Anyhow, a lot of band debuted or released successful albums right about the same time,
 so a band from a small company simply couldn't compete.
 
+## Credits
+
+* **Composer**: [Bull$EyE](https://www.discogs.com/artist/6636025-BULLEYE), [Yammo](https://www.discogs.com/artist/7861438-Yammo)
+* **Arranger**: [Bull$EyE](https://www.discogs.com/artist/6636025-BULLEYE), [Yammo](https://www.discogs.com/artist/7861438-Yammo)
+* **Remaining Credits**: FIXME
+
+**Help**: If you can provide the full credits for this song, please help!
+
 ## Notes
 
 * This song is based on [Why Did You Come to My Home? (Korean Nursery Rhyme)](https://www.youtube.com/watch?v=IYzGzWRr9Eg)

@@ -8,6 +8,17 @@ where Music Bank is recorded.
 **Important**: Make sure that you're watching with subtitles and that you follow both what
 happens on-screen and the subtitles. They correlate *very* closely.
 
+## Credits
+
+* **Composer**: [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Ollounder](https://www.discogs.com/artist/6450665-Ollounder)
+* **Arranger**: Leez, Ollounder
+* **Lyrics**: Leez, Ollounder
+* **Backing Vocals**: Siyeon
+* **Guitars**: Ollounder
+* **Bass**: Ollounder
+* **MIDI Programming**: Ollounder
+* **Synthesizer**: Leez
+
 ## Notes
 
 * Handong is missing in this video since it was recorded during the Scream era.

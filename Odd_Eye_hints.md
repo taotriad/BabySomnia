@@ -11,7 +11,7 @@ Odd Eye represents See No Evil (🙈).
 
 * **Composer**: [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Ollounder](https://www.discogs.com/artist/6450665-Ollounder)
 * **Arranger**: Leez, Ollounder
-* **Lyrics**: [1월 8일](https://www.discogs.com/artist/6469138-1%EC%9B%948%EC%9D%BC), Leez, Ollounder
+* **Lyrics**: [January 8th (1월 8일)](https://www.discogs.com/artist/6469138-1%EC%9B%948%EC%9D%BC), Leez, Ollounder
 * **Backing Vocals**: Leez, Siyeon
 * **Guitars**: Ollounder
 * **Drums**: Ollounder

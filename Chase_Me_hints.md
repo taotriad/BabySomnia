@@ -9,7 +9,7 @@ The music video is inspired by Stanley Kubrick's adaptation of Stephen King's bo
 
 ## Music Video
 
-* **Director**: Digipedi
+* **Director**: [Digipedi](https://www.imdb.com/name/nm10996650/)
 
 ## Credits
 
@@ -23,6 +23,7 @@ The music video is inspired by Stanley Kubrick's adaptation of Stephen King's bo
 * **Synthesizer**: Leez
 
 ## Notes
+
 * In the original recording of Chase Me, Handong's first verse is actually recorded by Siyeon (in the MV Handong is shown as singing it though).
   In live performances, as well as the Japanese version, Handong performs it herself. The group has never confirmed if it was changed
   because she didn't have enough lines in the song and thus got one of Siyeon's lines, or if it was her line to begin with but felt too insecure about
