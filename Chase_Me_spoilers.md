@@ -52,8 +52,8 @@ These artworks represent the certainty of death and the brevity of life.
 ## Books
 
 * Jan le Boër ([Constant Améro (Fr)](https://fr.wikipedia.org/wiki/Constant_Am%C3%A9ro)); next to Dami when she's laying on the floor
-* Never Goin' Back: Winning the Weight Loss Battle For Good ([Al Roker](https://en.wikipedia.org/wiki/Al_Roker)); pushed to the floor by Gahyun
 * Retreat, Hell! ([W.E.B. Griffin](https://en.wikipedia.org/wiki/W._E._B._Griffin)); pushed to the floor by Gahyun
+* Never Goin' Back: Winning the Weight Loss Battle For Good ([Al Roker](https://en.wikipedia.org/wiki/Al_Roker)); pushed to the floor by Gahyun
 
 ### Note on choice of literature
 
