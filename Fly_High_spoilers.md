@@ -2,11 +2,11 @@
 
 This video takes place before Chase Me; this is where everything begins.
 The girls are studying at a boarding school. While it's not filmed at the same location,
-it's intended to represent the same building as in Chase Me and Good Night; in those
-MVs the boarding school has been converted into a hotel.
+it is most likely intended to represent the same building as in Chase Me and Good Night;
+in those MVs the boarding school has been converted into a hotel.
 
 The events are a bit out of order. Yoohyeon gets possessed by evil when she touches
-the mirror in the meadow.  JiU captures a spider. When Yoohyeon finds the spider she,
+the mirror in the meadow. JiU captures a spider. When Yoohyeon finds the spider she,
 driven by the darkness, kills the spider, causing them to be cursed by the spider queen.
 
 One by one the girls gets possessed by evil. We see this represented as duplicate

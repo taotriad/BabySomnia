@@ -4,7 +4,7 @@ The video starts with the motif from the music box that **Chase Me** ended with.
 
 The paranormal investigator, aided by pictures of the girls as well as a tome of spells,
 manages to trap Gahyun and SuA in their own nightmares; SuA's nightmare is
-fear of being constrained, while Gahyun's nightmare is fear of falling.
+fear of being restrained, while Gahyun's nightmare is fear of falling.
 
 JiU, Handong, and Dami are plotting against him. Handong uses her own nightmare,
 (fear of being observed) against him; she projects her fear onto him,
