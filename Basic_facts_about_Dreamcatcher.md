@@ -23,7 +23,11 @@ Due to thus it's pointless to describe them by hair colour, eye colour, style, e
 except in the context of a particular performance.
 
 It can be tricky to tell some of the members apart. Don't worry, it happens to all of us.
-Recognition will come with time.
+Recognition will come with time. If you feel bad about getting them confused,
+check the following two clips:
+
+* [Handong and Yoohyeon talk about getting each other confused](https://www.youtube.com/watch?v=40tu1RAiqEo)
+* [Handong and Yoohyeon's mothers getting them confused](https://www.youtube.com/watch?v=a4ZDDuo7EMk)
 
 ### The members are (ordered by age)
 
@@ -47,7 +51,7 @@ word that sounds similar that means poop. Handong herself has pronounced her own
 * A lot of their vlives, especially during Covid-19, were either recorded in the lower bunks in their rooms, directly on the floor with the camera facing their closets, or in the hallway in the closet area.
 * For a long, long time their dorm didn't have a sofa. When watching TV they were either sitting on the floor or on a gigantic (Dami-sized) teddy bear that they got early on from a fan.
 * It seems that spring 2022 is the last time any of the members did vlives from anything resembling their old dorm. There have also been some vague statements alluding to them having their own place.
-  They still do joint vlives from time to time, but they're recorded at their office. It is speculated that they've moved to either to their own places,
+  They still do joint vlives from time to time, but those vlives are recorded at their office. It is speculated that they've moved to either to their own places,
   or a new dorm. Most likely getting their own places or a new dorm was part of the renewed contract. Either way they are unlikely to disclose anything about new location(s) due to the the increase in sasaengs.
 
 ## External references
