@@ -491,6 +491,7 @@ but the screenshots will *not* be updated.
 * **[3]** [This is Siyeon (2023)](https://www.youtube.com/watch?v=t7gCrDVgczU) *(Insomnicsy's 2023-edition of the Siyeon guide)*
 * **[3]** [This is Siyeon (2024)](https://www.youtube.com/watch?v=lWIGxjlYjsQ) *(Insomnicsy's 2024-edition of the Siyeon guide)*
 * **[3]** [This is Handong (2023)](https://www.youtube.com/watch?v=WuEb3B05dnM) *(Insomnicsy's 2023-edition of the Handong guide)*
+* **[3]** [This is Handong (2024)](https://www.youtube.com/watch?v=Il_VUHM0dJs) *(Insomnicsy's 2024-edition of the Handong guide)*
 * **[3]** [This is Yoohyeon (2023)](https://www.youtube.com/watch?v=AucsvJw7-oo) *(Insomnicsy's 2023-edition of the Yoohyeon guide)*
 * **[3]** [This is Yoohyeon (2024)](https://www.youtube.com/watch?v=s-5cVB5qxlQ) *(Insomnicsy's 2024-edition of the Yoohyeon guide)*
 * **[3]** [This is Dami (2023)](https://www.youtube.com/watch?v=PoMguzXk6Xs) *(Insomnicsy's 2023-edition of the Dami guide)*
