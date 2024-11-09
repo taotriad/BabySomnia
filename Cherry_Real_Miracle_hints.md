@@ -1,5 +1,7 @@
 # Cherry (Real Miracle): Hints and details to look out for
 
+Cherry is JiU's pomeranian.
+
 ## Credits
 
 * **Composer**: JiU, [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Peperoni](https://www.discogs.com/artist/11137949-Peperoni-3)

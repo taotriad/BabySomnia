@@ -3,8 +3,7 @@
 The video starts with the motif from the music box that **Chase Me** ended with.
 
 The paranormal investigator, aided by pictures of the girls as well as a tome of spells,
-manages to trap Gahyun and SuA in their own nightmares; SuA's nightmare is
-fear of being restrained, while Gahyun's nightmare is fear of falling.
+manages to trap Gahyun and SuA in their own nightmares.
 
 JiU, Handong, and Dami are plotting against him. Handong uses her own nightmare,
 (fear of being observed) against him; she projects her fear onto him,
@@ -23,6 +22,12 @@ During their escape the drop the spell tome.
 
 ## Notes
 
+* The video features SuA being restrained. Being restained is SuA's nightmare.
+* The video features Handong staring at the investigator. Being stared at
+  is Handong's nightmare. She's using her fear as a weapon.
+* The video features Gahyun falling. Fear of falling is Gahyun's nightmare.
+* The video features Yoohyeon running around in the forest, possibly lost.
+  Fear of being lost is Yoohyeon's nightmare.
 * The capes that the girls are wearing in the forest were later released
   as "Dreamcatcher Official Robe ver. 1" on Dreamcatcher's official store.
   Sadly both sizes of the robes are sold out.

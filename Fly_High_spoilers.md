@@ -19,3 +19,7 @@ the other is that the evil JiU who does it to prevent the others from escaping.
 
 Fly High isn't composed by Leez / Ollounder. It's been speculated that this was
 to make it clear that Fly High starts before they turn into nightmares.
+
+## Notes
+
+* The video features JiU being chased. Being chased is JiU's nightmare.

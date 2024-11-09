@@ -122,9 +122,9 @@ Chase Me and Good Night should ideally be watched back to back.
 
 * [Chase Me](https://www.youtube.com/watch?v=zihoyz0u_cs) *(Debut)* [[H]](Chase_Me_hints.md), [[S]](Chase_Me_spoilers.md)
 * [Good Night](https://www.youtube.com/watch?v=Lxfl8LRab_I) [[H]](Good_Night_hints.md), [[S]](Good_Night_spoilers.md)
-* [Fly High](https://www.youtube.com/watch?v=39yeTdIuKJU) [[H]](Fly_High_hints.md)
-* [You and I](https://www.youtube.com/watch?v=LFxjwBfFIiY) [[H]](You_and_I_hints.md)
-* [What](https://www.youtube.com/watch?v=pN0dkjp1deQ) [[H]](What_hints.md)
+* [Fly High](https://www.youtube.com/watch?v=39yeTdIuKJU) [[H]](Fly_High_hints.md), [[S]](Fly_High_spoilers.md)
+* [You and I](https://www.youtube.com/watch?v=LFxjwBfFIiY) [[H]](You_and_I_hints.md), [[S]](You_and_I_spoilers.md)
+* [What](https://www.youtube.com/watch?v=pN0dkjp1deQ) [[H]](What_hints.md), [[S]](What_spoilers.md)
 * [Piri](https://www.youtube.com/watch?v=Pq_mbTSR-a0) [[H]](Piri_hints.md), [[S]](Piri_spoilers.md)
 * **[X]** [Breaking Out](https://www.youtube.com/watch?v=SHmOpFbFgrM) [[S]](Breaking_Out_spoilers.md) (Japanese release connected to the Nightmare era)
 * **[X]** [The Curse of the Spider (2024 Concert Version)](https://www.youtube.com/watch?v=JUcuTIMTZq4) (B-side connected to the Nightmare era)
@@ -286,7 +286,7 @@ They didn't have much luck (at least partially due to poor timing with Covid-19)
 
 * **[2]** [No More](https://www.youtube.com/watch?v=HanFwe41w9s) [[H]](No_More_hints.md) *(Possibly their heaviest track; could be considered an honourary member of the Dystopia trilogy, since it deals with the same topic. Pontus Norgren, guitar player from HammerFall, helped compose the song)*
 * **[2]** [Don't Light My Fire](https://www.youtube.com/watch?v=HVg7ELM1iZ4) [[H]](Dont_Light_My_Fire_hints.md) *(Nice chugging guitars!)*
-* **[2]** [Endless Night](https://www.youtube.com/watch?v=wCALuFy2YVI) [[H]](Endless_Night.md)
+* **[2]** [Endless Night](https://www.youtube.com/watch?v=wCALuFy2YVI) [[H]](Endless_Night_hints.md)
 * [Eclipse](https://www.youtube.com/watch?v=b9UxVkTfkVg) [[H]](Eclipse_hints.md) *(You know how everyone keeps saying that Dreamcatcher's title tracks sound like anime OST? Well, this one is the opening track from the anime adaptation of the game that Deja Vu was written for)*
 
 ## B-sides

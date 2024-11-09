@@ -43,6 +43,25 @@ check the following two clips:
 *Note:* Handong often refers to herself as Dongie or Dong Dong. For a non-native speaker Dong Dong might be a bad idea to use, since there's a Korean
 word that sounds similar that means poop. Handong herself has pronounced her own name wrong a lot of times, with hilarious results.
 
+### Nightmares / phobias
+
+During the Nightmare era each member had a nightmare/fear assigned to them. Some of these fears were referenced in music videos,
+while the rest has only been mentioned in lore.
+
+* **JiU**: Diokophobia (Fear of being chased)
+* **SuA**: Merinthophobia (Fear of being restrained)
+* **Siyeon**: Claustrophobia (fear of confined spaces)
+* **Handong**: Scopophobia (fear of being stared at)
+* **Yoohyeon**: Mazeophobia (Fear of being lost)
+* **Dami**: Algophobia (extreme fear of physical pain)
+* **Gahyun**: Basophobia (fear of falling)
+
+*Note*: Diokophobia is not a clinically accepted term, in fact it seems that the term might've been invented by a Reddit user in 2018.
+*Note*: Mazeophobia is not a clinically accepted term, but it seems to be fairly common.
+
+* [Welcome to the Dreamworld Teaser](https://www.youtube.com/watch?v=69Vil66srSU) *The teaser for Dreamcatcher's first concert, Welcome to the Dreamworld, references all their nightmares*
+
+
 ## Dorm life
 
 * Initially JiU, Siyeon, and Dami shared a dorm room; JiU & Siyeon shared a bunk bed (JiU top bunk, Siyeon bottom bunk), Dami had a separate bed.

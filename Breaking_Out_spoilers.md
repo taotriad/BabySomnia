@@ -7,3 +7,8 @@ In Breaking Out the members struggle to reach each other. By following the red t
 Yoohyeon finally manages to become herself again and join the others.
 
 Together again at last. This is the end of their nightmare.
+
+## Notes
+
+* The video features Siyeon trapped between two walls. Claustrophobia is Siyeon's nightmare.
+  She overcomes her nightmare by pushing the fall away.
