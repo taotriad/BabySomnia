@@ -5,6 +5,16 @@ Maison is about global warming.
 
 This is their first fully CGI music video. It shows.
 
+## Music Video
+
+### Cast
+
+* **Dreamcatcher**: Themselves
+
+### Other Credits
+
+* **Choreography**: [S8YN (Hwang Sooyeon) (황수연)](https://kpop.fandom.com/wiki/Hwang_Sooyeon)
+
 ## Credits
 
 * **Composer**: [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Ollounder](https://www.discogs.com/artist/6450665-Ollounder)

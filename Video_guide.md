@@ -69,6 +69,7 @@ Those videos will **NOT** have separate spoiler warnings.
 
 ### Alternative versions
 
+![Scream (suit dance) Screenshot](images/scream_suit_dance.g.png 'Scream (suit dance) Screenshot')
 ![BOCA (choreo version) Screenshot](images/boca_choreography.g.png 'BOCA (choreo version) Screenshot')
 ![BOCA (zombie version) Screenshot](images/boca_zombie.g.png 'BOCA (zombie version) Screenshot')
 ![BOCA (part change version) Screenshot](images/boca_part_change.g.png 'BOCA (part change version) Screenshot')
@@ -78,6 +79,7 @@ Those videos will **NOT** have separate spoiler warnings.
 know a bit about the personalities and quirks of the members, since that shines through quite heavily in that video and is a large
 part of what makes it so funny.
 
+* **[4][5]** [Scream (suit dance)](https://www.youtube.com/watch?v=0LUuoaSfETw) *(If women in suits turn you on, you'll like this)*
 * **[4]** [BOCA (choreo version)](https://www.youtube.com/watch?v=rfp2bGytsak) *(The full version of the choreography from the music video)*
 * **[3][4]** [BOCA (zombie version)](https://www.youtube.com/watch?v=yAuJuHI00g8)
 * **[3]** [BOCA (dance video, part change version)](https://www.youtube.com/watch?v=8ggaDmDFWfE)

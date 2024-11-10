@@ -4,6 +4,16 @@ The music video contains two different versions of the same events; only one of 
 The music video is a tie-in to a mobile game called King's Raid. Playing the game is,
 however, not necessary to enjoy the music video.
 
+## Music Video
+
+### Cast
+
+* **Dreamcatcher**: Themselves
+
+### Other Credits
+
+* **Choreography**: [S8YN (Hwang Sooyeon) (황수연)](https://kpop.fandom.com/wiki/Hwang_Sooyeon)
+
 ## Credits
 
 * **Composer**: [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Ollounder](https://www.discogs.com/artist/6450665-Ollounder)

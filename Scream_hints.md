@@ -7,7 +7,9 @@ Scream represents Hear No Evil (🙉).
 
 The tree seen in the beginning and at other points throughout this video and in the following videos is the tree of language; the Internet.
 
-## Cast
+## Music Video
+
+### Cast
 
 * **Dreamcatcher (without Handong)**: Themselves
 * **Masked Backup Dancer**: [Risia (Choi Han Na) (최한나)](https://kpop.fandom.com/wiki/Risia)
@@ -16,9 +18,13 @@ The tree seen in the beginning and at other points throughout this video and in 
 * **Backup Dancer**: Park Seung Won (박승원)
 * **Backup Dancer**: [Oh Seo Hyun (오서현)](https://kpop.fandom.com/wiki/Oh_Seohyun)
 
+[Photo with Scream cast](https://x.com/hf_dreamcatcher/status/1236567590547255296/photo/4)
+
 **Help**: If you know the identity of the remaining 4 backup dancers, please help (or other credits for the Music Video), please help.
 
-[Photo with Scream cast](https://x.com/hf_dreamcatcher/status/1236567590547255296/photo/4)
+### Other Credits
+
+* **Choreography**: [S8YN (Hwang Sooyeon) (황수연)](https://kpop.fandom.com/wiki/Hwang_Sooyeon)
 
 ## Credits
 

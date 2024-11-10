@@ -10,6 +10,16 @@ who committed suicide just a few months before the release of Scream.
 
 BOCA means "Mouth" in Spanish & Portuguese. The hand gesture also symbolises a mouth.
 
+## Music Video
+
+### Cast
+
+* **Dreamcatcher (without Handong)**: Themselves
+
+### Other Credits
+
+* **Choreography**: [S8YN (Hwang Sooyeon) (황수연)](https://kpop.fandom.com/wiki/Hwang_Sooyeon)
+
 ## Credits
 
 * **Composer**: [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Ollounder](https://www.discogs.com/artist/6450665-Ollounder)

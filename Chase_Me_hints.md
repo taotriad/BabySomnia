@@ -2,12 +2,14 @@
 
 The music video is inspired by Stanley Kubrick's adaptation of Stephen King's book The Shining.
 
-## Cast
+## Music Video
+
+### Cast
 
 * **Jo Dong Hyuk**: Investigator
 * **Dreamcatcher**: The Seven Girls
 
-## Music Video
+### Other Credits
 
 * **Director**: [Digipedi](https://www.imdb.com/name/nm10996650/)
 * **Filmed At**: [NAMA Artcenter](http://thensncompany.com/?page_id=1589)

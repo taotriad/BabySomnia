@@ -7,6 +7,16 @@ Odd Eye represents See No Evil (🙈).
 
 *Hint*: Look at the starting position of the choreography.
 
+## Music Video
+
+### Cast
+
+* **Dreamcatcher**: Themselves
+
+### Other Credits
+
+* **Choreography**: [S8YN (Hwang Sooyeon) (황수연)](https://kpop.fandom.com/wiki/Hwang_Sooyeon)
+
 ## Credits
 
 * **Composer**: [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Ollounder](https://www.discogs.com/artist/6450665-Ollounder)
