@@ -7,6 +7,19 @@ Scream represents Hear No Evil (🙉).
 
 The tree seen in the beginning and at other points throughout this video and in the following videos is the tree of language; the Internet.
 
+## Cast
+
+* **Dreamcatcher (without Handong)**: Themselves
+* **Masked Backup Dancer**: [Risia (Choi Han Na) (최한나)](https://kpop.fandom.com/wiki/Risia)
+* **Backup Dancer**: Kim So Hyun (김소현)
+* **Backup Dancer**: [Rose (Ki Jung Eun) (기정은)](https://kpop.fandom.com/wiki/Rose_(singer))
+* **Backup Dancer**: Park Seung Won (박승원)
+* **Backup Dancer**: [Oh Seo Hyun (오서현)](https://kpop.fandom.com/wiki/Oh_Seohyun)
+
+**Help**: If you know the identity of the remaining 4 backup dancers, please help (or other credits for the Music Video), please help.
+
+[Photo with Scream cast](https://x.com/hf_dreamcatcher/status/1236567590547255296/photo/4)
+
 ## Credits
 
 * **Composer**: [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Ollounder](https://www.discogs.com/artist/6450665-Ollounder)
@@ -19,5 +32,7 @@ The tree seen in the beginning and at other points throughout this video and in 
 
 ## Notes
 
-* Handong is missing in this video, due to participating in Youth With You, a talent show in China and subsequently getting stuck in Wuhan due to Covid-19 travel restrictions.
-* In choreography scenes there is one dancer wearing a mask; that dancer represents Handong.
+* Handong is missing in this video, due to participating in [Youth With You](https://en.wikipedia.org/wiki/Youth_With_You_season_2),
+  a Chinese talent show; due to this she got stuck in Wuhan once Covid-19 travel restrictions were introduced.
+* In choreography scenes one dancer wears mask; that dancer represents Handong.
+* The female backup dancers were members of Happyface Entertainment's pre-debut girl group [Happyface Girls](https://kpop.fandom.com/wiki/Happyface_Girls).

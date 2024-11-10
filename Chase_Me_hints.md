@@ -10,6 +10,7 @@ The music video is inspired by Stanley Kubrick's adaptation of Stephen King's bo
 ## Music Video
 
 * **Director**: [Digipedi](https://www.imdb.com/name/nm10996650/)
+* **Filmed At**: [NAMA Artcenter](http://thensncompany.com/?page_id=1589)
 
 ## Credits
 
