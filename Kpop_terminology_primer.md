@@ -30,6 +30,7 @@
   agreement about whether we're at the end of 4th gen or the beginning
   of 5th gen. One way or the other, **Dal★Shabet** is generally regarded as
   late 2nd gen, **Minx** as middle 3rd gen, and **Dreamcatcher** as late 3rd gen.
+* **Eonnie**: Older sister (if you're female).
 * **Fancam**: An unofficial recording of a performance or other type of event.
   Often, but not always, focuses on one single member of a group.
   Some **music shows** also release what they call fancams; in those cases
@@ -46,7 +47,6 @@
   Different shows calculate their scores in different ways; due to this
   smaller groups like **Dreamcatcher** generally only has a shot to win
   at a small subset of the shows.
-* **Eonnie**: Older sister (if you're female).
 * **Noona**: Older sister (if you're male).
 * **Nuna**: Alternative spelling of Noona.
 * **OST**: Original Soundtrack. Music made for a movie, TV-series, game, or similar.

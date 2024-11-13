@@ -20,8 +20,10 @@ you should be aware that all Dreamcatcher main title videos
 have a deeper meaning.
 
 Therefore there all main titles will have one or two links attached;
-one to **[H]** ints and details to look out for.
+one to **[H]** ints and details to look out for (including credits).
 One to comments that contain **[S]** poilers.
+Most other songs will also have hints attached;
+I've used those files to include song credits.
 
 Furthermore a lot of the main titles are grouped into storylines.
 The storylines are introduced in the spoiler for the first title

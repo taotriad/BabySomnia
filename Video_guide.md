@@ -480,10 +480,6 @@ but behind the scenes, or when they themselves write the scripts, oh boy, chaos 
 Note: Insomnicsy's "This Is..." videos are intended to be entertaining first and foremost; don't take them too seriously.
 That said, even with context included a lot of things just cannot be explained.
 
-*Note:* Since more 2024-editions started dropping after the first batch was added here.
-At least for the time being the new versions will be added, the old versions kept around,
-but the screenshots will *not* be updated.
-
 * **[6]** [Road to Fame (6th Anniversary Video)](https://www.youtube.com/watch?v=2u_ZG5Vf_3Q) *(Insomnicsy's 6th anniversary video about Dreamcatcher; obviously this video is full of spoilers)*
 * **[6]** [We Are Dreamcatcher (7th Anniversary Video)](https://www.youtube.com/watch?v=foVtASN01xQ) *(Insomnicsy's 7th anniversary video about Dreamcatcher; Likewise full of spoilers)*
 * **[3]** [This is JiU (2023)](https://www.youtube.com/watch?v=EiJSeXxonJ8) *(Insomnicsy's 2023-edition of the JiU guide)*
@@ -499,6 +495,7 @@ but the screenshots will *not* be updated.
 * **[3]** [This is Dami (2023)](https://www.youtube.com/watch?v=PoMguzXk6Xs) *(Insomnicsy's 2023-edition of the Dami guide)*
 * **[3]** [This is Dami (2024)](https://www.youtube.com/watch?v=q9Na7jlieCQ) *(Insomnicsy's 2024-edition of the Dami guide)*
 * **[3]** [This is Gahyun (2023)](https://www.youtube.com/watch?v=2y4_vCp2CNI) *(Insomnicsy's 2023-edition of the Gahyun guide)*
+* **[3]** [This is Gahyun (2024)](https://www.youtube.com/watch?v=BBePi9gAGpE) *(Insomnicsy's 2024-edition of the Gahyun guide)*
 
 ### Mukbang
 
@@ -512,11 +509,16 @@ Different members like different things. The queen of burgers is definitely Gahy
 Handong loves hotpot, everyone loves chicken, pork, and steak.
 
 JiU's favourite food seems to be... Food. She's open to try pretty much everything.
+Including... [Brain pudding](https://www.youtube.com/watch?v=N4RG51Pf3Jc&t=1016s).
 
-Dami *hates* pineapple due to a traumatic experience, SuA hates coffee
-(no trauma involved to the best of my knowledge), Handong loves chocolate but is allergic, Siyeon dislikes seafood.
-Yoohyeon doesn't eat olives. Gahyun doesn't eat sweet potatoes, while Dami loves them.
-Everyone loves noodles, but they all have different favourites...
+[Dami *hates* pineapple](https://www.youtube.com/watch?v=uSqdIsq-lG4) due to a traumatic experience,
+SuA hates coffee (no trauma involved to the best of my knowledge),
+[Handong loves chocolate but is allergic](https://www.youtube.com/watch?v=3zieMOP2KVQ),
+[Siyeon hates shrimp](https://www.youtube.com/watch?v=K2SfOa-C48I).
+Yoohyeon doesn't eat olives.
+[Gahyun doesn't eat sweet potatoes](https://www.youtube.com/watch?v=rJmKG0TRjD0),
+while Dami loves them.
+Everyone loves noodles, [but they all have different favourites](https://www.youtube.com/watch?v=AJNRtJJXWrw&t=206s)...
 
 * **[3][9]** [Dreamcatcher mukbang series ep 1: chicken](https://www.youtube.com/watch?v=A8IB7WIQqhQ)
 * **[3][9]** [Dreamcatcher mukbang series ep 2: burger](https://www.youtube.com/watch?v=eX4D2A1LiSM)
