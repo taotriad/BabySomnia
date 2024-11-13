@@ -297,6 +297,7 @@ By now they have published over 100 B-sides, so this is only a small subset, mai
 
 ### Music and Performance videos
 
+![Mayday Screenshot](images/mayday.g.png 'Mayday Screenshot')
 ![Black or White (performance video) Screenshot](images/black_or_white_showcase.g.png 'Black or White (performance video) Screenshot')
 ![Black or White (Music Bank) Screenshot](images/black_or_white_music_bank.g.png 'Black or White (Music Bank) Screenshot')
 ![Jazz Bar Screenshot](images/jazz_bar.g.png 'Jazz Bar Screenshot')
@@ -312,6 +313,7 @@ By now they have published over 100 B-sides, so this is only a small subset, mai
 
 [5] If women in suits is your thing, both versions of Black or White are for you.
 
+* [Mayday](https://www.youtube.com/watch?v=_t9FAYWsUkM) [[H]](Mayday_hints.md)
 * **[4][5]** [Black or White (performance video)](https://www.youtube.com/watch?v=-Q6iOxdsAbw) *(A clear tribute to Michael Jackson; might trigger copyright strikes)*
 * **[4][5]** [Black or White (Music Bank)](https://www.youtube.com/watch?v=6Ogxy2lU5qw) *(A visual feast; almost seamlessly spliced together from two takes of the same choreography but with different outfits; might trigger copyright strikes)*
 * [Jazz Bar](https://www.youtube.com/watch?v=AZoEESSF528)
