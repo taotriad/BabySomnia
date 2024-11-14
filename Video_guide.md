@@ -420,10 +420,10 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 ![Copycat Screenshot](images/copycat.g.png 'Copycat Screenshot')
 ![Abracadabra Screenshot](images/abracadabra.g.png 'Abracadabra Screenshot')
 
-* **[4][5]** [SuA and Seungyeon ex. CLC: Tadow dance performance](https://www.youtube.com/watch?v=bWaAB7ju7Mk)
-* **[4][5]** [JiU, SuA, Yoohyeon: Taki Taki dance performance](https://www.youtube.com/watch?v=8dGFe4MlaZU)
-* **[4][5]** [SuA: Copycat dance performance](https://www.youtube.com/watch?v=5_k0gLXiMjs)
-* **[4][5]** [Dreamcatcher: Abracadabra relay dance](https://www.youtube.com/watch?v=S0-AJT9IPcY)
+* **[4][5]** [SuA and Seungyeon ex. CLC: Tadow dance performance](https://www.youtube.com/watch?v=bWaAB7ju7Mk) [[H]](Tadow_hints.md)
+* **[4][5]** [JiU, SuA, Yoohyeon: Taki Taki dance performance](https://www.youtube.com/watch?v=8dGFe4MlaZU) [[H]](Taki_Taki_hints.md)
+* **[4][5]** [SuA: Copycat dance performance](https://www.youtube.com/watch?v=5_k0gLXiMjs) [[H]](Copycat_hints.md)
+* **[4][5]** [Dreamcatcher: Abracadabra relay dance](https://www.youtube.com/watch?v=S0-AJT9IPcY) [[H]](Abracadabra_hints.md)
 
 ## Miscellaneous performance videos
 

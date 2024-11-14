@@ -11,7 +11,7 @@ include objects from their various music videos.
 * A bust with tape over its mouth from BOCA
 * The chalice with red liquid from Odd Eye
 * The gun from R.o.S.E. BLUE
-* The hand reaching through the picture frame from BEcause
+* The hand reaching through the picture frame from Good Night
 * There's also a MongMongie
 
 The person walking constantly changing looks and outfits represent the members,
@@ -29,8 +29,8 @@ The video clips include significant events in their career; among other things:
 
 * One of their online concerts during Covid-19
 * A Halloween event where SuA scared everyone dressed as Pennywise
-* Their legendary late November busking outdoors in 2018 when their music broke down and InSomnias sang **Good Night** for them
-* Handong getting a surprise birthday message from her parents at one of their concerts
+* Their legendary late [November busking outdoors in 2018](https://www.youtube.com/watch?v=Xz52d66RoA4&t=782s) when their music broke down and InSomnias sang **Good Night** for them
+* [Handong getting a surprise birthday message from her parents](https://www.youtube.com/watch?v=tkeMjoRktVI) at one of their concerts
 
 The outdoor performance is from Primavera, one of the world's largest music festivals,
 where they performed as the first K-pop band ever at that festival;
