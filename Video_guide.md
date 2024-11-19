@@ -336,7 +336,7 @@ By now they have published over 100 B-sides, so this is only a small subset, mai
 ## [8] Solos and Sub-units
 
 Dreamcatcher only has one (semi-)official subunit; Yaja Time. Bong (SuA; maknae, vocals), Nibal (Siyeon, rapper, vocals), and Tafe (Yoohyeon; leader, vocals).
-They have only done covers though; some which are included in the *Covers* section. Dami and Siyeon have made one OST together.
+They have only done covers though; some which are included in the *Covers* section. Dami and Siyeon have made one OST together. JiU and Yoohyeon have made one OST together.
 
 All members have made at least one solo, published on Dreamcatcher's album Apocalypse: Save Us. SuA, Siyeon, Handong, and Dami have separate solo releases.
 
@@ -345,6 +345,7 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 ### Music videos
 
 ![Cherry (Real Miracle) Screenshot](images/real_miracle.g.png 'Cherry (Real Miracle) Screenshot')
+![Daisy Screenshot](images/daisy.g.png 'Daisy Screenshot')
 ![Still with You Screenshot](images/still_with_you.g.png 'Still with You Screenshot')
 ![No Dot Screenshot](images/no_dot.g.png 'No Dot Screenshot')
 ![Feel Alive Screenshot](images/feel_alive.g.png 'Feel Alive Screenshot')
@@ -362,6 +363,7 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 ![Playground Screenshot](images/playground.g.png 'Playground Screenshot')
 
 * [JiU: Cherry (Real Miracle)](https://www.youtube.com/watch?v=2L0q-nWS1xA) [[H]](Cherry_Real_Miracle_hints.md) *(Warning: cuteness overload. JiU's love song to her dog)*
+* [JiU and Yoohyeon: Daisy](https://www.youtube.com/watch?v=F8FFnTymN-k)  *(OST for the K-drama Daisy)*
 * [SuA: Still with You](https://www.youtube.com/watch?v=pAn5MLPVa20) *(OST for the K-drama Café Minamdang)*
 * **[4]** [SuA: No Dot](https://www.youtube.com/watch?v=oxPyRRKEtHI) [[H]](No_Dot_hints.md)
 * [SuA: Feel Alive](https://www.youtube.com/watch?v=QZtMAXFSlZ0)
