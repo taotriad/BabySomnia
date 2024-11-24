@@ -317,7 +317,7 @@ By now they have published over 100 B-sides, so this is only a small subset, mai
 * **[4][5]** [Black or White (performance video)](https://www.youtube.com/watch?v=-Q6iOxdsAbw) *(A clear tribute to Michael Jackson; might trigger copyright strikes)*
 * **[4][5]** [Black or White (Music Bank)](https://www.youtube.com/watch?v=6Ogxy2lU5qw) *(A visual feast; almost seamlessly spliced together from two takes of the same choreography but with different outfits; might trigger copyright strikes)*
 * [Jazz Bar](https://www.youtube.com/watch?v=AZoEESSF528)
-* **[4]** [Red Sun](https://www.youtube.com/watch?v=RKBJVdjOHUY) *(SuA choreographed this video; the choreography is outright hypnotic, which is fitting since the song is about hypnotism)*
+* **[4]** [Red Sun](https://www.youtube.com/watch?v=RKBJVdjOHUY) [[H]](Red_Sun_hints.md)
 * [July 7th](https://www.youtube.com/watch?v=7u7vUzgtUlk) [[H]](July_7th_hints.md)
 * **[4]** [Sleepwalking](https://www.youtube.com/watch?v=2_GcbZlDnns) [[H]](Sleep-Walking_hints.md) *(A really early Dreamcatcher song with a very low budget MV)*
 * [Fireflies](https://www.youtube.com/watch?v=lJTk5TPBl9M) *(A true vocal showcase, with a massive overdose of harmonies. Insomnicsy, one of the most famous Dreamcatcher fan-content producers, made a MV for it; be prepared with tissues)*
