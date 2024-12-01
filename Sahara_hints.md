@@ -1,7 +1,7 @@
 # Sahara: Hints and details to look out for
 
 The music video for Sahara was recorded while promoting Scream;
-the entire video is shot in their waiting room and in the hallways around it.
+the entire video is shot in their waiting rooms and the hallways around them.
 Among other things the video features the famous "K-pop staircase" at KBS Open Hall
 where Music Bank is recorded.
 

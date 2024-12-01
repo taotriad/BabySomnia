@@ -6,6 +6,16 @@ is overly simplistic.
 
 One important item in this video references back to the music video for OOTD. Can you remember?
 
+## Music Video
+
+### Cast
+
+* **Dreamcatcher**: Themselves
+
+### Other Credits
+
+* **Choreography**: [S8YN (Hwang Sooyeon) (황수연)](https://kpop.fandom.com/wiki/Hwang_Sooyeon), Kim Keeyeoun, Kang Riye
+
 ## Credits
 
 * **Composer**: [Ollounder](https://www.discogs.com/artist/6450665-Ollounder), [Tankzzo](https://www.discogs.com/artist/13855507-Tankzzo)

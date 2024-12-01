@@ -2,6 +2,10 @@
 
 A Piri is a Korean double reed instrument (flute).
 
+### Other Credits
+
+* **Choreography**: [Sunny](https://www.instagram.com/switch_sunnyc/)
+
 ## Credits
 
 * **Composer**: [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Ollounder](https://www.discogs.com/artist/6450665-Ollounder)

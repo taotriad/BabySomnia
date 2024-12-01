@@ -10,6 +10,7 @@ The music video resumes the story immediately after Chase Me.
 ## Music Video
 
 * **Director**: [Digipedi](https://www.imdb.com/name/nm10996650/)
+* **Choreography**: [Sunny](https://www.instagram.com/switch_sunnyc/)
 
 ## Credits
 

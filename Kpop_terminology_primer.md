@@ -40,7 +40,7 @@
 * **Girl Group**: An idol group with only girls. Duh. The best example is *obviously*
   **Dreamcatcher**. 🤩
 * **Mini album**: Typically more songs than than a single album...
-* **Mukbang**: Food related content.  See also **Sulbang**.
+* **Mukbang (먹방)**: Food related content.  See also **Sulbang**.
 * **Music show**: Traditionally new releases are promoted at music
   shows. Based on an aggregate of public votes, sales, streaming
   figures, etc. the shows will then present their weekly winners.
@@ -69,16 +69,17 @@
   much of their intimates; it took a few seconds for the producers to cut
   the live feed. The TV show ended up being cancelled and people were arrested.
   Ever since then rock music has had a bad reputation in Korea.
-* **Sasaeng**: A stalker or person who buys and sells private.
+* **Sasaeng**: A stalker or person who buys and sells private
   information about idols.
 * **Single album**: Typically not just one song...
 * **Stan**: A fan.
 * **Subunit**: A subset of an idol group.
-* **Sulbang**: Like a Mukbang, but with alcohol.
+* **Sulbang (술방)**: (Sometimes romanised as Soolbang). Like a Mukbang,
+  but with both food and alcohol.
 * **Sunbaenim**: Senior at a workplace; in the context of K-pop this
   is an idol or group that debuted before yours.
-* **Unnie**: Alternative latinisation of eonnie.
-* **Win**: Typically refers to winning the trophy at a weekly  music show.
+* **Unnie**: Alternative romanisation of eonnie.
+* **Win**: Typically refers to winning the trophy at a weekly music show.
   A music show win is considered a *hugely* important milestone in the career
   of an idol or idol group; groups that repeatedly fail to a get a win tend to
   get disbanded by their company.  Going a long time without a win is

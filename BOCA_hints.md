@@ -31,6 +31,10 @@ BOCA means "Mouth" in Spanish & Portuguese. The hand gesture also symbolises a m
 * **MIDI Programming**: Ollounder
 * **Piano**: Leez
 
+## Alternate Versions
+
+[BOCA Show Champion DIY MV Cam](https://www.youtube.com/watch?v=GxjVPNviBN0) *(Similar to their other self-made music videos, but this one was released through All the K-Pop, and thus likely to trigger copyright strikes)*
+
 ## Notes
 
 * Handong is missing in this video, due to participating in Youth With You, a talent show in China and subsequently getting stuck in Wuhan due to Covid-19 travel restrictions.

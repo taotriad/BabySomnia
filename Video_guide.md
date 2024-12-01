@@ -288,7 +288,7 @@ They didn't have much luck (at least partially due to poor timing with Covid-19)
 
 * **[2]** [No More](https://www.youtube.com/watch?v=HanFwe41w9s) [[H]](No_More_hints.md) *(Possibly their heaviest track; could be considered an honourary member of the Dystopia trilogy, since it deals with the same topic. Pontus Norgren, guitar player from HammerFall, helped compose the song)*
 * **[2]** [Don't Light My Fire](https://www.youtube.com/watch?v=HVg7ELM1iZ4) [[H]](Dont_Light_My_Fire_hints.md) *(Nice chugging guitars!)*
-* **[2]** [Endless Night](https://www.youtube.com/watch?v=wCALuFy2YVI) [[H]](Endless_Night_hints.md)
+* **[2]** [Endless Night](https://www.youtube.com/watch?v=wCALuFy2YVI) [[H]](Endless_Night_hints.md) [[S]](Endless_Night_spoilers.md)
 * [Eclipse](https://www.youtube.com/watch?v=b9UxVkTfkVg) [[H]](Eclipse_hints.md) *(You know how everyone keeps saying that Dreamcatcher's title tracks sound like anime OST? Well, this one is the opening track from the anime adaptation of the game that Deja Vu was written for)*
 
 ## B-sides
@@ -315,7 +315,7 @@ By now they have published over 100 B-sides, so this is only a small subset, mai
 
 * [Mayday](https://www.youtube.com/watch?v=_t9FAYWsUkM) [[H]](Mayday_hints.md)
 * **[4][5]** [Black or White (performance video)](https://www.youtube.com/watch?v=-Q6iOxdsAbw) *(A clear tribute to Michael Jackson; might trigger copyright strikes)*
-* **[4][5]** [Black or White (Music Bank)](https://www.youtube.com/watch?v=6Ogxy2lU5qw) *(A visual feast; almost seamlessly spliced together from two takes of the same choreography but with different outfits; might trigger copyright strikes)*
+* **[4][5]** [Black or White (Music Bank)](https://www.youtube.com/watch?v=6Ogxy2lU5qw) [[H]](Black_or_White_hints.md) *(A visual feast; almost seamlessly spliced together from two takes of the same choreography but with different outfits; might trigger copyright strikes)*
 * [Jazz Bar](https://www.youtube.com/watch?v=AZoEESSF528)
 * **[4]** [Red Sun](https://www.youtube.com/watch?v=RKBJVdjOHUY) [[H]](Red_Sun_hints.md)
 * [July 7th](https://www.youtube.com/watch?v=7u7vUzgtUlk) [[H]](July_7th_hints.md)

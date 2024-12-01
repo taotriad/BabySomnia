@@ -13,6 +13,7 @@ The music video is inspired by Stanley Kubrick's adaptation of Stephen King's bo
 
 * **Director**: [Digipedi](https://www.imdb.com/name/nm10996650/)
 * **Filmed At**: [NAMA Artcenter](http://thensncompany.com/?page_id=1589)
+* **Choreography**: [Sunny](https://www.instagram.com/switch_sunnyc/)
 
 ## Credits
 
@@ -24,6 +25,10 @@ The music video is inspired by Stanley Kubrick's adaptation of Stephen King's bo
 * **Bass**: Ollounder
 * **Piano**: Sim Jae Hun
 * **Synthesizer**: Leez
+
+## Alternate Versions
+
+[Chase Me (Tennis Court Version)](https://www.youtube.com/watch?v=nJqrNgcKfjI) *(The anti-thesis to the horror concept of the "real" Chase Me MV)*
 
 ## Notes
 

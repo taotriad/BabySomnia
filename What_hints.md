@@ -2,6 +2,10 @@
 
 The wobbling clown might possibly be a modern day counterpart to the spinning top in You and I.
 
+### Other Credits
+
+* **Choreography**: [Sunny](https://www.instagram.com/switch_sunnyc/)
+
 ## Credits
 
 * **Composer**: [Tasco](https://www.discogs.com/artist/6450656-Tasco-5), [Withebest (위다베스트)](https://www.discogs.com/artist/6878912-Withebest), [Kim Hee Won (김희원)](https://www.discogs.com/artist/6878908-%EA%B9%80%ED%9D%AC%EC%9B%90-2)

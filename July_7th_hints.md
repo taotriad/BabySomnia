@@ -12,3 +12,7 @@ A festival called [Chilseok](https://en.wikipedia.org/wiki/Chilseok) is celebrat
 * **Lyrics**: Leez, Ollounder
 * **Backing Vocals**: Siyeon
 * **Keyboards**: Leez
+
+## Alternate Versions
+
+[July 7th Show Champion DIY MV Cam](https://www.youtube.com/watch?v=TtwxuM1JW4A) *(Similar to their other self-made music videos, but this one was released through All the K-Pop, and thus likely to trigger copyright strikes)*

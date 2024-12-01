@@ -1,6 +1,6 @@
 # Poison Love: Hints and details to look out for
 
-The music video was recorded almost entirely in their training room; some scenes appear to be recorded at a music show.
+The music video was recorded almost entirely in their training room; some scenes appear to be recorded at a music show, most likely Show Champion.
 
 ## Credits
 

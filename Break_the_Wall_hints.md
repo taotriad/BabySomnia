@@ -1,6 +1,7 @@
 # Break the Wall: Hints and details to look out for
 
-The music video was completely filmed at the Dreamcatcher Company office.
+The music video seems to mostly have been filmed at the Dreamcatcher Company office.
+Some scenes appear to be recorded at a music show, most likely Show Champion.
 Be sure to check out Dami in the scene where the members surround Gahyun.
 
 ## Credits

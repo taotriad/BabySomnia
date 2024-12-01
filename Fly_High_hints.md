@@ -2,6 +2,10 @@
 
 This video takes place *before* Chase Me.  The events in this video are not chronological.
 
+### Other Credits
+
+* **Choreography**: [Sunny](https://www.instagram.com/switch_sunnyc/)
+
 ## Credits
 
 * **Composer**: [SEION](https://www.discogs.com/artist/4907372-SEION)

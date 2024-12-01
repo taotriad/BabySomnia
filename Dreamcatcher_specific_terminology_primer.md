@@ -41,7 +41,7 @@
 * **[Kei (Kim Ji Yeon)](https://lovelyz.fandom.com/wiki/Kei)**: Soloist. Main vocalist and lead dancer of Lovelyz. Friends with SuA.
 * **[Moonbyul (Moon Byul-yi)](https://mamamoo.fandom.com/wiki/Moon_Byul)**: Soloist. Rapper of Mamamoo. Has invited Dreamcatcher several times to her radio show *Studio Mooon Night*.
 * **[Rolling Quartz](https://kindie.fandom.com/wiki/Rolling_Quartz)**: An K-rock girl group. Their drummer, Yeongeun, has given Handong drumming lessons. Rolling Quartz has released a cover of *Chase Me*.
-* **Ryu Sera**: Ex-leader and main vocalist of the girl group 9Muses. Famously outspoken critic of the K-pop industry, after suffering a lot herself ([9Muses Ryu Sera: Extreme Diet & Trauma Story 2010-2021](https://www.youtube.com/watch?v=I99JYtot560)).
+* **[Ryu Sera](https://www.youtube.com/@TheRyuSera)**: Ex-leader and main vocalist of the girl group 9Muses. Famously outspoken critic of the K-pop industry, after suffering a lot herself ([9Muses Ryu Sera: Extreme Diet & Trauma Story 2010-2021](https://www.youtube.com/watch?v=I99JYtot560)).
   A lot of [Loona](https://loonatheworld.fandom.com/wiki/LOONA) fans recommended Dreamcatcher to her, so she decided to react to them. She quickly went from "I don't usually like rock sound" to being a stan;
   has done [a fantastic interview with Dreamcatcher](https://www.youtube.com/watch?v=P3lxO6LqzSc). Sometimes referred to as president of InSomnia.
 * **[Seungyeon (Chang Seung-yeon)](https://crystalclearclc.fandom.com/wiki/Seungyeon)**: Soloist. Leader and vocalist of CLC. Friends with SuA.
