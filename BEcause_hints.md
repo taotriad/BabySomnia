@@ -37,7 +37,8 @@ which in the context of the lyrics is "the cause of sadness is [that] I love you
   What could possibly make for a better summer song than a horror story?
 * The amusement park that the music video is set in contains a ride called Disco Pang Pang;
   in one scene Handong is seen standing in the middle of it.
-  There's some irony here; early in Dreamcatcher's career (2018?) they got to
-  go to an amusement park (not the abandoned park in the MV, obviously),
+  There's some irony here; early in Dreamcatcher's career (2018?)
+  [they got to go to an amusement park](https://www.youtube.com/watch?v=iRuTKdyY3uo)
+  (not the abandoned park in the MV, obviously),
   where Yoohyeon decided that they should try the Disco Pang Pang.
   Handong *really* hated that experience.
