@@ -73,6 +73,7 @@ Those videos will **NOT** have separate spoiler warnings.
 ![BOCA (choreo version) Screenshot](images/boca_choreography.g.png 'BOCA (choreo version) Screenshot')
 ![BOCA (zombie version) Screenshot](images/boca_zombie.g.png 'BOCA (zombie version) Screenshot')
 ![BOCA (part change version) Screenshot](images/boca_part_change.g.png 'BOCA (part change version) Screenshot')
+![BOCA (relay dance) Screenshot](images/boca_relay_dance.g.png 'BOCA (relay dance) Screenshot')
 ![Odd Eye (relay dance) Screenshot](images/odd_eye_relay_dance.g.png 'Odd Eye (relay dance) Screenshot')
 
 *Note*: While the part change video is listed here, it might be better to wait a bit and watch it once you have learned to
@@ -83,6 +84,7 @@ part of what makes it so funny.
 * **[4]** [BOCA (choreo version)](https://www.youtube.com/watch?v=rfp2bGytsak) *(The full version of the choreography from the music video)*
 * **[3][4]** [BOCA (zombie version)](https://www.youtube.com/watch?v=yAuJuHI00g8)
 * **[3]** [BOCA (dance video, part change version)](https://www.youtube.com/watch?v=8ggaDmDFWfE)
+* **[3][4]** [BOCA (relay dance)](https://www.youtube.com/watch?v=_yOyBK-tGIE) *(This relay dance combines goofiness with crazy choreography; might trigger copyright strikes)*
 * **[3][4]** [Odd Eye (relay dance)](https://www.youtube.com/watch?v=35XIso-DViE) *(This relay dance combines goofiness with crazy choreography; might trigger copyright strikes)*
 
 
@@ -104,7 +106,7 @@ Let's do a few B-sides that will give you a first glimpse of the real people beh
 * [Sahara](https://www.youtube.com/watch?v=BgLhbkKu1s4) *(Self-made MV)* [[H]](Sahara_hints.md)
 * [Poison Love](https://www.youtube.com/watch?v=wKXjvh-wYKY) *(Self-made MV)* [[H]](Poison_Love_hints.md)
 
-If you did **not** enjoy these videos you're unlikely to enjoy their behind-the-scenes, vlogs, vlives, etc.
+If you did **not** enjoy these *videos* you're unlikely to enjoy their behind-the-scenes, vlogs, vlives, etc.
 
 ## [1] Back to A-sides (The Nightmare Era)
 
@@ -311,7 +313,7 @@ By now they have published over 100 B-sides, so this is only a small subset, mai
 ![In the Frozen (Crossroad concert) Screenshot](images/in_the_frozen.g.png 'In The Frozen (Crossroad concert) Screenshot')
 ![Demian Screenshot](images/demian.g.png 'Demian Screenshot')
 
-[5] If women in suits is your thing, both versions of Black or White are for you.
+**[5]** If women in suits is your thing, both versions of Black or White are for you.
 
 * [Mayday](https://www.youtube.com/watch?v=_t9FAYWsUkM) [[H]](Mayday_hints.md)
 * **[4][5]** [Black or White (performance video)](https://www.youtube.com/watch?v=-Q6iOxdsAbw) *(A clear tribute to Michael Jackson; might trigger copyright strikes)*

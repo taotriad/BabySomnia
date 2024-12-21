@@ -20,6 +20,12 @@ In the video several of the members are depicted as being controlled by,
 obsessed by, or addicted to their phones, their computers, TV screens, etc.
 SuA is crying text, Gahyun's face has emojis on it.
 
+Handong looks at her mirror image, then tries to strangle it;
+either she's been bullied to the point where she hates herself
+and wants to kill herself, or she hates who she has become.
+
+Gahyun eventually ends up consumed by fire.
+
 The starting position of the choreography is in the shape of an eye.
 
 Two alternate interpretation exists of the beverage Yoohyeon drinks;
