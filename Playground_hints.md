@@ -1,5 +1,16 @@
 # Playground: Hints and details to look out for
 
+## Music Video
+
+### Cast
+
+* **Gahyun**: Herself
+
+### Other Credits
+
+* **Director**: ?
+* **Choreography**: [S8YN (Hwang Sooyeon) (황수연)](https://kpop.fandom.com/wiki/Hwang_Sooyeon)
+
 ## Credits
 
 * **Composer**: Gahyun, [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Han Soo Seok (한수석)](https://www.discogs.com/artist/9789244-%ED%95%9C%EC%88%98%EC%84%9D)

@@ -2,6 +2,16 @@
 
 The music video was recorded almost entirely in their training room; some scenes appear to be recorded at a music show, most likely Show Champion.
 
+## Music Video
+
+### Cast
+
+* **Dreamcatcher**: Themselves
+
+### Other Credits
+
+* **Director**: Dreamcatcher
+
 ## Credits
 
 * **Composer**: [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Ollounder](https://www.discogs.com/artist/6450665-Ollounder), [Eom Tae Won (엄태원)](https://www.discogs.com/artist/8720464-%EC%97%84%ED%83%9C%EC%9B%90)

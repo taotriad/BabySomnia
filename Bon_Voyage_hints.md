@@ -12,6 +12,7 @@ Maybe she can recover without us messing things up.
 
 ### Other Credits
 
+* **Director**: Yoo Sung-Kyun (Sunny Visual Production)
 * **Choreography**: [S8YN (Hwang Sooyeon) (황수연)](https://kpop.fandom.com/wiki/Hwang_Sooyeon)
 
 ## Credits

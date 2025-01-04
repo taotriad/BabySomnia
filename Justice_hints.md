@@ -14,6 +14,7 @@ One important item in this video references back to the music video for OOTD. Ca
 
 ### Other Credits
 
+* **Director**: 88 Gymnastic Heroes @Keep Us Weird
 * **Choreography**: [S8YN (Hwang Sooyeon) (황수연)](https://kpop.fandom.com/wiki/Hwang_Sooyeon), Kim Keeyeoun, Kang Riye
 
 ## Credits

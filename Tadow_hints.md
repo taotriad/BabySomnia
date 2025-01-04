@@ -1,6 +1,5 @@
 # Tadow: Hints and details to look out for
 
-
 ## Credits
 
 * **Original Artist**: Masego & FKJ

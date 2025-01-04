@@ -12,6 +12,7 @@ however, not necessary to enjoy the music video.
 
 ### Other Credits
 
+* **Director**: Yoo Sung-kyun (Sunny Visual Production)
 * **Choreography**: [S8YN (Hwang Sooyeon) (황수연)](https://kpop.fandom.com/wiki/Hwang_Sooyeon)
 
 ## Credits

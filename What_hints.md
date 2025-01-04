@@ -2,8 +2,15 @@
 
 The wobbling clown might possibly be a modern day counterpart to the spinning top in You and I.
 
+## Music Video
+
+### Cast
+
+* **Dreamcatcher**: Themselves
+
 ### Other Credits
 
+* **Director**: Yoo Sung-Kyun (Sunny Visual Production)
 * **Choreography**: [Sunny](https://www.instagram.com/switch_sunnyc/)
 
 ## Credits

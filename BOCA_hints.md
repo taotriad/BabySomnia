@@ -18,6 +18,7 @@ BOCA means "Mouth" in Spanish & Portuguese. The hand gesture also symbolises a m
 
 ### Other Credits
 
+* **Director**: Yoo Sung-Kyun (Sunny Visual Production)
 * **Choreography**: [S8YN (Hwang Sooyeon) (황수연)](https://kpop.fandom.com/wiki/Hwang_Sooyeon)
 
 ## Credits

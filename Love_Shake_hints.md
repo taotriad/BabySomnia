@@ -12,6 +12,16 @@ It's probably not all that surprising that they didn't have much success.
 Considering that the failure of Minx eventually led to the birth of Dreamcatcher
 one might say that it was kind of lucky.
 
+## Music Video
+
+### Cast
+
+* **Minx**: Themselves
+
+### Other Credits
+
+* **Director**: Choi
+
 ## Credits
 
 * **Composer**: [Kwon Seon Ik (권선익)](https://www.discogs.com/artist/4278003-%EA%B6%8C%EC%84%A0%EC%9D%B5), [Nam Ki Sang (남기상)](https://www.discogs.com/artist/4277959-%EB%82%A8%EA%B8%B0%EC%83%81), [Choi Do Gwan (최도관)](https://www.discogs.com/artist/4277971-%EC%B5%9C%EB%8F%84%EA%B4%80)

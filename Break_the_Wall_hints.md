@@ -4,6 +4,16 @@ The music video seems to mostly have been filmed at the Dreamcatcher Company off
 Some scenes appear to be recorded at a music show, most likely Show Champion.
 Be sure to check out Dami in the scene where the members surround Gahyun.
 
+## Music Video
+
+### Cast
+
+* **Dreamcatcher (without Handong)**: Themselves
+
+### Other Credits
+
+* **Director**: Dreamcatcher
+
 ## Credits
 
 * **Composer**: [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Ollounder](https://www.discogs.com/artist/6450665-Ollounder)

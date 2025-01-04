@@ -11,6 +11,9 @@ Vision is about fighting back, but the music video also alludes to Russia's inva
 
 ### Other Credits
 
+* **Director**: Yoo Sung-Kyun (Sunny Visual Production)
+* **Choreography**: [S8YN (Hwang Sooyeon) (황수연)](https://kpop.fandom.com/wiki/Hwang_Sooyeon)
+
 ## Credits
 
 * **Composer**: [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Ollounder](https://www.discogs.com/artist/6450665-Ollounder), [June One](https://www.discogs.com/artist/11976995-June-One)

@@ -36,4 +36,3 @@ The music video is inspired by Stanley Kubrick's adaptation of Stephen King's bo
   In live performances, as well as the Japanese version, Handong performs it herself. The group has never confirmed if it was changed
   because she didn't have enough lines in the song and thus got one of Siyeon's lines, or if it was her line to begin with but felt too insecure about
   her Korean and didn't feel confident to record it.
-

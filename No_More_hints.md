@@ -1,5 +1,13 @@
 # No More: Hints and details to look out for
 
+## Music Video
+
+The music video is fully animated.
+
+### Other Credits
+
+* **Director**: Pokag3
+
 ## Credits
 
 * **Composer**: [Johan Becker](https://www.discogs.com/artist/572429-Johan-Becker), [Pontus Norgren](https://www.discogs.com/artist/392708-Pontus-Norgren) ([HammerFall](https://www.discogs.com/artist/287459-HammerFall)), [Mårten Sandén](https://www.discogs.com/artist/713592-M%C3%A5rten-Sand%C3%A9n)

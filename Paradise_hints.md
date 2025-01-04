@@ -2,6 +2,17 @@
 
 Siyeon sings a song to her past self (from the Minx era), telling herself that even if things seem bleak things will eventually turn out okay.
 
+## Music Video
+
+### Cast
+
+* **Siyeon**: Herself
+
+### Other Credits
+
+* **Director**: ?
+* **Choreography**: ?
+
 ## Credits
 
 * **Composer**: Siyeon, [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Ollounder](https://www.discogs.com/artist/6450665-Ollounder)

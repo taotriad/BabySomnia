@@ -1,5 +1,9 @@
 # Endless Night: Hints and details to look out for
 
+### Other Credits
+
+* **Director**: Wani
+
 ## Credits
 
 * **Composer**: [Kuboty](https://www.discogs.com/artist/6210880-Kuboty) (ex-[Totalfat](https://www.discogs.com/artist/2736082-TOTALFAT))

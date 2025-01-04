@@ -10,7 +10,7 @@ This also explains the hypnotic mood of both the song and the video, and the sna
 
 ### Cast
 
-* **Dreamcatcher**: Themselves
+* **Dreamcatcher (without Handong)**: Themselves
 
 ### Other Credits
 

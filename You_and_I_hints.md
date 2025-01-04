@@ -3,8 +3,15 @@
 The spinning top on the floor that JiU finds is apparently a reference to a similar item in the movie [Inception](https://www.imdb.com/title/tt1375666/)
 which is used to tell dream from reality. In dreams it spins indefinitely, while in reality it stops after a while.
 
+## Music Video
+
+### Cast
+
+* **Dreamcatcher**: Themselves
+
 ### Other Credits
 
+* **Director**: Yoo Sung-Kyun (Sunny Visual Production)
 * **Choreography**: [Sunny](https://www.instagram.com/switch_sunnyc/)
 
 ## Credits

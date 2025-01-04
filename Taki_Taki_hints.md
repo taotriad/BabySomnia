@@ -1,6 +1,5 @@
 # Taki Taki: Hints and details to look out for
 
-
 ## Credits
 
 * **Original Artist**: DJ Snake ft. Selena Gomez, Ozuna, Cardi B

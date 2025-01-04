@@ -16,6 +16,16 @@ well received it was not a commercial success.
 Anyhow, a lot of band debuted or released successful albums right about the same time,
 so a band from a small company simply couldn't compete.
 
+## Music Video
+
+### Cast
+
+* **Minx**: Themselves
+
+### Other Credits
+
+* **Director**: Kim Se-hee (Korlio)
+
 ## Credits
 
 * **Composer**: [Bull$EyE](https://www.discogs.com/artist/6636025-BULLEYE), [Yammo](https://www.discogs.com/artist/7861438-Yammo)

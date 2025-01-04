@@ -8,6 +8,16 @@ where Music Bank is recorded.
 **Important**: Make sure that you're watching with subtitles and that you follow both what
 happens on-screen and the subtitles. They correlate *very* closely.
 
+## Music Video
+
+### Cast
+
+* **Dreamcatcher (without Handong)**: Themselves
+
+### Other Credits
+
+* **Director**: Dreamcatcher
+
 ## Credits
 
 * **Composer**: [Leez](https://www.discogs.com/artist/6450670-Leez-2), [Ollounder](https://www.discogs.com/artist/6450665-Ollounder)
