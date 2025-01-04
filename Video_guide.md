@@ -130,7 +130,7 @@ Chase Me and Good Night should ideally be watched back to back.
 * [You and I](https://www.youtube.com/watch?v=LFxjwBfFIiY) [[H]](You_and_I_hints.md), [[S]](You_and_I_spoilers.md)
 * [What](https://www.youtube.com/watch?v=pN0dkjp1deQ) [[H]](What_hints.md), [[S]](What_spoilers.md)
 * [Piri](https://www.youtube.com/watch?v=Pq_mbTSR-a0) [[H]](Piri_hints.md), [[S]](Piri_spoilers.md)
-* **[X]** [Breaking Out](https://www.youtube.com/watch?v=SHmOpFbFgrM) [[S]](Breaking_Out_spoilers.md) (Japanese release connected to the Nightmare era)
+* **[X]** [Breaking Out](https://www.youtube.com/watch?v=SHmOpFbFgrM) [[H]](Breaking_Out_hints.md), [[S]](Breaking_Out_spoilers.md) (Japanese release connected to the Nightmare era)
 * **[X]** [The Curse of the Spider (2024 Concert Version)](https://www.youtube.com/watch?v=JUcuTIMTZq4) (B-side connected to the Nightmare era)
 
 ### Alternative versions
