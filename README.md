@@ -99,17 +99,21 @@ and *completely* lack interest in anything music related, there's still
 a whole world of weird and fun stuff to watch. That said, if you didn't
 also check **[9]** the list of material will decrease quite dramatically.
 
-Videos tagged **[3][4]** have very amusing choreography that likely to
+Videos tagged **[3][4]** have very amusing choreography that is likely to
 entertain even though they are centered around music & choreography.
 
 ## [4] Choreography videos
 
 Dreamcatcher's music videos tend to be story driven and contain fairly
-limited amount of choreo, but they still create full choreographies to
-all their title tracks (and quite a few of their B-sides as well).
-The group is quite famous for physically demanding and complex choreography.
-If you're in it for the choreo, make sure to watch relay dance videos,
-dance rehearsals, showcase videos, etc.
+limited amount of choreo; this has caused many reactors to incorrectly assume
+that they go easy on the dancing; this is not the case. It's just that
+in music videos they focus on story.
+
+Dreamcatcher still have full choreographies to all their title tracks
+(and quite a few of their B-sides as well). The group is quite famous
+for physically demanding and complex choreography. If you're in it for
+the choreo, make sure to watch relay dance videos, dance rehearsals,
+showcase videos, live performances, etc.
 
 I'll try to mention extra noteworthy examples (and why they're noteworthy).
 

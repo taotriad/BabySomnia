@@ -9,7 +9,7 @@
 ### Other Credits
 
 * **Director**: Dari
-* **Choreography**: ?
+* **Choreography**: [Sunny](https://www.instagram.com/switch_sunnyc/)
 
 ## Credits
 

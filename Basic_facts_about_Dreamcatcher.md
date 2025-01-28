@@ -32,7 +32,7 @@ check the following two clips:
 ### The members are (ordered by age)
 
 * **JiU** (Kim Min-ji); [Jee-yoo]. Leader, lead vocalist, lead dancer. Born 1994. Calls herself Charisma rabbit (sometimes also Pink Princess). Fighter Name: Daejeon Hurricane. Animal: rabbit (🐰)
-* **SuA** (Kim Bo-ra) [Soo-ah]. Main dancer, vocalist. Used to be lead rapper. Born 1994. Calls herself Queen SuA. Fighter Name: Masan Killer. Animal: crow-tit (🐥)
+* **SuA** (Kim Bo-ra) [Soo-ah]. Main dancer, vocalist. Used to be lead rapper. Born 1994. Calls herself Queen SuA. Fighter Name: Masan Killer. Animal: used to be crow-tit (🐥), currently black cat (🐈)
 * **Siyeon** (Lee Si-yeon) [She-yawn]. Main vocalist. Born 1995. Calls herself Wolfie (due to her intense stare on stage). Fighter Name: Daegu Bloodpool. Animal: wolf (🐺)
 * **Handong** (Han Dong) [Hahn-dong]. Vocalist. Born 1996. Chinese. Calls herself Ice Princess. Fighter Name: Wuhan Poison. Animal: cat (🐱)
 * **Yoohyeon** (Kim Yoo-hyeon) [Yoo-hyawn]. Lead vocalist. Born 1997. Fighter Name: Incheon Firefist. Animal: dog (🐶)
