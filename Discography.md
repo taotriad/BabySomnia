@@ -37,6 +37,7 @@ Solo tracks are marked with the artist in brackets.
 | Bon Voyage (Farewell Version)         | Apocalypse Trilogy | Digital Single | International |                      | 2023-09-14    | 1. **Bon Voyage (Farewell Version)**
 | VersuS: VillainS                      | VersuS Trilogy     | Mini Album     | South Korea   |                      | 2023-11-22    | 1. *Intro: This My Fashion*<br/>2. **OOTD**<br/>3. Rising<br/>4. Shatter<br/>5. We Are Young |
 | VersuS: VirtuouS                      | VersuS Trilogy     | Mini Album     | South Korea   |                      | 2024-07-10    | 1. *Intro: 7\' Dreamcatcher*<br/>2. **Justice**<br/>3. STΦMP!<br/>4. 2 Rings<br/>5. Fireflies |
+| My Christmas Sweet Love               |                    | Special Album  | South Korea   |                      | 2024-12-20    | 1. **My Christmas Sweet Love**<br/>2. Jazz Bar (Carol ver.)<br/>3. Wonderland (Carol ver.) |
 
 ## Minx
 
