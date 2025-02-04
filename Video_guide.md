@@ -342,7 +342,8 @@ They have only done covers though; some which are included in the *Covers* secti
 
 All members have made at least one solo, published on Dreamcatcher's album Apocalypse: Save Us. SuA, Siyeon, Handong, and Dami have separate solo releases.
 
-*Note:* since Siyeon and Dami have published quite a lot more solo releases than the rest of the members this list only includes a representative subset.
+*Note:* Since Siyeon and Dami have published quite a lot more solo releases than the rest of the members this list only includes a representative subset.  
+*Note:* While Start Over technically is a cover, it's been listed as a solo release since it got an official music video and a single release.
 
 ### Music videos
 
@@ -370,7 +371,7 @@ All members have made at least one solo, published on Dreamcatcher's album Apoca
 * **[4]** [SuA: No Dot](https://www.youtube.com/watch?v=oxPyRRKEtHI) [[H]](No_Dot_hints.md)
 * [SuA: Feel Alive](https://www.youtube.com/watch?v=QZtMAXFSlZ0)
 * [Siyeon: Paradise](https://www.youtube.com/watch?v=BuaGs9W6Un8) [Paradise Piano Version](https://www.youtube.com/watch?v=tQQ4HO_5-v8) [Paradise: Black Version](https://www.youtube.com/watch?v=6TyOvuMWGSQ) [Paradise: White Version](https://www.youtube.com/watch?v=Za1tWSLbNYo) [[H]](Paradise_hints.md)
-* [Siyeon: Start Over](https://www.youtube.com/watch?v=YlNQFvpjwYU)
+* [Siyeon: Start Over](https://www.youtube.com/watch?v=YlNQFvpjwYU) [[H]](Start_Over_hints.md)
 * [Siyeon: Good Sera](https://www.youtube.com/watch?v=Vquzh9HKjlw) *(OST for the K-drama Into the Ring)*
 * [Siyeon and Dami: Shadow](https://www.youtube.com/watch?v=KzOiPkBRLEo) [Siyeon and Dami: Shadow (Slow Version)](https://www.youtube.com/watch?v=Cafd39K_MmQ) *(**Trigger warning**: If you don't like horror/zombies, don't watch. Likewise if you cannot handle hauntingly beautiful singing. OST for the K-drama Dark Hole)*
 * [Handong: First Light of Dawn](https://www.youtube.com/watch?v=WztTaJBB_R8)
