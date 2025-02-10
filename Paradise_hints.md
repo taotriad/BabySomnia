@@ -7,6 +7,7 @@ Siyeon sings a song to her past self (from the Minx era), telling herself that e
 ### Cast
 
 * **Siyeon**: Herself
+* **Pianist** (Piano version): Jae Seong (재성) from CLASSMATE (클래스메이트)
 
 ### Other Credits
 
