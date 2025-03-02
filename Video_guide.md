@@ -87,6 +87,9 @@ part of what makes it so funny.
 * **[3][4]** [BOCA (relay dance)](https://www.youtube.com/watch?v=_yOyBK-tGIE) *(This relay dance combines goofiness with crazy choreography; might trigger copyright strikes)*
 * **[3][4]** [Odd Eye (relay dance)](https://www.youtube.com/watch?v=35XIso-DViE) *(This relay dance combines goofiness with crazy choreography; might trigger copyright strikes)*
 
+### Related videos
+
+* **[4]** [Dreamcatcher's choreographer Sooyeon explains the Scream choreography](https://www.youtube.com/watch?v=zTmTqCYymBg)
 
 ## Interlude: Self-made MVs for awesome B-sides
 
