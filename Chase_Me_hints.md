@@ -13,7 +13,7 @@ The music video is inspired by Stanley Kubrick's adaptation of Stephen King's bo
 
 * **Director**: [Digipedi](https://www.imdb.com/name/nm10996650/)
 * **Filmed At**: [NAMA Artcenter](http://thensncompany.com/?page_id=1589)
-* **Choreography**: [Sunny](https://www.instagram.com/switch_sunnyc/)
+* **Choreography**: [Choi Sun-Hi (Sunny)](https://www.instagram.com/switch_sunnyc/)
 
 ## Credits
 

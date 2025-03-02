@@ -11,7 +11,7 @@ The wobbling clown might possibly be a modern day counterpart to the spinning to
 ### Other Credits
 
 * **Director**: Yoo Sung-Kyun (Sunny Visual Production)
-* **Choreography**: [Sunny](https://www.instagram.com/switch_sunnyc/)
+* **Choreography**: [Choi Sun-Hi (Sunny)](https://www.instagram.com/switch_sunnyc/)
 
 ## Credits
 

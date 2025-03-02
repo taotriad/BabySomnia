@@ -5,7 +5,7 @@ This video takes place *before* Chase Me.  The events in this video are not chro
 ### Other Credits
 
 * **Director**: Yoo Sung-kyun (Sunny Visual Production)
-* **Choreography**: [Sunny](https://www.instagram.com/switch_sunnyc/)
+* **Choreography**: [Choi Sun-Hi (Sunny)](https://www.instagram.com/switch_sunnyc/)
 
 ## Credits
 

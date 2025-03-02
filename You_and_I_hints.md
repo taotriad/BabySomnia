@@ -12,7 +12,7 @@ which is used to tell dream from reality. In dreams it spins indefinitely, while
 ### Other Credits
 
 * **Director**: Yoo Sung-Kyun (Sunny Visual Production)
-* **Choreography**: [Sunny](https://www.instagram.com/switch_sunnyc/)
+* **Choreography**: [Choi Sun-Hi (Sunny)](https://www.instagram.com/switch_sunnyc/)
 
 ## Credits
 
