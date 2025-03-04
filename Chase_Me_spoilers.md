@@ -69,8 +69,7 @@ Jan le Boër, on the other hand, is trickier to explain. Maybe just because of t
   Customarily when wearing a yukata the left side is always
   wrapped over the right side. However, in this music video they wear the right side over the left.
   Right to left closure is *only* worn by the deceased.
-* The room number *808* could either be a reference to the police code for "Disturbing the peace",
-  or the famous Roland TR-808 Drum Machine.
+* The room number *808* could be a reference to the famous Roland TR-808 Drum Machine.
 
 ## Extra material
 

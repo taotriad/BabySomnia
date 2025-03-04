@@ -246,6 +246,9 @@ Not all Dreamcatcher releases belong to story archs, let us catch up with the no
 ![Interview with JiU before Vision comeback Screenshot](images/interview_with_jiu_before_vision_comeback.g.png 'Interview with JiU before Vision comeback Screenshot')
 
 * **[S][1][6]** [Interview with JiU before Vision comeback](https://www.youtube.com/watch?v=UnVwsSP3_30) *(JiU talks about her and the group's career)*
+* **[S][6]** [Dreamcatcher Interview with Fan Questions before Vision comeback](https://www.youtube.com/watch?v=aJBj_2PUylU) *(The group answers to questions submitted by fans)*
+* **[3]** [Who Is the Group Behind Me? Episode 3: Dreamcatcher](https://www.youtube.com/watch?v=T9JDhOFoIUM)
+* **[4]** [Dreamcatcher's choreographer Sooyeon explains the Vision choreography](https://www.youtube.com/watch?v=Ir5DXb_8Rlk)
 
 ## [1] VersuS Duology
 
