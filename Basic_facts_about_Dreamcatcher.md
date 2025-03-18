@@ -6,12 +6,16 @@
 * Most of their title tracks are pop/rock with other influences mixed in.
 * Almost all their songs are composed by the same duo; **Ollounder** (Oh Jong Hoon) & **Leez** (Lee Soo Min).
 * Leez left the company in 2022 when offered an exclusive contract with Hi-Hat Co., Ltd as music director.
+* Ollounder left the company in 2024 to focus on his band, Parameter.
 * Rock isn't very popular in South Korea, at least partially related to the "Rux scandal". Feel free to read about it, but watching any videos you might find is not recommended.
 * Their company used to be called Happy Face Entertainment (HFE; logotype: a red smiling face). Nowadays it's called Dreamcatcher Company (DCC).
 * The official fan club is called InSomnia.
 * InSomnia has a reputation for being helpful (and thankful!) towards reactors and welcoming towards newcomers. This guide aims to continue that tradition.
   That said, as the fandom has grown, inevitably there has been a surge of both sasaengs and toxic fans.
 * The leader of Dreamcatcher, JiU, has said that she would want to collaborate with all girl groups. It stands to reason that any good InSomnia should behave well towards other fandoms.
+* In February 2025 it was announced that Handong, Dami, and Gahyun would not extend their contracts with Dreamcatcher Company, but that they will remain members of Dreamcatcher.
+  Dami intends to go solo (presumably mostly as a producer and composer), while Gahyun has stated that she wants to become an actress. Handong has not yet expressed future plans,
+  but it's likely that she will move back home to China.
 
 ## About the members
 
@@ -46,7 +50,8 @@ word that sounds similar that means poop. Handong herself has pronounced her own
 ### Nightmares / phobias
 
 During the Nightmare era each member had a nightmare/fear assigned to them. Some of these fears were referenced in music videos,
-while the rest has only been mentioned in lore.
+while the rest has only been mentioned in lore. Note that the phobias are only relevant in the Nightmare era.
+They are not actual phobias that the members suffer from.
 
 * **JiU**: Diokophobia (Fear of being chased)
 * **SuA**: Merinthophobia (Fear of being restrained)
@@ -65,7 +70,7 @@ while the rest has only been mentioned in lore.
 ## Dorm life
 
 * Initially JiU, Siyeon, and Dami shared a dorm room; JiU & Siyeon shared a bunk bed (JiU top bunk, Siyeon bottom bunk), Dami had a separate bed.
-  SuA and Yoohyeon had the second room (Yoohyeon top bunk, SuA bottom bunk). Handong and Gahyun had the third room (Handong top bunk, Gahyun bottom bunk). One of their managers stayed in the fourth room.
+  SuA and Yoohyeon had the second room (Yoohyeon top bunk, SuA bottom bunk). Handong and Gahyun had the third room (Handong bottom bunk, Gahyun top bunk). One of their managers stayed in the fourth room.
 * Sometime in 2020 the manager moved out and Dami got that room to herself; JiU and Siyeon got their own beds.
 * A lot of their vlives, especially during Covid-19, were either recorded in the lower bunks in their rooms, directly on the floor with the camera facing their closets, or in the hallway in the closet area.
 * For a long, long time their dorm didn't have a sofa. When watching TV they were either sitting on the floor or on a gigantic (Dami-sized) teddy bear that they got early on from a fan.

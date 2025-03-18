@@ -183,6 +183,7 @@ If you're interested this is probably the right opportunity to watch their debut
 
 * [Why Did You Come to My Home?](https://www.youtube.com/watch?v=wqiEAod0LYI) [[H]](Why_Did_You_Come_to_My_Home_hints.md) *(Minx' debut single)*
 * [Love Shake](https://www.youtube.com/watch?v=iLXyoC2HRgY) [[H]](Love_Shake_hints.md) *(Minx' only comeback)*
+* **[X]** [Why Did You Come to My Home?](https://www.youtube.com/watch?v=fR8JEkkhBV4) *(Self-made MV)*
 * **[X]** [Love Shake (Dreamcatcher 2022 version)](https://www.youtube.com/watch?v=J4etNPsb344) *(Gahyun finally got her wish granted; a Dreamcatcher performance of Love Shake)*
 * **[X]** [Love Shake, original version by Dal★Shabet](https://www.youtube.com/watch?v=ydd5eDJVgjw)
 
@@ -343,7 +344,12 @@ By now they have published over 100 B-sides, so this is only a small subset, mai
 
 ## [8] Solos and Sub-units
 
-Dreamcatcher only has one (semi-)official subunit; Yaja Time. Bong (SuA; maknae, vocals), Nibal (Siyeon, rapper, vocals), and Tafe (Yoohyeon; leader, vocals).
+In February 2024 it was announced that 3 of the members (Handong, Dami, and Gahyun) would not renew their contracts with Dreamcatcher Company (DCC),
+but that they would remain part of Dreamcatcher. It was also announced that a formal subunit with JiU, SuA, and Yoohyeon would debut,
+and that Siyeon would engage in band activities. The end of the contract period for the 3 members that leave the company is 31st of March;
+after that we'll see when there will be subunit/solo releases.
+
+Dreamcatcher also has one semi-official subunit; Yaja Time. Bong (SuA; maknae, vocals), Nibal (Siyeon, rapper, vocals), and Tafe (Yoohyeon; leader, vocals).
 They have only done covers though; some which are included in the *Covers* section. Dami and Siyeon have made one OST together. JiU and Yoohyeon have made one OST together.
 
 All members have made at least one solo, published on Dreamcatcher's album Apocalypse: Save Us. SuA, Siyeon, Handong, and Dami have separate solo releases.
