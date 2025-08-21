@@ -58,7 +58,7 @@ These artworks represent the certainty of death and the brevity of life.
 ### Note on choice of literature
 
 The subtitle of Never Goin' Back is not included on the spine,
-so that book was probably included for it's title.
+so that book was probably included for its title.
 Retreat, Hell! is a book about the Korean war, so it has a connection
 to Korea, but it, too, was probably picked for its title.
 Jan le Boër, on the other hand, is trickier to explain. Maybe just because of the beautiful cover?
