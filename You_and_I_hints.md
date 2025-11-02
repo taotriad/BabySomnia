@@ -20,7 +20,7 @@ which is used to tell dream from reality. In dreams it spins indefinitely, while
 * **Arranger**: Leez, Ollounder
 * **Lyrics**: Dami, Leez, Ollounder
 * **Backing Vocals**: Siyeon, Leez
-* **Guitar**: [Kim Tae Hoon (김태훈)](https://www.discogs.com/artist/6450661-%EA%B9%80%ED%83%9C%ED%9B%88)
+* **Guitar**: [Kim Tae-Hoon (김태훈)](https://www.discogs.com/artist/6450661-%EA%B9%80%ED%83%9C%ED%9B%88)
 * **Bass**: Leez
 * **Drums**: Leez
 * **Keyboards**: Ollounder

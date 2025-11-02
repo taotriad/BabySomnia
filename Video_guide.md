@@ -524,8 +524,8 @@ That said, even with context included a lot of things just cannot be explained.
 Dreamcatcher *loves* food, and unlike most companies Dreamcatcher Company (ex Happyface Entertainment) doesn't force them to starve.
 Instead the policy is that it's better to stay fit by exercise and eating well.
 
-Different members like different things. The queen of burgers is definitely Gahyun, Siyeon swears by tteokbokki,
-Handong loves hotpot, everyone loves chicken, pork, and steak.
+Different members like different things. The queen of burgers is definitely Gahyun, Siyeon used to swear by tteokbokki (but has, as of 2025,
+converted to fried rice), Handong loves hotpot, everyone loves chicken, pork, and steak.
 
 JiU's favourite food seems to be... Food. She's open to try pretty much everything.
 Including... [Brain pudding](https://www.youtube.com/watch?v=N4RG51Pf3Jc&t=1016s).

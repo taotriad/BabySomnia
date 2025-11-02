@@ -24,3 +24,9 @@ A Piri is a Korean double reed instrument (flute).
 * **Drums**: Ollounder
 * **Keyboards**: Ollounder
 * **Synthesizer**: Leez
+
+## Trivia
+
+* This is the last MV choreographed by Choi Sun-Hi; after this she was permanently contracted by SM Entertainment.
+* The central whistle sample used in this song is Whistle 01 (Dm) 85bpm from Sounds of KSHMR Vol. 2; it has been used in several other K-pop songs,
+  though never as prominently.

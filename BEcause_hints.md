@@ -31,7 +31,7 @@ which in the context of the lyrics is "the cause of sadness is [that] I love you
 * Enjoy JiU and (especially) Gahyun's facial expressions in this music video.
 * The abandoned amusement park used for the music video is [Yongma Land](https://en.wikipedia.org/wiki/Yongma_Land) in Jungnang District, Seoul.
   The park has been used in [multiple other K-pop videos](https://www.reddit.com/r/dreamcatcher/comments/p0t5dt/yongma_land_kpop_idols/).
-* This is Dreamcatcher's interpretation of summer song. Normally summer songs from Kpop bands
+* This is Dreamcatcher's interpretation of a summer song. Normally summer songs from K-pop bands
   deal with water, sun, dancing, etc. But this is Dreamcatcher we're talking about.
   In South Korea it's traditional to tell horror stories during summer, since getting the chills
   is supposed to help cool you down when it's hot weather.

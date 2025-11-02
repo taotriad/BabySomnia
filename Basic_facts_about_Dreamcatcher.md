@@ -6,7 +6,7 @@
 * Most of their title tracks are pop/rock with other influences mixed in.
 * Almost all their songs are composed by the same duo; **Ollounder** (Oh Jong Hoon) & **Leez** (Lee Soo Min).
 * Leez left the company in 2022 when offered an exclusive contract with Hi-Hat Co., Ltd as music director.
-* Ollounder left the company in 2024 to focus on his band, Parameter.
+* Ollounder left the company in 2024 to focus on his band, [Parameter](https://www.youtube.com/@bandparameter).
 * Rock isn't very popular in South Korea, at least partially related to the "Rux scandal". Feel free to read about it, but watching any videos you might find is not recommended.
 * Their company used to be called Happy Face Entertainment (HFE; logotype: a red smiling face). Nowadays it's called Dreamcatcher Company (DCC).
 * The official fan club is called InSomnia.
@@ -37,7 +37,7 @@ check the following two clips:
 
 * **JiU** (Kim Min-ji); [Jee-yoo]. Leader, lead vocalist, lead dancer. Born 1994. Calls herself Charisma rabbit (sometimes also Pink Princess). Fighter Name: Daejeon Hurricane. Animal: rabbit (🐰)
 * **SuA** (Kim Bo-ra) [Soo-ah]. Main dancer, vocalist. Used to be lead rapper. Born 1994. Calls herself Queen SuA. Fighter Name: Masan Killer. Animal: used to be crow-tit (🐥), currently black cat (🐈)
-* **Siyeon** (Lee Si-yeon) [She-yawn]. Main vocalist. Born 1995. Calls herself Wolfie (due to her intense stare on stage). Fighter Name: Daegu Bloodpool. Animal: wolf (🐺)
+* **Siyeon** (Lee Si-yeon) [She-yawn]. Main vocalist. Born 1995. Calls herself Wolfie (due to her intense stare on stage). Fighter Name: Daegu Bloodpool. Animal: wolf (🐺). Has a tendency to behave like (and speak like) an alien, so she's also nicknamed Captain Wek.
 * **Handong** (Han Dong) [Hahn-dong]. Vocalist. Born 1996. Chinese. Calls herself Ice Princess. Fighter Name: Wuhan Poison. Animal: cat (🐱)
 * **Yoohyeon** (Kim Yoo-hyeon) [Yoo-hyawn]. Lead vocalist. Born 1997. Fighter Name: Incheon Firefist. Animal: dog (🐶)
 * **Dami** (Lee Yu-bin) [Dah-mee]. Main rapper, lead dancer. Born 1997. Calls herself panda. Fighter Name: Gunpo Insanity. Animal: panda (🐼)
@@ -65,6 +65,7 @@ They are not actual phobias that the members suffer from.
 *Note*: Mazeophobia is not a clinically accepted term, but it seems to be fairly common.
 
 * [Welcome to the Dreamworld Teaser](https://www.youtube.com/watch?v=69Vil66srSU) *The teaser for Dreamcatcher's first concert, Welcome to the Dreamworld, references all their nightmares*
+* [Dreamcatcher Story 7 Nightmares](https://www.youtube.com/watch?v=21M1pImyS8s) *Excerpt from interview 4 days after debut; also talks about their nightmares*
 
 
 ## Dorm life

@@ -29,3 +29,4 @@ however, not necessary to enjoy the music video.
 ## Notes
 
 * Dreamcatcher also made an opening song (Eclipse) for the anime spin-off King's Raid: Successors of the Will.
+* This was the first Dreamcatcher MV choreographed by Hwang Sooyeon.
