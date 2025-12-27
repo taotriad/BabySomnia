@@ -24,10 +24,10 @@ without fourth wall breakage.
 
 ## Artworks
 
-* [Hero and Leander](https://www.artnet.com/artists/salvator-rosa/hero-and-leander-IxQbUklfZdtu8i2GMjMwTA2) ([Salvator Rosa](https://en.wikipedia.org/wiki/Salvator_Rosa)): Greek mythology
-* [Hero](https://useum.org/artwork/Hero-Edward-Burne-Jones) ([Edward Burne-Jones](https://en.wikipedia.org/wiki/Edward_Burne-Jones)): Also based on the same mythology as Hero and Leander
-* [Valkyrie and a Dying Hero](https://www.worldhistory.org/image/14595/valkyrie-and-a-dying-hero/) ([Hans Makart](https://en.wikipedia.org/wiki/Hans_Makart)): Norse mythology
-* [Justice](https://artvee.com/dl/sketch-for-mosaic-wisconsin-state-capital-justice/) ([Kenyon Cox](https://en.wikipedia.org/wiki/Kenyon_Cox))
+* [Hero and Leander](https://www.artnet.com/artists/salvator-rosa/hero-and-leander-IxQbUklfZdtu8i2GMjMwTA2) ([Salvator Rosa](https://en.wikipedia.org/wiki/Salvator_Rosa)): Greek mythology, 17th century
+* [Hero](https://useum.org/artwork/Hero-Edward-Burne-Jones) ([Edward Burne-Jones](https://en.wikipedia.org/wiki/Edward_Burne-Jones)): Also based on the same mythology as Hero and Leander, 19th century
+* [Valkyrie and a Dying Hero](https://www.worldhistory.org/image/14595/valkyrie-and-a-dying-hero/) ([Hans Makart](https://en.wikipedia.org/wiki/Hans_Makart)): Norse mythology, 19th century
+* [Justice](https://artvee.com/dl/sketch-for-mosaic-wisconsin-state-capital-justice/) ([Kenyon Cox](https://en.wikipedia.org/wiki/Kenyon_Cox)), ca 1912
 
 ### Note on choice of artworks
 
