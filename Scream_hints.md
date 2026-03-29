@@ -20,7 +20,7 @@ The tree seen in the beginning and at other points throughout this video and in 
 
 [Photo with Scream cast](https://x.com/hf_dreamcatcher/status/1236567590547255296/photo/4)
 
-**Help**: If you know the identity of the remaining 4 backup dancers, please help (or other credits for the Music Video), please help.
+**Help**: If you know the identity of the remaining 4 backup dancers (or other credits for the Music Video), please help.
 
 ### Other Credits
 

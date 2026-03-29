@@ -43,9 +43,15 @@ check the following two clips:
 * **Dami** (Lee Yu-bin) [Dah-mee]. Main rapper, lead dancer. Born 1997. Calls herself panda. Fighter Name: Gunpo Insanity. Animal: panda (🐼)
 * **Gahyun** (Lee Ga-hyun) [Kah-hyawn]. Lead rapper, vocalist. Born 1999. Fighter Name: Bundang Thornfield. Animal: fox (🦊)
 
-*Note:* Material prior to July 2024 has Gahyun\'s name romanised as Gahyeon; this was done by the agency in an effort to pair her name with Yoohyeon.  
-*Note:* Handong often refers to herself as Dongie or Dong Dong. For a non-native speaker Dong Dong might be a bad idea to use, since there's a Korean
-word that sounds similar that means poop. Handong herself has pronounced her own name wrong a lot of times, with hilarious results.
+> [!NOTE]
+> Material prior to July 2024 has Gahyun\'s name romanised as Gahyeon; this was done by the agency in an effort to pair her name with Yoohyeon.
+
+> [!NOTE]
+> In March 2026 Gahyun signed a contract with Hogiroun Company as an actress; her stage name is **Lee Seoyul**.
+
+> [!NOTE]
+> Handong often refers to herself as Dongie or Dong Dong. For a non-native speaker Dong Dong might be a bad idea to use, since there's a Korean
+> word that sounds similar that means poop. Handong herself has pronounced her own name wrong a lot of times, with hilarious results.
 
 ### Nightmares / phobias
 
@@ -61,8 +67,11 @@ They are not actual phobias that the members suffer from.
 * **Dami**: Algophobia (extreme fear of physical pain)
 * **Gahyun**: Basophobia (fear of falling)
 
-*Note*: Diokophobia is not a clinically accepted term, in fact it seems that the term might've been invented by a Reddit user in 2018.
-*Note*: Mazeophobia is not a clinically accepted term, but it seems to be fairly common.
+> [!NOTE]
+> Diokophobia is not a clinically accepted term, in fact it seems that the term might've been invented by a Reddit user in 2018.
+
+> [!NOTE]
+> Mazeophobia is not a clinically accepted term, but it seems to be fairly common.
 
 * [Welcome to the Dreamworld Teaser](https://www.youtube.com/watch?v=69Vil66srSU) *The teaser for Dreamcatcher's first concert, Welcome to the Dreamworld, references all their nightmares*
 * [Dreamcatcher Story 7 Nightmares](https://www.youtube.com/watch?v=21M1pImyS8s) *Excerpt from interview 4 days after debut; also talks about their nightmares*

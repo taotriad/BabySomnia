@@ -13,3 +13,7 @@ Dami continues "And one by one everyone becomes crazy".
 
 After this Siyeon sings "I just wanna make you scream". The victims have been driven so far
 that they, too, become haters.
+
+## External References
+
+* [Dreamcatcher's Dystopian Fight Against Hatred in K-pop and Beyond](https://thelowkeygeek.com/dreamcatchers-dystopian-fight-against-hatred-in-k-pop-and-beyond/)

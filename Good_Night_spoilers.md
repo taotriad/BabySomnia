@@ -31,3 +31,27 @@ During their escape they drop the spell tome.
 * The capes that the girls are wearing in the forest were later released
   as "Dreamcatcher Official Robe ver. 1" on Dreamcatcher's official store.
   Sadly both sizes of the robes are sold out.
+* The book contains the curses in Chapter 5.
+* At 1:00 we see the book open at Gahyun's page; she's falling surrounded by falling books.
+  Immediately after we see this play out.
+* At 1:22 (and then again at 2:31) we can see the book open at SuA's page; she's trapped by trees.
+  The page also has several alchemical symbols visible.
+  The are, from top to bottom:
+  * mercury
+  * tartar
+  * arsenic
+  * cobalt
+  * phosphorus
+  * dissolve
+  We can also see hands at the top and the bottom showing, from left to right:
+  Top:
+  * 3 fingers (index, middle, ring)
+  * 4 fingers (index, middle, ring, little)
+  * 2 fingers (thumb, middle)
+  * 2 fingers (index, little)
+  Bottom:
+  * 2 fingers (index, little)
+  * 2 fingers (thumb, middle)
+  * 4 fingers (index, middle, ring, little)
+  * 3 fingers (index, middle, ring)
+  Finally the page has a heart with an arrow and a some faint symbols I cannot identify.

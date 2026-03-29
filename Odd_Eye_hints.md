@@ -31,3 +31,5 @@ Odd Eye represents See No Evil (🙈).
 ## Notes
 
 * Handong is back in this video.
+
+* [Road to Utopia: The Outcome of Dreamcatcher's Fight Against Online Hatred](https://thelowkeygeek.com/road-to-utopia-the-outcome-of-dreamcatchers-fight-against-online-hatred/)
